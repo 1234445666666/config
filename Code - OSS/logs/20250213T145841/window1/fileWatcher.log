@@ -1,2 +1,0 @@
-2025-02-13 14:58:53.462 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/pasha/.config/Code - OSS/logs/20250211T100837' failed: No such file or directory (EUNKNOWN) (path: /home/pasha)
-2025-02-13 14:58:53.462 [error] [File Watcher (universal)] inotify_add_watch on '/home/pasha/.config/Code - OSS/logs/20250211T100837' failed: No such file or directory

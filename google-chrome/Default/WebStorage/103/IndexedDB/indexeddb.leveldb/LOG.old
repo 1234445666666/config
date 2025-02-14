@@ -1,2 +1,7 @@
-2024/12/12-16:25:03.900 362 Creating DB /home/pasha/.config/google-chrome/Default/WebStorage/103/IndexedDB/indexeddb.leveldb since it was missing.
-2024/12/12-16:25:03.904 362 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/WebStorage/103/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/02/07-10:42:25.950 8e34 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/WebStorage/103/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/02/07-10:42:25.950 8e34 Recovering log #3
+2025/02/07-10:42:25.950 8e34 Reusing old log /home/pasha/.config/google-chrome/Default/WebStorage/103/IndexedDB/indexeddb.leveldb/000003.log 
+2025/02/07-10:42:29.474 8e35 Level-0 table #5: started
+2025/02/07-10:42:29.475 8e35 Level-0 table #5: 902 bytes OK
+2025/02/07-10:42:29.476 8e35 Delete type=0 #3
+2025/02/07-10:42:29.477 8e35 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

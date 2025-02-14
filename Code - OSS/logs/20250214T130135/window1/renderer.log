@@ -1,0 +1,19 @@
+2025-02-14 13:01:36.276 [info] Started local extension host with pid 55576.
+2025-02-14 13:01:36.991 [warning] [redwan-hossain.auto-rename-tag-clone]: Cannot register 'auto-rename-tag.activationOnLanguage'. This property is already registered.
+2025-02-14 13:01:39.142 [info] [perf] Render performance baseline is 74ms
+2025-02-14 13:01:41.187 [warning] Authentication provider codeium_auth was not declared in the Extension Manifest.
+2025-02-14 13:01:42.204 [error] Timed out waiting for authentication provider to register
+2025-02-14 13:01:49.252 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/pasha/.config/Code - OSS/logs/20250213T225225/window1/exthost/output_logging_20250213T225227' failed: No such file or directory (EUNKNOWN) (path: /home/pasha)
+2025-02-14 13:01:49.255 [error] [File Watcher (universal)] inotify_add_watch on '/home/pasha/.config/Code - OSS/logs/20250213T225225/window1/exthost/output_logging_20250213T225227' failed: No such file or directory
+2025-02-14 21:04:25.926 [warning] [backup tracker] suspended, ignoring register event vscode-userdata:/home/pasha/.config/Code%20-%20OSS/User/settings.json 
+2025-02-14 21:04:25.934 [warning] [backup tracker] suspended, ignoring unregister event vscode-userdata:/home/pasha/.config/Code%20-%20OSS/User/settings.json 
+2025-02-14 21:04:25.937 [warning] [backup tracker] suspended, ignoring register event vscode-userdata:/home/pasha/.config/Code%20-%20OSS/User/settings.json 
+2025-02-14 21:04:25.943 [warning] [backup tracker] suspended, ignoring unregister event vscode-userdata:/home/pasha/.config/Code%20-%20OSS/User/settings.json 
+2025-02-14 21:04:25.945 [warning] [backup tracker] suspended, ignoring register event vscode-userdata:/home/pasha/.config/Code%20-%20OSS/User/settings.json 
+2025-02-14 21:04:25.955 [warning] [backup tracker] suspended, ignoring unregister event vscode-userdata:/home/pasha/.config/Code%20-%20OSS/User/settings.json 
+2025-02-14 21:04:27.025 [warning] [backup tracker] suspended, ignoring register event vscode-userdata:/home/pasha/.config/Code%20-%20OSS/User/settings.json 
+2025-02-14 21:04:27.026 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/pasha/.config/polybar/colors.ini 
+2025-02-14 21:04:27.035 [warning] [backup tracker] suspended, ignoring unregister event vscode-userdata:/home/pasha/.config/Code%20-%20OSS/User/settings.json 
+2025-02-14 21:04:27.038 [warning] [backup tracker] suspended, ignoring register event vscode-userdata:/home/pasha/.config/Code%20-%20OSS/User/settings.json 
+2025-02-14 21:04:27.066 [warning] [backup tracker] suspended, ignoring register event vscode-userdata:/home/pasha/.config/Code%20-%20OSS/User/settings.json 
+2025-02-14 21:04:27.079 [warning] [backup tracker] suspended, ignoring unregister event vscode-userdata:/home/pasha/.config/Code%20-%20OSS/User/settings.json 

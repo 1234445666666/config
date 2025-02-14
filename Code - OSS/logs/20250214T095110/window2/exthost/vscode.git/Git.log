@@ -1,0 +1,97 @@
+2025-02-14 09:58:41.926 [info] [main] Log level: Info
+2025-02-14 09:58:41.926 [info] [main] Validating found git in: "git"
+2025-02-14 09:58:41.926 [info] [main] Using git "2.47.1" from "git"
+2025-02-14 09:58:41.926 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-14 09:58:41.926 [info] > git rev-parse --show-toplevel [15ms]
+2025-02-14 09:58:41.926 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-14 09:58:41.926 [info] > git rev-parse --show-toplevel [8ms]
+2025-02-14 09:58:41.926 [info] > git rev-parse --git-dir --git-common-dir [16ms]
+2025-02-14 09:58:41.926 [info] [Model][openRepository] Opened repository: /home/pasha/.config
+2025-02-14 09:58:42.092 [info] > git rev-parse --show-toplevel [149ms]
+2025-02-14 09:58:42.092 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-14 09:58:42.093 [info] > git config --get commit.template [159ms]
+2025-02-14 09:58:42.152 [info] > git rev-parse --show-toplevel [11ms]
+2025-02-14 09:58:42.153 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-02-14 09:58:42.213 [info] > git rev-parse --show-toplevel [29ms]
+2025-02-14 09:58:42.213 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-14 09:58:42.223 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2025-02-14 09:58:42.225 [info] > git rev-parse --show-toplevel [3ms]
+2025-02-14 09:58:42.225 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-14 09:58:42.238 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-14 09:58:42.238 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-14 09:58:42.255 [info] > git rev-parse --show-toplevel [4ms]
+2025-02-14 09:58:42.255 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-14 09:58:42.264 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-14 09:58:42.275 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-02-14 09:58:42.281 [info] [Model][openRepository] Opened repository: /home/pasha/.oh-my-zsh
+2025-02-14 09:58:42.311 [info] > git rev-parse --show-toplevel [8ms]
+2025-02-14 09:58:42.311 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-14 09:58:42.313 [info] > git config --get commit.template [20ms]
+2025-02-14 09:58:42.331 [info] > git rev-parse --show-toplevel [9ms]
+2025-02-14 09:58:42.331 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-14 09:58:42.339 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2025-02-14 09:58:42.340 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-14 09:58:42.340 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-14 09:58:42.368 [info] > git status -z -uall [12ms]
+2025-02-14 09:58:42.374 [info] > git rev-parse --show-toplevel [26ms]
+2025-02-14 09:58:42.374 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-14 09:58:42.382 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+2025-02-14 09:58:42.540 [info] > git status -z -uall [343ms]
+2025-02-14 09:58:42.549 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [143ms]
+2025-02-14 09:58:42.556 [info] > git rev-parse --show-toplevel [174ms]
+2025-02-14 09:58:42.556 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-14 09:58:42.600 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [31ms]
+2025-02-14 09:58:42.608 [info] > git config --local branch.master.vscode-merge-base [51ms]
+2025-02-14 09:58:42.614 [info] > git config --get commit.template [77ms]
+2025-02-14 09:58:42.668 [info] > git check-ignore -v -z --stdin [47ms]
+2025-02-14 09:58:42.670 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [56ms]
+2025-02-14 09:58:42.679 [info] > git config --local branch.main.vscode-merge-base [72ms]
+2025-02-14 09:58:42.680 [warning] [Git][config] git config failed: Failed to execute git
+2025-02-14 09:58:42.687 [info] > git config --get commit.template [88ms]
+2025-02-14 09:58:42.687 [info] > git rev-parse --show-toplevel [95ms]
+2025-02-14 09:58:42.687 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-14 09:58:42.725 [info] > git reflog main --grep-reflog=branch: Created from *. [38ms]
+2025-02-14 09:58:42.732 [info] > git merge-base refs/heads/master refs/remotes/origin/master [53ms]
+2025-02-14 09:58:42.747 [info] > git diff --name-status -z --diff-filter=ADMR 1c34b0e67d4f1dff36a079f31d7dafe8bcf92f6e...refs/remotes/origin/master [8ms]
+2025-02-14 09:58:42.748 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [16ms]
+2025-02-14 09:58:42.748 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-02-14 09:58:42.748 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-02-14 09:58:42.755 [info] > git rev-parse --show-toplevel [38ms]
+2025-02-14 09:58:42.755 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-14 09:58:42.755 [info] [Model][doInitialScan] Initial repository scan completed - repositories (2), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-02-14 09:58:42.768 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [57ms]
+2025-02-14 09:58:42.775 [info] > git show --textconv :neofetch/logo [14ms]
+2025-02-14 09:58:42.775 [info] > git merge-base refs/heads/main refs/remotes/origin/main [21ms]
+2025-02-14 09:58:42.783 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [36ms]
+2025-02-14 09:58:42.785 [info] > git diff --name-status -z --diff-filter=ADMR 29a44e8faf01dbda4e40876c0c8b6e9eac7a8052...refs/remotes/origin/main [3ms]
+2025-02-14 09:58:42.785 [info] > git rev-parse --show-toplevel [11ms]
+2025-02-14 09:58:42.785 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-14 09:58:42.785 [info] > git ls-files --stage -- /home/pasha/.config/neofetch/logo [18ms]
+2025-02-14 09:58:42.811 [info] > git cat-file -s 16b5c245d582bb070e72b8ff62e653952e87084f [21ms]
+2025-02-14 09:58:42.836 [info] > git status -z -uall [31ms]
+2025-02-14 09:58:42.836 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [25ms]
+2025-02-14 09:58:42.898 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [63ms]
+2025-02-14 09:58:42.909 [info] > git blame --root --incremental 29a44e8faf01dbda4e40876c0c8b6e9eac7a8052 -- /home/pasha/.config/neofetch/logo [23ms]
+2025-02-14 09:58:42.997 [info] > git status -z -uall [178ms]
+2025-02-14 09:59:00.666 [info] > git config --get commit.template [10ms]
+2025-02-14 09:59:00.667 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-02-14 09:59:00.685 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-02-14 09:59:00.854 [info] > git status -z -uall [179ms]
+2025-02-14 09:59:07.727 [info] > git config --get commit.template [2ms]
+2025-02-14 09:59:07.736 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-02-14 09:59:07.753 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-02-14 09:59:07.917 [info] > git status -z -uall [174ms]

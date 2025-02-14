@@ -1,0 +1,5 @@
+2025-02-14 10:53:13.860 [info] Started local extension host with pid 33807.
+2025-02-14 10:53:14.384 [warning] [redwan-hossain.auto-rename-tag-clone]: Cannot register 'auto-rename-tag.activationOnLanguage'. This property is already registered.
+2025-02-14 10:53:16.729 [info] [perf] Render performance baseline is 29ms
+2025-02-14 10:53:19.502 [error] Timed out waiting for authentication provider to register
+2025-02-14 10:53:21.307 [warning] Authentication provider codeium_auth was not declared in the Extension Manifest.

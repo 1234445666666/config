@@ -1,0 +1,13 @@
+2025-02-14 11:47:15.622 [info] Started local extension host with pid 39416.
+2025-02-14 11:47:16.043 [warning] [redwan-hossain.auto-rename-tag-clone]: Cannot register 'auto-rename-tag.activationOnLanguage'. This property is already registered.
+2025-02-14 11:47:18.305 [info] [perf] Render performance baseline is 36ms
+2025-02-14 11:47:19.476 [warning] Authentication provider codeium_auth was not declared in the Extension Manifest.
+2025-02-14 11:47:21.174 [error] Timed out waiting for authentication provider to register
+2025-02-14 11:50:30.828 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+    at Timeout.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:3710914)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7)
+2025-02-14 11:51:39.886 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+    at Timeout.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:3710914)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7)

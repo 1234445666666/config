@@ -15,10 +15,16 @@
                 "folderUri": "file:///home/pasha/coding/nextJS"
             },
             {
+                "folderUri": "file:///home/pasha/coding/sharaga/html1"
+            },
+            {
+                "folderUri": "file:///home/pasha"
+            },
+            {
                 "folderUri": "file:///home/pasha/coding/my/mem-card"
             },
             {
-                "folderUri": "file:///home/pasha/coding/sharaga/html1"
+                "folderUri": "file:///home/pasha/.config"
             }
         ],
         "emptyWindows": []
@@ -162,12 +168,56 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/pasha/.config",
+                                        "path": "/home/pasha/.config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/pasha/coding/my/mem-card",
+                                        "path": "/home/pasha/coding/my/mem-card",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/coding/my/mem-card"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/pasha",
+                                        "path": "/home/pasha",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/pasha"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/pasha/coding/sharaga/html1",
                                         "path": "/home/pasha/coding/sharaga/html1",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/coding/sharaga/html1"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/pasha/coding/my/registration-window",
+                                        "path": "/home/pasha/coding/my/registration-window",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/coding/my/registration-window"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -206,56 +256,12 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/pasha/coding/my/mem-card",
-                                        "path": "/home/pasha/coding/my/mem-card",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/coding/my/mem-card"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/pasha",
-                                        "path": "/home/pasha",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/home/pasha"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/pasha/.config",
-                                        "path": "/home/pasha/.config",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
                                         "external": "file:///home/pasha/coding/my/weather",
                                         "path": "/home/pasha/coding/my/weather",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/coding/my/weather"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/pasha/coding/my/registration-window",
-                                        "path": "/home/pasha/coding/my/registration-window",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/coding/my/registration-window"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -338,8 +344,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -349,6 +354,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -990,8 +1002,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1478,9 +1489,8 @@
                 "userSettingsLabel": "ctrl+shift+s"
             },
             "workbench.action.openSettings": {
-                "label": "Ctrl+Shift+.",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+shift+[Slash]"
+                "label": "Ctrl+,",
+                "userSettingsLabel": "ctrl+,"
             },
             "workbench.view.extensions": {
                 "label": "Ctrl+Shift+X",
@@ -1550,9 +1560,8 @@
                 "userSettingsLabel": "ctrl+shift+h"
             },
             "editor.action.commentLine": {
-                "label": "Ctrl+Shift+\\",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+shift+[Backslash]"
+                "label": "Ctrl+/",
+                "userSettingsLabel": "ctrl+/"
             },
             "editor.action.blockComment": {
                 "label": "Ctrl+Shift+A",
@@ -1637,12 +1646,10 @@
             },
             "workbench.action.zoomIn": {
                 "label": "Ctrl+=",
-                "isNative": false,
                 "userSettingsLabel": "ctrl+="
             },
             "workbench.action.zoomOut": {
                 "label": "Ctrl+-",
-                "isNative": false,
                 "userSettingsLabel": "ctrl+-"
             },
             "workbench.action.zoomReset": {
@@ -1653,12 +1660,12 @@
             "workbench.action.splitEditorUp": {
                 "label": "Ctrl+K Ctrl+\\",
                 "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+[Backslash]"
+                "userSettingsLabel": "ctrl+k ctrl+\\"
             },
             "workbench.action.splitEditorInGroup": {
-                "label": "Ctrl+K Ctrl+Shift+/",
+                "label": "Ctrl+K Ctrl+Shift+\\",
                 "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+shift+[IntlBackslash]"
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
             },
             "workbench.action.copyEditorToNewWindow": {
                 "label": "Ctrl+K O",
@@ -1698,14 +1705,16 @@
                 "label": "Ctrl+Shift+Y",
                 "userSettingsLabel": "ctrl+shift+y"
             },
+            "workbench.action.terminal.toggleTerminal": {
+                "label": "Ctrl+`",
+                "userSettingsLabel": "ctrl+`"
+            },
             "workbench.action.navigateBack": {
                 "label": "Ctrl+Alt+-",
-                "isNative": false,
                 "userSettingsLabel": "ctrl+alt+-"
             },
             "workbench.action.navigateForward": {
                 "label": "Ctrl+Shift+-",
-                "isNative": false,
                 "userSettingsLabel": "ctrl+shift+-"
             },
             "workbench.action.navigateToLastEditLocation": {
@@ -1800,9 +1809,8 @@
                 "userSettingsLabel": "ctrl+g"
             },
             "editor.action.jumpToBracket": {
-                "label": "Ctrl+Shift+/",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+shift+[IntlBackslash]"
+                "label": "Ctrl+Shift+\\",
+                "userSettingsLabel": "ctrl+shift+\\"
             },
             "editor.action.marker.nextInFiles": {
                 "label": "F8",
@@ -1860,6 +1868,10 @@
                 "label": "Shift+F9",
                 "userSettingsLabel": "shift+f9"
             },
+            "workbench.action.terminal.new": {
+                "label": "Ctrl+Shift+`",
+                "userSettingsLabel": "ctrl+shift+`"
+            },
             "workbench.action.terminal.split": {
                 "label": "Ctrl+Shift+5",
                 "userSettingsLabel": "ctrl+shift+5"
@@ -1906,14 +1918,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/pasha/coding/sharaga/html1",
-            "backupPath": "/home/pasha/.config/Code - OSS/Backups/4fa5f8b0eb694d9be96cbc246d2a72d2",
+            "folder": "file:///home/pasha/.config",
+            "backupPath": "/home/pasha/.config/Code - OSS/Backups/336dce288977d4f13c7bb8dd3770b207",
             "uiState": {
                 "mode": 0,
                 "x": 30,
-                "y": 60,
+                "y": 20,
                 "width": 1860,
-                "height": 990
+                "height": 1030
             }
         },
         "openedWindows": []

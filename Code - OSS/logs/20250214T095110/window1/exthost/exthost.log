@@ -19,3 +19,5 @@
 2025-02-14 09:51:13.720 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2025-02-14 09:54:12.622 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
 2025-02-14 09:54:14.554 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-02-14 10:58:54.594 [info] Extension host terminating: renderer closed the MessagePort
+2025-02-14 10:58:54.618 [info] Extension host with pid 29171 exiting with code 0

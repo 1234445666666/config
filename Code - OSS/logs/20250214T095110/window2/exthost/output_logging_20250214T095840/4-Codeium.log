@@ -1,0 +1,40 @@
+(VSCode) 2025-02-14 09:58:41.822 [INFO]: No proxy settings found
+(VSCode) 2025-02-14 09:58:42.892 [INFO]: Checking network connection...
+(VSCode) 2025-02-14 09:58:47.873 [INFO]: No Network Issue connecting to https://server.codeium.com/healthz
+(VSCode) 2025-02-14 09:58:51.120 [INFO]: Creating manager directory: /tmp/d680397e-cb62-4224-92df-acd8badd63a6/codeium/manager
+(VSCode) 2025-02-14 09:58:51.423 [INFO]: Using cached LS with valid crc32: /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/f967d079379dbf4f485c8ce9fce1d4fae1c70ede/language_server_linux_x64
+(VSCode) 2025-02-14 09:58:51.430 [INFO]: Language server started
+2025/02/14 09:58:51 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+I0214 09:58:51.500465 30604 main.go:572] [Language Server Manager] Setting GOMAXPROCS to 8
+I0214 09:58:51.500496 30604 main.go:791] [Language Server Manager] Starting language server manager with pid 30604
+I0214 09:58:51.500576 30604 main.go:123] [Language Server Manager] Manager acquired its lock file /tmp/d680397e-cb62-4224-92df-acd8badd63a6/codeium/manager/locks/manager.lock
+I0214 09:58:51.501118 30604 main.go:264] [Language Server Manager] Waiting for random port file in /tmp/d680397e-cb62-4224-92df-acd8badd63a6/codeium/manager/child_random_port_1739516331500697936_6805989947368974902 to be created
+2025/02/14 09:58:51 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+I0214 09:58:51.574312 30617 main.go:572] Setting GOMAXPROCS to 4
+I0214 09:58:51.574374 30617 main.go:785] Starting language server process with pid 30617
+I0214 09:58:51.574418 30617 server.go:221] Language server will attempt to listen on host 127.0.0.1
+I0214 09:58:51.574509 30617 server.go:228] Language server listening on random port at 36449
+I0214 09:58:52.065342 30617 unleash.go:92] Initializing Unleash
+I0214 09:58:52.546701 30617 unleash.go:112] Successfully initialized Unleash
+I0214 09:58:52.547221 30617 server.go:306] Extension server port not specified; skipping extension server client creation
+I0214 09:58:52.578607 30617 web_server.go:258] Chat Web Server listening at ws://127.0.0.1:43467
+I0214 09:58:52.601220 30617 server.go:559] Successfully created API server client
+I0214 09:58:52.629984 30617 server.go:577] Successfully initialized tokenizer
+I0214 09:58:52.681597 30617 server.go:761] Local search is enabled, will index local files.
+I0214 09:58:52.681614 30617 server.go:765] Using 2 indexer workers
+I0214 09:58:52.703296 30617 server.go:854] Successfully created completion provider
+I0214 09:58:52.703318 30617 server.go:905] Child process attempting to acquire lock file /tmp/d680397e-cb62-4224-92df-acd8badd63a6/codeium/manager/locks/child_lock_1739516331500719823_2117705180184704312
+I0214 09:58:52.703350 30617 server.go:913] Child process acquired lock file /tmp/d680397e-cb62-4224-92df-acd8badd63a6/codeium/manager/locks/child_lock_1739516331500719823_2117705180184704312
+I0214 09:58:52.708273 30617 server.go:365] LSP listening on random port at 42853
+42853
+I0214 09:58:52.808807 30604 main.go:300] [Language Server Manager] Found random server port 36449
+I0214 09:58:52.808960 30604 main.go:301] [Language Server Manager] Found random lsp port 42853
+I0214 09:58:52.809019 30604 main.go:308] [Language Server Manager] Attempting to connect to language server at 127.0.0.1:36449
+I0214 09:58:52.824044 30604 main.go:177] [Language Server Manager] Fixing language server port at 36449
+I0214 09:58:52.824097 30604 main.go:360] [Language Server Manager] Successfully connected to new language server at 127.0.0.1:36449
+(VSCode) 2025-02-14 09:58:52.841 [INFO]: Found language server running on port 36449
+(VSCode) 2025-02-14 09:58:53.099 [INFO]: openAllTextDocuments took 37.568403999999646ms
+(VSCode) 2025-02-14 09:59:08.251 [INFO]: Disposing language server process
+(VSCode) 2025-02-14 09:59:08.251 [INFO]: Deleting manager directory: /tmp/d680397e-cb62-4224-92df-acd8badd63a6/codeium/manager
+(VSCode) 2025-02-14 09:59:08.252 [INFO]: Successfully disposed language server
+W0214 09:59:08.251141 30604 main.go:127] [Language Server Manager] Got signal terminated, shutting down

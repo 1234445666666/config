@@ -1,0 +1,10 @@
+2025-02-14 09:58:39.984 [info] Started local extension host with pid 30398.
+2025-02-14 09:58:40.565 [warning] [redwan-hossain.auto-rename-tag-clone]: Cannot register 'auto-rename-tag.activationOnLanguage'. This property is already registered.
+2025-02-14 09:58:42.725 [info] [perf] Render performance baseline is 26ms
+2025-02-14 09:58:42.896 [warning] Authentication provider codeium_auth was not declared in the Extension Manifest.
+2025-02-14 09:58:45.675 [error] Timed out waiting for authentication provider to register
+2025-02-14 09:59:08.248 [warning] [backup tracker] suspended, ignoring unregister event file:///home/pasha/.config/polybar/colors.ini 
+2025-02-14 09:59:08.249 [warning] [backup tracker] suspended, ignoring unregister event file:///home/pasha/.config/polybar/config.ini 
+2025-02-14 09:59:08.249 [warning] [backup tracker] suspended, ignoring unregister event file:///home/pasha/.config/polybar/launch.sh 
+2025-02-14 09:59:08.249 [warning] [backup tracker] suspended, ignoring unregister event file:///home/pasha/.config/i3/config.d/autostart 
+2025-02-14 09:59:08.249 [warning] [backup tracker] suspended, ignoring unregister event file:///home/pasha/.config/i3/config.d/window_settings.conf 

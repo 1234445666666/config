@@ -1,7 +1,13 @@
-2025/02/13-12:36:35.641 80d6 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_lovable.dev_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/13-12:36:35.641 80d6 Recovering log #247
-2025/02/13-12:36:35.641 80d6 Reusing old log /home/pasha/.config/google-chrome/Default/IndexedDB/https_lovable.dev_0.indexeddb.leveldb/000247.log 
-2025/02/13-12:36:35.754 80d7 Level-0 table #252: started
-2025/02/13-12:36:35.756 80d7 Level-0 table #252: 802 bytes OK
-2025/02/13-12:36:35.757 80d7 Delete type=0 #247
-2025/02/13-12:36:35.757 80d7 Manual compaction at level-0 from '\x00G\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00H\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/14-13:11:55.802 338 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_lovable.dev_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/14-13:11:55.802 338 Recovering log #254
+2025/02/14-13:11:55.802 338 Reusing old log /home/pasha/.config/google-chrome/Default/IndexedDB/https_lovable.dev_0.indexeddb.leveldb/000254.log 
+2025/02/14-13:11:55.853 33a Level-0 table #260: started
+2025/02/14-13:11:55.854 33a Level-0 table #260: 15838 bytes OK
+2025/02/14-13:11:55.856 33a Delete type=0 #254
+2025/02/14-13:11:55.857 338 Manual compaction at level-0 from '\x00I\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00J\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/14-21:06:53.565 338 Compacting 1@1 + 1@2 files
+2025/02/14-21:06:53.578 338 Generated table #261@1: 42 keys, 3356 bytes
+2025/02/14-21:06:53.579 338 Compacted 1@1 + 1@2 files => 3356 bytes
+2025/02/14-21:06:53.580 338 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/14-21:06:53.581 338 Delete type=2 #260
+2025/02/14-21:06:53.581 338 Delete type=2 #257

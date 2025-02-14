@@ -1,0 +1,298 @@
+(VSCode) 2025-02-14 13:01:39.615 [INFO]: No proxy settings found
+(VSCode) 2025-02-14 13:01:41.151 [INFO]: Checking network connection...
+(VSCode) 2025-02-14 13:01:41.751 [INFO]: No Network Issue connecting to https://server.codeium.com/healthz
+(VSCode) 2025-02-14 13:01:41.925 [INFO]: Creating manager directory: /tmp/10bb4515-3a22-4dfa-a0de-4248dc9eaf62/codeium/manager
+(VSCode) 2025-02-14 13:01:42.196 [INFO]: Using cached LS with valid crc32: /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/f967d079379dbf4f485c8ce9fce1d4fae1c70ede/language_server_linux_x64
+(VSCode) 2025-02-14 13:01:42.203 [INFO]: Language server started
+2025/02/14 13:01:42 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+I0214 13:01:42.329919 55762 main.go:572] [Language Server Manager] Setting GOMAXPROCS to 8
+I0214 13:01:42.329955 55762 main.go:791] [Language Server Manager] Starting language server manager with pid 55762
+I0214 13:01:42.330030 55762 main.go:123] [Language Server Manager] Manager acquired its lock file /tmp/10bb4515-3a22-4dfa-a0de-4248dc9eaf62/codeium/manager/locks/manager.lock
+I0214 13:01:42.330454 55762 main.go:264] [Language Server Manager] Waiting for random port file in /tmp/10bb4515-3a22-4dfa-a0de-4248dc9eaf62/codeium/manager/child_random_port_1739527302330107913_611040122567743289 to be created
+2025/02/14 13:01:42 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+I0214 13:01:42.456928 55775 main.go:572] Setting GOMAXPROCS to 4
+I0214 13:01:42.457090 55775 main.go:785] Starting language server process with pid 55775
+I0214 13:01:42.457162 55775 server.go:221] Language server will attempt to listen on host 127.0.0.1
+I0214 13:01:42.457335 55775 server.go:228] Language server listening on random port at 36293
+W0214 13:01:47.458843 55775 proxy.go:129] proxy failed to connect: GET https://server.codeium.com/exa.api_server_pb.ApiServerService/GetCompletions giving up after 2 attempt(s): context deadline exceeded
+I0214 13:01:47.458887 55775 unleash.go:92] Initializing Unleash
+I0214 13:01:48.106497 55775 unleash.go:112] Successfully initialized Unleash
+I0214 13:01:48.106784 55775 server.go:306] Extension server port not specified; skipping extension server client creation
+I0214 13:01:48.114478 55775 web_server.go:258] Chat Web Server listening at ws://127.0.0.1:39553
+I0214 13:01:48.127193 55775 server.go:559] Successfully created API server client
+I0214 13:01:48.154094 55775 server.go:577] Successfully initialized tokenizer
+I0214 13:01:48.224391 55775 server.go:761] Local search is enabled, will index local files.
+I0214 13:01:48.224419 55775 server.go:765] Using 2 indexer workers
+I0214 13:01:48.253514 55775 server.go:854] Successfully created completion provider
+I0214 13:01:48.253536 55775 server.go:905] Child process attempting to acquire lock file /tmp/10bb4515-3a22-4dfa-a0de-4248dc9eaf62/codeium/manager/locks/child_lock_1739527302330138117_8157735503581588790
+I0214 13:01:48.253598 55775 server.go:913] Child process acquired lock file /tmp/10bb4515-3a22-4dfa-a0de-4248dc9eaf62/codeium/manager/locks/child_lock_1739527302330138117_8157735503581588790
+I0214 13:01:48.258372 55775 server.go:365] LSP listening on random port at 37961
+37961
+I0214 13:01:48.347714 55762 main.go:300] [Language Server Manager] Found random server port 36293
+I0214 13:01:48.347764 55762 main.go:301] [Language Server Manager] Found random lsp port 37961
+I0214 13:01:48.347776 55762 main.go:308] [Language Server Manager] Attempting to connect to language server at 127.0.0.1:36293
+I0214 13:01:48.359139 55762 main.go:177] [Language Server Manager] Fixing language server port at 36293
+I0214 13:01:48.359151 55762 main.go:360] [Language Server Manager] Successfully connected to new language server at 127.0.0.1:36293
+(VSCode) 2025-02-14 13:01:48.422 [INFO]: Found language server running on port 36293
+(VSCode) 2025-02-14 13:01:48.765 [INFO]: openAllTextDocuments took 44.72904100000051ms
+(VSCode) 2025-02-14 13:03:01.331 [INFO]: Completion request was cancelled by token (448.5ms)
+(VSCode) 2025-02-14 13:03:02.375 [INFO]: Completion request succeeded (992.28ms)
+(VSCode) 2025-02-14 13:03:02.376 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:03:02.377 [INFO]: provideInlineCompletionItems request succeeded (998.09ms)
+(VSCode) 2025-02-14 13:05:22.698 [INFO]: Completion request was cancelled by token (100.01ms)
+(VSCode) 2025-02-14 13:05:22.891 [INFO]: Completion request was cancelled by token (144.6ms)
+(VSCode) 2025-02-14 13:05:23.063 [INFO]: Completion request was cancelled by token (125.94ms)
+(VSCode) 2025-02-14 13:05:23.264 [INFO]: Completion request was cancelled by token (151.82ms)
+(VSCode) 2025-02-14 13:05:23.435 [INFO]: Completion request was cancelled by token (124.18ms)
+(VSCode) 2025-02-14 13:05:23.605 [INFO]: Completion request was cancelled by token (119.24ms)
+(VSCode) 2025-02-14 13:05:23.833 [INFO]: Completion request was cancelled by token (181.73ms)
+(VSCode) 2025-02-14 13:05:24.055 [INFO]: Completion request was cancelled by token (175.49ms)
+(VSCode) 2025-02-14 13:05:25.059 [INFO]: Completion request succeeded (952.15ms)
+(VSCode) 2025-02-14 13:05:25.062 [INFO]: Generated 1 completion
+(VSCode) 2025-02-14 13:05:25.067 [INFO]: provideInlineCompletionItems request succeeded (963.98ms)
+(VSCode) 2025-02-14 13:05:29.289 [INFO]: Completion request was cancelled by token (176.95ms)
+(VSCode) 2025-02-14 13:05:30.112 [INFO]: Completion request succeeded (774.1ms)
+(VSCode) 2025-02-14 13:05:30.115 [INFO]: Generated 2 completions
+(VSCode) 2025-02-14 13:05:30.118 [INFO]: provideInlineCompletionItems request succeeded (781.87ms)
+(VSCode) 2025-02-14 13:05:31.653 [INFO]: Completion request succeeded (926.16ms)
+(VSCode) 2025-02-14 13:05:31.656 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:05:31.657 [INFO]: provideInlineCompletionItems request succeeded (931.32ms)
+(VSCode) 2025-02-14 13:05:45.082 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:05:45.088 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:05:45.143 [INFO]: Completion request succeeded (5.64ms)
+(VSCode) 2025-02-14 13:05:45.143 [INFO]: Skipping completions because the prompt is too short
+(VSCode) 2025-02-14 13:05:45.143 [INFO]: provideInlineCompletionItems request succeeded (6.84ms)
+(VSCode) 2025-02-14 13:05:46.051 [INFO]: Completion request succeeded (666.38ms)
+(VSCode) 2025-02-14 13:05:46.052 [INFO]: Generated 2 completions
+(VSCode) 2025-02-14 13:05:46.053 [INFO]: provideInlineCompletionItems request succeeded (672.14ms)
+(VSCode) 2025-02-14 13:06:28.363 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:06:28.367 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:06:28.426 [INFO]: Completion request succeeded (7.64ms)
+(VSCode) 2025-02-14 13:06:28.427 [INFO]: Skipping completions because the prompt is too short
+(VSCode) 2025-02-14 13:06:28.427 [INFO]: provideInlineCompletionItems request succeeded (10.01ms)
+(VSCode) 2025-02-14 13:06:28.612 [INFO]: Completion request succeeded (6.42ms)
+(VSCode) 2025-02-14 13:06:28.612 [INFO]: Generated 2 completions
+(VSCode) 2025-02-14 13:06:28.613 [INFO]: provideInlineCompletionItems request succeeded (8.05ms)
+(VSCode) 2025-02-14 13:09:44.293 [INFO]: Completion request was cancelled by token (254.18ms)
+(VSCode) 2025-02-14 13:09:44.776 [INFO]: Completion request succeeded (427.25ms)
+(VSCode) 2025-02-14 13:09:44.778 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:09:44.779 [INFO]: provideInlineCompletionItems request succeeded (434.52ms)
+(VSCode) 2025-02-14 13:09:46.858 [INFO]: Completion request was cancelled by token (950.36ms)
+(VSCode) 2025-02-14 13:10:19.650 [INFO]: Completion request was cancelled by token (119.64ms)
+(VSCode) 2025-02-14 13:10:21.108 [INFO]: Completion request succeeded (1405.72ms)
+(VSCode) 2025-02-14 13:10:21.109 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:10:21.109 [INFO]: provideInlineCompletionItems request succeeded (1409.39ms)
+(VSCode) 2025-02-14 13:10:24.997 [INFO]: Completion request was cancelled by token (257.42ms)
+(VSCode) 2025-02-14 13:10:25.766 [INFO]: Completion request was cancelled by token (91.89ms)
+(VSCode) 2025-02-14 13:10:26.297 [INFO]: Completion request succeeded (479.46ms)
+(VSCode) 2025-02-14 13:10:26.300 [INFO]: Generated 1 completion
+(VSCode) 2025-02-14 13:10:26.303 [INFO]: provideInlineCompletionItems request succeeded (488.51ms)
+(VSCode) 2025-02-14 13:10:26.367 [INFO]: Completion request succeeded (9.03ms)
+(VSCode) 2025-02-14 13:10:26.368 [INFO]: Generated 1 completion
+(VSCode) 2025-02-14 13:10:26.370 [INFO]: provideInlineCompletionItems request succeeded (13.55ms)
+(VSCode) 2025-02-14 13:10:28.327 [INFO]: Completion request succeeded (1446.2ms)
+(VSCode) 2025-02-14 13:10:28.329 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:10:28.329 [INFO]: provideInlineCompletionItems request succeeded (1449.58ms)
+(VSCode) 2025-02-14 13:10:31.186 [INFO]: Completion request succeeded (503.27ms)
+(VSCode) 2025-02-14 13:10:31.187 [INFO]: Generated 1 completion
+(VSCode) 2025-02-14 13:10:31.187 [INFO]: provideInlineCompletionItems request succeeded (506.26ms)
+(VSCode) 2025-02-14 13:10:36.117 [INFO]: Completion request succeeded (553.4ms)
+(VSCode) 2025-02-14 13:10:36.120 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:10:36.121 [INFO]: provideInlineCompletionItems request succeeded (558.05ms)
+(VSCode) 2025-02-14 13:10:37.836 [INFO]: Completion request succeeded (1216.47ms)
+(VSCode) 2025-02-14 13:10:37.838 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:10:37.839 [INFO]: provideInlineCompletionItems request succeeded (1219.82ms)
+(VSCode) 2025-02-14 13:10:38.648 [INFO]: Completion request was cancelled by token (443.79ms)
+(VSCode) 2025-02-14 13:10:39.433 [INFO]: Completion request was cancelled by token (737.52ms)
+(VSCode) 2025-02-14 13:10:49.044 [INFO]: Completion request was cancelled by token (753.04ms)
+(VSCode) 2025-02-14 13:10:50.176 [INFO]: Completion request succeeded (1083.43ms)
+(VSCode) 2025-02-14 13:10:50.179 [INFO]: Generated 3 completions
+(VSCode) 2025-02-14 13:10:50.180 [INFO]: provideInlineCompletionItems request succeeded (1090.23ms)
+(VSCode) 2025-02-14 13:16:27.856 [INFO]: Completion request was cancelled by token (249.41ms)
+(VSCode) 2025-02-14 13:16:28.162 [INFO]: Completion request was cancelled by token (127.44ms)
+(VSCode) 2025-02-14 13:16:28.334 [INFO]: Completion request was cancelled by token (126.55ms)
+(VSCode) 2025-02-14 13:16:28.493 [INFO]: Completion request was cancelled by token (112.53ms)
+(VSCode) 2025-02-14 13:16:28.649 [INFO]: Completion request was cancelled by token (110.68ms)
+(VSCode) 2025-02-14 13:16:28.797 [INFO]: Completion request was cancelled by token (103.01ms)
+(VSCode) 2025-02-14 13:16:30.060 [INFO]: Completion request succeeded (1215.89ms)
+(VSCode) 2025-02-14 13:16:30.062 [INFO]: Generated 1 completion
+(VSCode) 2025-02-14 13:16:30.065 [INFO]: provideInlineCompletionItems request succeeded (1221.67ms)
+(VSCode) 2025-02-14 13:16:31.632 [INFO]: Completion request succeeded (956.44ms)
+(VSCode) 2025-02-14 13:16:31.634 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:16:31.635 [INFO]: provideInlineCompletionItems request succeeded (959.98ms)
+(VSCode) 2025-02-14 13:16:45.766 [INFO]: Completion request succeeded (847.63ms)
+(VSCode) 2025-02-14 13:16:45.768 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:16:45.769 [INFO]: provideInlineCompletionItems request succeeded (853.84ms)
+(VSCode) 2025-02-14 13:17:37.046 [INFO]: Completion request was cancelled by token (216.01ms)
+(VSCode) 2025-02-14 13:17:38.432 [INFO]: Completion request succeeded (1336.93ms)
+(VSCode) 2025-02-14 13:17:38.433 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:17:38.433 [INFO]: provideInlineCompletionItems request succeeded (1338.76ms)
+(VSCode) 2025-02-14 13:22:10.609 [INFO]: Completion request succeeded (511.34ms)
+(VSCode) 2025-02-14 13:22:10.612 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:22:10.612 [INFO]: provideInlineCompletionItems request succeeded (516.3ms)
+(VSCode) 2025-02-14 13:22:11.513 [INFO]: Completion request succeeded (695.44ms)
+(VSCode) 2025-02-14 13:22:11.516 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:22:11.517 [INFO]: provideInlineCompletionItems request succeeded (699.66ms)
+(VSCode) 2025-02-14 13:22:43.395 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:22:43.470 [INFO]: Completion request succeeded (17.95ms)
+(VSCode) 2025-02-14 13:22:43.471 [INFO]: Skipping completions because the prompt is too short
+(VSCode) 2025-02-14 13:22:43.472 [INFO]: provideInlineCompletionItems request succeeded (22.07ms)
+(VSCode) 2025-02-14 13:22:44.558 [INFO]: Completion request was cancelled by token (894.63ms)
+(VSCode) 2025-02-14 13:23:05.511 [INFO]: Completion request was cancelled by token (103.68ms)
+(VSCode) 2025-02-14 13:23:06.131 [INFO]: Completion request was cancelled by token (575.75ms)
+(VSCode) 2025-02-14 13:23:08.245 [INFO]: Completion request was cancelled by token (132.56ms)
+(VSCode) 2025-02-14 13:23:08.376 [INFO]: Completion request was cancelled by token (84.94ms)
+(VSCode) 2025-02-14 13:23:08.622 [INFO]: Completion request was cancelled by token (196.48ms)
+(VSCode) 2025-02-14 13:23:09.395 [INFO]: Completion request succeeded (721.23ms)
+(VSCode) 2025-02-14 13:23:09.396 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:23:09.396 [INFO]: provideInlineCompletionItems request succeeded (725.19ms)
+(VSCode) 2025-02-14 13:23:19.948 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:23:20.022 [INFO]: Completion request succeeded (15.71ms)
+(VSCode) 2025-02-14 13:23:20.023 [INFO]: Skipping completions because the prompt is too short
+(VSCode) 2025-02-14 13:23:20.024 [INFO]: provideInlineCompletionItems request succeeded (20.55ms)
+(VSCode) 2025-02-14 13:23:21.312 [INFO]: Completion request succeeded (1025.17ms)
+(VSCode) 2025-02-14 13:23:21.314 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:23:21.315 [INFO]: provideInlineCompletionItems request succeeded (1029.98ms)
+(VSCode) 2025-02-14 13:23:40.971 [INFO]: Completion request succeeded (5.69ms)
+(VSCode) 2025-02-14 13:23:40.971 [INFO]: Skipping completions because the prompt is too short
+(VSCode) 2025-02-14 13:23:40.972 [INFO]: provideInlineCompletionItems request succeeded (7.32ms)
+(VSCode) 2025-02-14 13:23:56.378 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:23:56.382 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:23:56.442 [INFO]: Completion request succeeded (6.28ms)
+(VSCode) 2025-02-14 13:23:56.442 [INFO]: Skipping completions because the prompt is too short
+(VSCode) 2025-02-14 13:23:56.442 [INFO]: provideInlineCompletionItems request succeeded (7.65ms)
+(VSCode) 2025-02-14 13:25:39.487 [INFO]: Completion request succeeded (715.82ms)
+(VSCode) 2025-02-14 13:25:39.488 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:25:39.489 [INFO]: provideInlineCompletionItems request succeeded (721.53ms)
+(VSCode) 2025-02-14 13:26:01.136 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:26:01.138 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:26:01.199 [INFO]: Completion request succeeded (4.83ms)
+(VSCode) 2025-02-14 13:26:01.200 [INFO]: Skipping completions because the prompt is too short
+(VSCode) 2025-02-14 13:26:01.200 [INFO]: provideInlineCompletionItems request succeeded (7.53ms)
+(VSCode) 2025-02-14 13:26:16.935 [INFO]: Completion request succeeded (18.59ms)
+(VSCode) 2025-02-14 13:26:16.936 [INFO]: Skipping completions because the prompt is too short
+(VSCode) 2025-02-14 13:26:16.937 [INFO]: provideInlineCompletionItems request succeeded (22.84ms)
+(VSCode) 2025-02-14 13:27:13.588 [INFO]: Completion request succeeded (4.46ms)
+(VSCode) 2025-02-14 13:27:13.588 [INFO]: Skipping completions because the prompt is too short
+(VSCode) 2025-02-14 13:27:13.589 [INFO]: provideInlineCompletionItems request succeeded (5.87ms)
+(VSCode) 2025-02-14 13:27:14.453 [INFO]: Completion request succeeded (16.81ms)
+(VSCode) 2025-02-14 13:27:14.454 [INFO]: Skipping completions because the prompt is too short
+(VSCode) 2025-02-14 13:27:14.455 [INFO]: provideInlineCompletionItems request succeeded (20.97ms)
+(VSCode) 2025-02-14 13:27:14.824 [INFO]: Completion request succeeded (11.44ms)
+(VSCode) 2025-02-14 13:27:14.825 [INFO]: Skipping completions because the prompt is too short
+(VSCode) 2025-02-14 13:27:14.825 [INFO]: provideInlineCompletionItems request succeeded (13.98ms)
+(VSCode) 2025-02-14 13:27:19.758 [INFO]: Completion request succeeded (15.95ms)
+(VSCode) 2025-02-14 13:27:19.759 [INFO]: Skipping completions because the prompt is too short
+(VSCode) 2025-02-14 13:27:19.760 [INFO]: provideInlineCompletionItems request succeeded (20.01ms)
+(VSCode) 2025-02-14 13:27:45.649 [INFO]: Completion request succeeded (315.25ms)
+(VSCode) 2025-02-14 13:27:45.651 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:27:45.652 [INFO]: provideInlineCompletionItems request succeeded (321.03ms)
+(VSCode) 2025-02-14 13:27:47.084 [INFO]: Completion request was cancelled by token (1158.99ms)
+(VSCode) 2025-02-14 13:28:39.261 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:28:39.322 [INFO]: Completion request succeeded (5.28ms)
+(VSCode) 2025-02-14 13:28:39.323 [INFO]: Skipping completions because the prompt is too short
+(VSCode) 2025-02-14 13:28:39.323 [INFO]: provideInlineCompletionItems request succeeded (7.1ms)
+(VSCode) 2025-02-14 13:28:57.626 [INFO]: Completion request was cancelled by token (183.05ms)
+(VSCode) 2025-02-14 13:28:59.353 [INFO]: Completion request succeeded (1674.04ms)
+(VSCode) 2025-02-14 13:28:59.354 [INFO]: Generated 3 completions
+(VSCode) 2025-02-14 13:28:59.356 [INFO]: provideInlineCompletionItems request succeeded (1679.5ms)
+(VSCode) 2025-02-14 13:30:15.755 [INFO]: Completion request succeeded (1098.4ms)
+(VSCode) 2025-02-14 13:30:15.757 [INFO]: Generated 3 completions
+(VSCode) 2025-02-14 13:30:15.760 [INFO]: provideInlineCompletionItems request succeeded (1105.6ms)
+(VSCode) 2025-02-14 13:30:19.653 [INFO]: Completion request succeeded (1087.58ms)
+(VSCode) 2025-02-14 13:30:19.653 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:30:19.654 [INFO]: provideInlineCompletionItems request succeeded (1089.15ms)
+(VSCode) 2025-02-14 13:30:28.550 [INFO]: Completion request succeeded (378.78ms)
+(VSCode) 2025-02-14 13:30:28.550 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:30:28.551 [INFO]: provideInlineCompletionItems request succeeded (380.26ms)
+(VSCode) 2025-02-14 13:31:21.324 [INFO]: Completion request succeeded (809.26ms)
+(VSCode) 2025-02-14 13:31:21.325 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:31:21.325 [INFO]: provideInlineCompletionItems request succeeded (815.27ms)
+(VSCode) 2025-02-14 13:31:22.443 [INFO]: Completion request succeeded (422.26ms)
+(VSCode) 2025-02-14 13:31:22.445 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:31:22.446 [INFO]: provideInlineCompletionItems request succeeded (425.63ms)
+(VSCode) 2025-02-14 13:32:05.037 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:32:05.051 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:32:05.937 [INFO]: Completion request succeeded (843.91ms)
+(VSCode) 2025-02-14 13:32:05.937 [INFO]: Generated 2 completions
+(VSCode) 2025-02-14 13:32:05.938 [INFO]: provideInlineCompletionItems request succeeded (846.05ms)
+(VSCode) 2025-02-14 13:32:12.068 [INFO]: Completion request was cancelled by token (169.98ms)
+(VSCode) 2025-02-14 13:34:06.680 [INFO]: Completion request was cancelled by token (124.95ms)
+(VSCode) 2025-02-14 13:34:06.854 [INFO]: Completion request was cancelled by token (127.34ms)
+(VSCode) 2025-02-14 13:34:08.339 [INFO]: Completion request was cancelled by token (1434.94ms)
+(VSCode) 2025-02-14 13:34:25.249 [INFO]: Completion request succeeded (807.55ms)
+(VSCode) 2025-02-14 13:34:25.250 [INFO]: Generated 3 completions
+(VSCode) 2025-02-14 13:34:25.251 [INFO]: provideInlineCompletionItems request succeeded (810.83ms)
+(VSCode) 2025-02-14 13:37:18.854 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:37:18.868 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:37:18.919 [INFO]: Completion request succeeded (5.82ms)
+(VSCode) 2025-02-14 13:37:18.919 [INFO]: Skipping completions because the prompt is too short
+(VSCode) 2025-02-14 13:37:18.919 [INFO]: provideInlineCompletionItems request succeeded (7.06ms)
+(VSCode) 2025-02-14 13:37:20.052 [INFO]: Completion request was cancelled by token (841.22ms)
+(VSCode) 2025-02-14 13:37:36.391 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:38:13.464 [INFO]: Completion request succeeded (712.82ms)
+(VSCode) 2025-02-14 13:38:13.466 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:38:13.468 [INFO]: provideInlineCompletionItems request succeeded (717.58ms)
+(VSCode) 2025-02-14 13:38:28.938 [INFO]: Completion request was cancelled by token (707.31ms)
+(VSCode) 2025-02-14 13:38:29.627 [INFO]: Completion request succeeded (684.44ms)
+(VSCode) 2025-02-14 13:38:29.628 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:38:29.629 [INFO]: provideInlineCompletionItems request succeeded (687.78ms)
+(VSCode) 2025-02-14 13:38:34.638 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:38:34.647 [ERROR]: Illegal value for `line`
+(VSCode) 2025-02-14 13:38:34.711 [INFO]: Completion request succeeded (12.94ms)
+(VSCode) 2025-02-14 13:38:34.712 [INFO]: Skipping completions because the prompt is too short
+(VSCode) 2025-02-14 13:38:34.713 [INFO]: provideInlineCompletionItems request succeeded (16.46ms)
+(VSCode) 2025-02-14 13:39:09.209 [INFO]: Completion request succeeded (420.35ms)
+(VSCode) 2025-02-14 13:39:09.212 [INFO]: Generated 3 completions
+(VSCode) 2025-02-14 13:39:09.214 [INFO]: provideInlineCompletionItems request succeeded (427.05ms)
+(VSCode) 2025-02-14 13:41:18.912 [INFO]: Completion request was cancelled by token (174ms)
+(VSCode) 2025-02-14 13:41:19.962 [INFO]: Completion request was cancelled by token (996.74ms)
+(VSCode) 2025-02-14 13:41:57.914 [INFO]: Completion request was cancelled by token (115.74ms)
+(VSCode) 2025-02-14 13:41:58.054 [INFO]: Completion request was cancelled by token (93.4ms)
+(VSCode) 2025-02-14 13:41:58.220 [INFO]: Completion request was cancelled by token (119.54ms)
+(VSCode) 2025-02-14 13:41:58.385 [INFO]: Completion request was cancelled by token (119.05ms)
+(VSCode) 2025-02-14 13:41:58.587 [INFO]: Completion request was cancelled by token (154.82ms)
+(VSCode) 2025-02-14 13:41:59.470 [INFO]: Completion request succeeded (838.34ms)
+(VSCode) 2025-02-14 13:41:59.471 [INFO]: Generated 1 completion
+(VSCode) 2025-02-14 13:41:59.474 [INFO]: provideInlineCompletionItems request succeeded (844.25ms)
+(VSCode) 2025-02-14 13:42:01.181 [INFO]: Completion request succeeded (790.88ms)
+(VSCode) 2025-02-14 13:42:01.183 [INFO]: Generated 1 completion
+(VSCode) 2025-02-14 13:42:01.186 [INFO]: provideInlineCompletionItems request succeeded (796.04ms)
+(VSCode) 2025-02-14 13:42:02.041 [INFO]: Completion request succeeded (791.21ms)
+(VSCode) 2025-02-14 13:42:02.043 [INFO]: Generated 1 completion
+(VSCode) 2025-02-14 13:42:02.045 [INFO]: provideInlineCompletionItems request succeeded (796.37ms)
+(VSCode) 2025-02-14 13:42:03.213 [INFO]: Completion request succeeded (15.21ms)
+(VSCode) 2025-02-14 13:42:03.214 [INFO]: Generated 1 completion
+(VSCode) 2025-02-14 13:42:03.216 [INFO]: provideInlineCompletionItems request succeeded (21.04ms)
+(VSCode) 2025-02-14 13:42:04.129 [INFO]: Completion request was cancelled by token (339.38ms)
+(VSCode) 2025-02-14 13:42:04.198 [INFO]: Completion request succeeded (13.72ms)
+(VSCode) 2025-02-14 13:42:04.200 [INFO]: Generated 1 completion
+(VSCode) 2025-02-14 13:42:04.202 [INFO]: provideInlineCompletionItems request succeeded (21.05ms)
+(VSCode) 2025-02-14 13:42:04.482 [INFO]: Completion request succeeded (3.32ms)
+(VSCode) 2025-02-14 13:42:04.482 [INFO]: Generated 1 completion
+(VSCode) 2025-02-14 13:42:04.483 [INFO]: provideInlineCompletionItems request succeeded (5.03ms)
+(VSCode) 2025-02-14 13:42:08.549 [INFO]: Completion request succeeded (3.73ms)
+(VSCode) 2025-02-14 13:42:08.549 [INFO]: Generated 1 completion
+(VSCode) 2025-02-14 13:42:08.550 [INFO]: provideInlineCompletionItems request succeeded (5.5ms)
+(VSCode) 2025-02-14 13:42:08.914 [INFO]: Completion request was cancelled by token (120.62ms)
+(VSCode) 2025-02-14 13:42:09.241 [INFO]: Completion request was cancelled by token (280.64ms)
+(VSCode) 2025-02-14 13:42:09.389 [INFO]: Completion request was cancelled by token (101.2ms)
+(VSCode) 2025-02-14 13:42:09.839 [INFO]: Completion request was cancelled by token (402.1ms)
+E0214 13:42:09.849705 55775 interceptor.go:55] /exa.language_server_pb.LanguageServerService/AcceptCompletion: previous state not found for completion id 64b4a5cc-cb8a-4572-9ed7-2990d519b874
+(VSCode) 2025-02-14 13:42:09.855 [ERROR]: [unknown] previous state not found for completion id 64b4a5cc-cb8a-4572-9ed7-2990d519b874
+(VSCode) 2025-02-14 13:42:12.538 [INFO]: Completion request succeeded (2657.09ms)
+(VSCode) 2025-02-14 13:42:12.539 [INFO]: Generated 1 completion
+(VSCode) 2025-02-14 13:42:12.541 [INFO]: provideInlineCompletionItems request succeeded (2662.49ms)
+(VSCode) 2025-02-14 13:42:15.775 [INFO]: Completion request succeeded (579.69ms)
+(VSCode) 2025-02-14 13:42:15.776 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:42:15.776 [INFO]: provideInlineCompletionItems request succeeded (582.41ms)
+(VSCode) 2025-02-14 13:42:25.628 [INFO]: Completion request succeeded (871.48ms)
+(VSCode) 2025-02-14 13:42:25.630 [INFO]: No completions were generated
+(VSCode) 2025-02-14 13:42:25.631 [INFO]: provideInlineCompletionItems request succeeded (875.69ms)
+(VSCode) 2025-02-14 21:04:27.067 [INFO]: Disposing language server process
+(VSCode) 2025-02-14 21:04:27.067 [INFO]: Deleting manager directory: /tmp/10bb4515-3a22-4dfa-a0de-4248dc9eaf62/codeium/manager
+(VSCode) 2025-02-14 21:04:27.068 [INFO]: Successfully disposed language server
+W0214 21:04:27.067363 55762 main.go:127] [Language Server Manager] Got signal terminated, shutting down
+E0214 21:04:27.089264 55762 main.go:374] [Language Server Manager] Failed to acquire lock on /tmp/10bb4515-3a22-4dfa-a0de-4248dc9eaf62/codeium/manager/locks/child_lock_1739527302330138117_8157735503581588790: open /tmp/10bb4515-3a22-4dfa-a0de-4248dc9eaf62/codeium/manager/locks/child_lock_1739527302330138117_8157735503581588790: no such file or directory
+I0214 21:04:27.091003 55775 server.go:1087] Exit requested on language server process 55775
+I0214 21:04:27.091228 55775 server.go:1064] Language server shutting down

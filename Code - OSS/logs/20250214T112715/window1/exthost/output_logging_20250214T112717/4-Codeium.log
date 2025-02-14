@@ -1,0 +1,5 @@
+(VSCode) 2025-02-14 11:27:19.542 [INFO]: No proxy settings found
+(VSCode) 2025-02-14 11:27:24.545 [ERROR]: Failed to initialize Unleash: undefined
+(VSCode) 2025-02-14 11:27:24.546 [INFO]: Checking network connection...
+(VSCode) 2025-02-14 11:27:25.666 [INFO]: No Network Issue connecting to https://server.codeium.com/healthz
+(VSCode) 2025-02-14 11:27:25.775 [INFO]: Creating manager directory: /tmp/4bee7909-bebf-4600-bcf5-cf45aee54122/codeium/manager

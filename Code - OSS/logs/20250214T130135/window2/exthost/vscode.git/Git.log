@@ -1,0 +1,35 @@
+2025-02-14 15:19:34.762 [info] [main] Log level: Info
+2025-02-14 15:19:34.762 [info] [main] Validating found git in: "git"
+2025-02-14 15:19:34.762 [info] [main] Using git "2.47.1" from "git"
+2025-02-14 15:19:34.762 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-14 15:19:34.762 [info] > git rev-parse --show-toplevel [55ms]
+2025-02-14 15:19:34.762 [info] > git rev-parse --git-dir --git-common-dir [12ms]
+2025-02-14 15:19:34.762 [info] [Model][openRepository] Opened repository: /home/pasha/coding/my/mem-card
+2025-02-14 15:19:34.766 [info] > git rev-parse --show-toplevel [175ms]
+2025-02-14 15:19:34.766 [info] > git config --get commit.template [183ms]
+2025-02-14 15:19:34.829 [info] > git rev-parse --show-toplevel [29ms]
+2025-02-14 15:19:34.854 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [29ms]
+2025-02-14 15:19:34.942 [info] > git rev-parse --show-toplevel [88ms]
+2025-02-14 15:19:35.011 [info] > git rev-parse --show-toplevel [2ms]
+2025-02-14 15:19:35.077 [info] > git status -z -uall [54ms]
+2025-02-14 15:19:35.078 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [31ms]
+2025-02-14 15:19:35.111 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2025-02-14 15:19:35.118 [info] > git rev-parse --show-toplevel [58ms]
+2025-02-14 15:19:35.119 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-02-14 15:19:35.158 [info] > git show --textconv :scripts/main.js [32ms]
+2025-02-14 15:19:35.158 [info] > git show --textconv :styles/style.css [18ms]
+2025-02-14 15:19:35.158 [info] > git check-ignore -v -z --stdin [3ms]
+2025-02-14 15:19:35.159 [info] > git ls-files --stage -- /home/pasha/coding/my/mem-card/styles/style.css [12ms]
+2025-02-14 15:19:35.167 [info] > git ls-files --stage -- /home/pasha/coding/my/mem-card/scripts/main.js [33ms]
+2025-02-14 15:19:35.174 [info] > git config --local branch.main.vscode-merge-base [56ms]
+2025-02-14 15:19:35.182 [info] > git config --get commit.template [72ms]
+2025-02-14 15:19:35.184 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2025-02-14 15:19:35.193 [info] > git cat-file -s 9d6339665c4bf302cf6ddc34cc4e4ef461f03c79 [19ms]
+2025-02-14 15:19:35.193 [info] > git cat-file -s 5b7ffeeb8be3132c838a97ef19198139ad77a0b1 [27ms]
+2025-02-14 15:19:35.233 [info] > git merge-base refs/heads/main refs/remotes/origin/main [42ms]
+2025-02-14 15:19:35.268 [info] > git blame --root --incremental cea2ffcbeec53173b9aad3c50346f2c5681e127b -- /home/pasha/coding/my/mem-card/styles/style.css [10ms]
+2025-02-14 15:19:35.274 [info] > git diff --name-status -z --diff-filter=ADMR cea2ffcbeec53173b9aad3c50346f2c5681e127b...refs/remotes/origin/main [32ms]
+2025-02-14 15:19:35.276 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [44ms]
+2025-02-14 15:19:35.307 [info] > git status -z -uall [12ms]
+2025-02-14 15:19:35.309 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-02-14 15:19:44.774 [info] > git blame --root --incremental cea2ffcbeec53173b9aad3c50346f2c5681e127b -- /home/pasha/coding/my/mem-card/scripts/main.js [5ms]

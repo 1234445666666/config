@@ -1,0 +1,299 @@
+2025-02-14 21:04:44.336 [info] Extension host with pid 69874 started
+2025-02-14 21:04:44.336 [info] Skipping acquiring lock for /home/pasha/.config/Code - OSS/User/workspaceStorage/458d55ba4350b4dc8defde1acaeff641.
+2025-02-14 21:04:44.662 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-14 21:04:44.942 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-02-14 21:04:44.946 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2025-02-14 21:04:44.950 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2025-02-14 21:04:45.019 [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+2025-02-14 21:04:45.138 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-02-14 21:04:45.272 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-02-14 21:04:45.496 [info] Eager extensions activated
+2025-02-14 21:04:45.556 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-14 21:04:45.560 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-14 21:04:45.607 [info] ExtensionService#_doActivateExtension castrogusttavo.symbols, startup: false, activationEvent: 'onStartupFinished'
+2025-02-14 21:04:45.619 [info] ExtensionService#_doActivateExtension Codeium.codeium, startup: false, activationEvent: 'onStartupFinished'
+2025-02-14 21:04:46.629 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-02-14 21:04:46.689 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-02-14 21:04:46.933 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-14 21:04:46.947 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-14 21:04:47.004 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-14 21:04:47.434 [warning] [Decorations] CAPPING events from decorations provider vscode.git 996
+2025-02-14 21:04:47.723 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-02-14 21:04:48.028 [warning] [Decorations] CAPPING events from decorations provider vscode.git 997
+2025-02-14 21:04:51.711 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-02-14 21:04:53.334 [warning] [Decorations] CAPPING events from decorations provider vscode.git 997
+2025-02-14 21:04:58.626 [warning] [Decorations] CAPPING events from decorations provider vscode.git 997
+2025-02-14 21:05:03.933 [warning] [Decorations] CAPPING events from decorations provider vscode.git 997
+2025-02-14 21:05:05.587 [error] Error: Illegal value for `line`
+    at _M.t (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:1005)
+    at Object.lineAt (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:72)
+    at e.getCommandEditHints (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1863611)
+    at e.getNonCachedDocumentResults (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1865290)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1866355)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1851578)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1852920)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1852007)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858134)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858337)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858396
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858277)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1866929)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1809564)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1796896)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1798238)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1797325)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803812)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804015)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804074
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803955)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1810187)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1808756)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1796896)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1798238)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1797325)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803812)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804015)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804074
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803955)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1808999)
+    at Immediate.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1806417)
+    at processImmediate (node:internal/timers:483:21)
+2025-02-14 21:05:05.593 [error] Error: Illegal value for `line`
+    at _M.t (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:1005)
+    at Object.lineAt (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:72)
+    at e.getCommandEditHints (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1863611)
+    at e.getNonCachedDocumentResults (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1865290)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1866355)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1851578)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1852920)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1852007)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858134)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858337)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858396
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858277)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1866929)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1809564)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1796896)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1798238)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1797325)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803812)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804015)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804074
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803955)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1810187)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1808756)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1796896)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1798238)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1797325)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803812)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804015)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804074
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803955)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1808999)
+    at Immediate.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1806417)
+    at processImmediate (node:internal/timers:483:21)
+2025-02-14 21:05:09.528 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:05:14.772 [warning] [Decorations] CAPPING events from decorations provider vscode.git 999
+2025-02-14 21:05:20.049 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:05:25.326 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:05:30.580 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:05:35.835 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:05:41.141 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:05:46.397 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:05:51.711 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:05:57.009 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:06:02.311 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:06:07.621 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:06:12.928 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:06:18.221 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:06:23.529 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:06:28.805 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:06:34.161 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:06:39.415 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:06:44.688 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:06:49.962 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:06:55.225 [warning] [Decorations] CAPPING events from decorations provider vscode.git 999
+2025-02-14 21:07:00.489 [warning] [Decorations] CAPPING events from decorations provider vscode.git 997
+2025-02-14 21:07:05.780 [warning] [Decorations] CAPPING events from decorations provider vscode.git 997
+2025-02-14 21:07:11.068 [warning] [Decorations] CAPPING events from decorations provider vscode.git 997
+2025-02-14 21:07:26.296 [warning] [Decorations] CAPPING events from decorations provider vscode.git 997
+2025-02-14 21:07:33.784 [warning] [Decorations] CAPPING events from decorations provider vscode.git 997
+2025-02-14 21:07:39.050 [warning] [Decorations] CAPPING events from decorations provider vscode.git 997
+2025-02-14 21:07:44.352 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:08:03.132 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:08:09.039 [warning] [Decorations] CAPPING events from decorations provider vscode.git 999
+2025-02-14 21:08:14.337 [warning] [Decorations] CAPPING events from decorations provider vscode.git 998
+2025-02-14 21:08:29.683 [warning] [Decorations] CAPPING events from decorations provider vscode.git 999
+2025-02-14 21:08:34.895 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1000
+2025-02-14 21:08:40.107 [warning] [Decorations] CAPPING events from decorations provider vscode.git 999
+2025-02-14 21:08:45.293 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1000
+2025-02-14 21:08:50.507 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1001
+2025-02-14 21:08:55.741 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1001
+2025-02-14 21:09:00.933 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1001
+2025-02-14 21:09:06.232 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1036
+2025-02-14 21:09:11.438 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1073
+2025-02-14 21:09:13.055 [error] Error: Illegal value for `line`
+    at _M.t (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:1005)
+    at Object.lineAt (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:72)
+    at e.getCommandEditHints (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1863611)
+    at e.getNonCachedDocumentResults (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1865290)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1866355)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1851578)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1852920)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1852007)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858134)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858337)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858396
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858277)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1866929)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1809564)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1796896)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1798238)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1797325)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803812)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804015)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804074
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803955)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1810187)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1808756)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1796896)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1798238)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1797325)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803812)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804015)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804074
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803955)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1808999)
+    at Immediate.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1806417)
+    at processImmediate (node:internal/timers:483:21)
+2025-02-14 21:09:23.488 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1073
+2025-02-14 21:09:33.775 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1237
+2025-02-14 21:09:49.431 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1244
+2025-02-14 21:09:58.567 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1261
+2025-02-14 21:10:03.879 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1260
+2025-02-14 21:10:04.091 [error] Error: Illegal value for `line`
+    at _M.t (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:1005)
+    at Object.lineAt (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:72)
+    at e.getCommandEditHints (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1863611)
+    at e.getNonCachedDocumentResults (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1865290)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1866355)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1851578)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1852920)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1852007)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858134)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858337)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858396
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858277)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1866929)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1809564)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1796896)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1798238)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1797325)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803812)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804015)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804074
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803955)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1810187)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1808756)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1796896)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1798238)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1797325)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803812)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804015)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804074
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803955)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1808999)
+    at Immediate.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1806417)
+    at processImmediate (node:internal/timers:483:21)
+2025-02-14 21:10:04.092 [error] Error: Illegal value for `line`
+    at _M.t (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:1005)
+    at Object.lineAt (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:72)
+    at e.getCommandEditHints (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1863611)
+    at e.getNonCachedDocumentResults (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1865290)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1866355)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1851578)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1852920)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1852007)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858134)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858337)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858396
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858277)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1866929)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1809564)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1796896)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1798238)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1797325)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803812)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804015)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804074
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803955)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1810187)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1808756)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1796896)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1798238)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1797325)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803812)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804015)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804074
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803955)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1808999)
+    at Immediate.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1806417)
+    at processImmediate (node:internal/timers:483:21)
+2025-02-14 21:10:11.034 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1261
+2025-02-14 21:10:24.915 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2025-02-14 21:10:30.195 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1262
+2025-02-14 21:10:35.469 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1261
+2025-02-14 21:10:40.678 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1261
+2025-02-14 21:10:45.936 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1333
+2025-02-14 21:10:51.184 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1330
+2025-02-14 21:10:56.473 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1330
+2025-02-14 21:11:01.728 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1330
+2025-02-14 21:11:18.469 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1330
+2025-02-14 21:11:23.703 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1332
+2025-02-14 21:11:29.001 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1331
+2025-02-14 21:11:34.296 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1331
+2025-02-14 21:11:39.576 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1331
+2025-02-14 21:11:44.858 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1331
+2025-02-14 21:11:50.207 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1331
+2025-02-14 21:11:55.483 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1331
+2025-02-14 21:12:00.721 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1331
+2025-02-14 21:12:05.928 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1331
+2025-02-14 21:12:11.173 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1331
+2025-02-14 21:12:25.731 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1331
+2025-02-14 21:12:30.992 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1333
+2025-02-14 21:12:36.209 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1332
+2025-02-14 21:12:41.481 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1333
+2025-02-14 21:12:46.765 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1331
+2025-02-14 21:13:19.154 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1332
+2025-02-14 21:13:24.404 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1331
+2025-02-14 21:13:29.688 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1332
+2025-02-14 21:13:34.949 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1334
+2025-02-14 21:14:27.415 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1334
+2025-02-14 21:14:32.689 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1333
+2025-02-14 21:14:37.930 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1333
+2025-02-14 21:14:43.147 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1333
+2025-02-14 21:14:55.098 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1333
+2025-02-14 21:15:00.385 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1333
+2025-02-14 21:15:05.667 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+2025-02-14 21:15:11.258 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+2025-02-14 21:15:16.529 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+2025-02-14 21:15:21.849 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1336
+2025-02-14 21:15:33.568 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1336
+2025-02-14 21:15:38.877 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1336
+2025-02-14 21:15:49.432 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1337
+2025-02-14 21:15:54.718 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1336

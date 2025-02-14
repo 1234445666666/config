@@ -1,0 +1,48 @@
+2025-02-14 10:53:16.190 [info] [main] Log level: Info
+2025-02-14 10:53:16.190 [info] [main] Validating found git in: "git"
+2025-02-14 10:53:16.190 [info] [main] Using git "2.47.1" from "git"
+2025-02-14 10:53:16.190 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-14 10:53:16.190 [info] > git rev-parse --show-toplevel [14ms]
+2025-02-14 10:53:16.190 [info] > git rev-parse --git-dir --git-common-dir [9ms]
+2025-02-14 10:53:16.190 [info] [Model][openRepository] Opened repository: /home/pasha/coding/my/mem-card
+2025-02-14 10:53:16.195 [info] > git config --get commit.template [15ms]
+2025-02-14 10:53:16.197 [info] > git rev-parse --show-toplevel [10ms]
+2025-02-14 10:53:16.222 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2025-02-14 10:53:16.231 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/pasha/coding/my/mem-card/.git/refs/remotes/origin/main'
+2025-02-14 10:53:16.232 [info] > git rev-parse --show-toplevel [11ms]
+2025-02-14 10:53:16.240 [info] > git rev-parse refs/remotes/origin/main [9ms]
+2025-02-14 10:53:16.260 [info] > git status -z -uall [11ms]
+2025-02-14 10:53:16.268 [info] > git rev-parse --show-toplevel [29ms]
+2025-02-14 10:53:16.282 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [26ms]
+2025-02-14 10:53:16.302 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-02-14 10:53:16.316 [info] > git rev-parse --show-toplevel [34ms]
+2025-02-14 10:53:17.096 [info] > git config --local branch.main.vscode-merge-base [780ms]
+2025-02-14 10:53:17.237 [info] > git check-ignore -v -z --stdin [124ms]
+2025-02-14 10:53:17.238 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [134ms]
+2025-02-14 10:53:17.253 [info] > git rev-parse --show-toplevel [161ms]
+2025-02-14 10:53:17.253 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-02-14 10:53:17.253 [info] > git config --get commit.template [168ms]
+2025-02-14 10:53:17.346 [info] > git show --textconv :scripts/main.js [38ms]
+2025-02-14 10:53:17.346 [info] > git show --textconv :styles/main.css [21ms]
+2025-02-14 10:53:17.347 [info] > git ls-files --stage -- /home/pasha/coding/my/mem-card/styles/main.css [15ms]
+2025-02-14 10:53:17.357 [info] > git ls-files --stage -- /home/pasha/coding/my/mem-card/scripts/main.js [41ms]
+2025-02-14 10:53:17.366 [info] > git merge-base refs/heads/main refs/remotes/origin/main [116ms]
+2025-02-14 10:53:17.484 [info] > git diff --name-status -z --diff-filter=ADMR f3e522c09d4a336643caa18611b997a1627680a6...refs/remotes/origin/main [109ms]
+2025-02-14 10:53:17.485 [info] > git cat-file -s a8e06bcb729e3a58144ba7927882527d6d314000 [119ms]
+2025-02-14 10:53:17.485 [info] > git cat-file -s fadf71ab380a6524d53be0d4f595759cf3a6dc11 [128ms]
+2025-02-14 10:53:17.486 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [147ms]
+2025-02-14 10:53:17.502 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/pasha/coding/my/mem-card/.git/refs/remotes/origin/main'
+2025-02-14 10:53:17.508 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2025-02-14 10:53:17.536 [info] > git status -z -uall [21ms]
+2025-02-14 10:53:17.537 [info] > git blame --root --incremental f3e522c09d4a336643caa18611b997a1627680a6 -- /home/pasha/coding/my/mem-card/scripts/main.js [2ms]
+2025-02-14 10:53:17.538 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+2025-02-14 10:53:18.133 [info] > git show --textconv :index.html [27ms]
+2025-02-14 10:53:18.136 [info] > git ls-files --stage -- /home/pasha/coding/my/mem-card/index.html [5ms]
+2025-02-14 10:53:18.159 [info] > git cat-file -s 1984334e927f77c9cb4ee28b56702f106c5d8fc2 [3ms]
+2025-02-14 10:53:18.227 [info] > git blame --root --incremental f3e522c09d4a336643caa18611b997a1627680a6 -- /home/pasha/coding/my/mem-card/index.html [6ms]
+2025-02-14 10:53:59.013 [info] > git config --get commit.template [3ms]
+2025-02-14 10:53:59.032 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-02-14 10:53:59.046 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/pasha/coding/my/mem-card/.git/refs/remotes/origin/main'
+2025-02-14 10:53:59.048 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-02-14 10:53:59.080 [info] > git status -z -uall [17ms]
+2025-02-14 10:53:59.081 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
