@@ -1,0 +1,10 @@
+.header {
+    background-color: rgb(98, 0, 255);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    width: 300px;
+    height: 100vh;
+    gap: 40px;
+}

@@ -1,0 +1,6 @@
+2024/12/05-23:07:12.179 9bf Creating DB /home/pasha/.config/google-chrome/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb since it was missing.
+2024/12/05-23:07:12.183 9bf Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/05-23:07:19.214 9c0 Level-0 table #5: started
+2024/12/05-23:07:19.216 9c0 Level-0 table #5: 107341 bytes OK
+2024/12/05-23:07:19.218 9c0 Delete type=0 #3
+2024/12/05-23:07:19.218 9c0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,19 @@
+@import url(header.css);
+@import url(main.css);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    background: -webkit-linear-gradient(90deg, #b09d8a,#b7a897,#917c68);background: linear-gradient(90deg, #b09d8a,#b7a897,#917c68);
+  color: black;
+}
+
+body.dark {
+  background: -webkit-linear-gradient(90deg, #000000, #000000, #021392);
+  background: linear-gradient(90deg, #000000, #000000, #021392);
+  color: white;
+}

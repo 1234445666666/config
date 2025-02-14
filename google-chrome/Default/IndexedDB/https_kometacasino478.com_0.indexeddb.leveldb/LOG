@@ -1,0 +1,7 @@
+2024/12/07-01:38:48.256 3f8 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_kometacasino478.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/07-01:38:48.256 3f8 Recovering log #3
+2024/12/07-01:38:48.257 3f8 Reusing old log /home/pasha/.config/google-chrome/Default/IndexedDB/https_kometacasino478.com_0.indexeddb.leveldb/000003.log 
+2024/12/07-14:49:39.493 3f9 Level-0 table #5: started
+2024/12/07-14:49:39.502 3f9 Level-0 table #5: 116259 bytes OK
+2024/12/07-14:49:39.504 3f9 Delete type=0 #3
+2024/12/07-14:49:39.505 3f9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

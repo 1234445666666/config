@@ -1,0 +1,31 @@
+2024/12/13-23:30:20.286 edc3 Creating DB /home/pasha/.config/google-chrome/Default/IndexedDB/https_journal.tinkoff.ru_0.indexeddb.leveldb since it was missing.
+2024/12/13-23:30:20.292 edc3 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_journal.tinkoff.ru_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/13-23:30:20.298 edc5 Level-0 table #5: started
+2024/12/13-23:30:20.300 edc5 Level-0 table #5: 1188 bytes OK
+2024/12/13-23:30:20.301 edc5 Delete type=0 #3
+2024/12/13-23:30:20.302 edc5 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/13-23:30:20.304 edc5 Level-0 table #7: started
+2024/12/13-23:30:20.305 edc5 Level-0 table #7: 1280 bytes OK
+2024/12/13-23:30:20.307 edc5 Delete type=0 #4
+2024/12/13-23:30:20.307 edc5 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/13-23:30:20.309 edc5 Level-0 table #9: started
+2024/12/13-23:30:20.310 edc5 Level-0 table #9: 1213 bytes OK
+2024/12/13-23:30:20.311 edc5 Delete type=0 #6
+2024/12/13-23:30:20.311 edc3 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\xc8\x18\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00-\x00h\x00e\x00a\x00r\x00t\x00b\x00e\x00a\x00t\x00-\x00s\x00t\x00o\x00r\x00e' @ 113 : 1
+2024/12/13-23:30:20.311 edc3 Compacting 1@0 + 1@1 files
+2024/12/13-23:30:20.312 edc3 Generated table #10@0: 45 keys, 1324 bytes
+2024/12/13-23:30:20.312 edc3 Compacted 1@0 + 1@1 files => 1324 bytes
+2024/12/13-23:30:20.313 edc3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/13-23:30:20.314 edc3 Delete type=2 #9
+2024/12/13-23:30:20.314 edc3 Manual compaction at level-0 from '\x00\x05\x00\x00\xc8\x18\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00-\x00h\x00e\x00a\x00r\x00t\x00b\x00e\x00a\x00t\x00-\x00s\x00t\x00o\x00r\x00e' @ 113 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/13-23:30:20.462 edd0 Level-0 table #12: started
+2024/12/13-23:30:20.463 edd0 Level-0 table #12: 2043 bytes OK
+2024/12/13-23:30:20.465 edd0 Delete type=0 #8
+2024/12/13-23:30:20.465 edd0 Delete type=2 #7
+2024/12/13-23:30:20.465 edc3 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 218 : 1
+2024/12/13-23:30:20.465 edc3 Compacting 1@0 + 1@1 files
+2024/12/13-23:30:20.466 edc3 Generated table #13@0: 93 keys, 2188 bytes
+2024/12/13-23:30:20.466 edc3 Compacted 1@0 + 1@1 files => 2188 bytes
+2024/12/13-23:30:20.468 edc3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/13-23:30:20.468 edc3 Delete type=2 #12
+2024/12/13-23:30:20.468 edc3 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 218 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

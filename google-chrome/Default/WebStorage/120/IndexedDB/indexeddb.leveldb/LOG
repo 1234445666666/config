@@ -1,0 +1,6 @@
+2024/12/13-22:28:54.851 edc3 Creating DB /home/pasha/.config/google-chrome/Default/WebStorage/120/IndexedDB/indexeddb.leveldb since it was missing.
+2024/12/13-22:28:54.867 edc3 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/WebStorage/120/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/12/13-22:29:56.891 edc4 Level-0 table #5: started
+2024/12/13-22:29:56.893 edc4 Level-0 table #5: 1857 bytes OK
+2024/12/13-22:29:56.895 edc4 Delete type=0 #3
+2024/12/13-22:29:56.895 edc4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

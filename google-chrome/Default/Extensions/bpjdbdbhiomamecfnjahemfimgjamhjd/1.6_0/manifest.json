@@ -1,0 +1,40 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://atavi.com/browser-themes/?from=chrome-themes&tid=unknown_space"
+      },
+      "urls": [ "http://atavi.com/browser-themes/" ]
+   },
+   "default_locale": "ru",
+   "description": "__MSG_appDesc__",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj5blWvA6NX0xhjEPOiVQNgQel0a9CfHvUpr4Y5xkH5+tZWAj7Dq+UjvW7CF/piOWQoZLR1ZgpSJGwQ0ZQD+UaOtGD+9v6NOyyoUoQr5h4W5skM8fB286XMbMf0746M0WlcjJn8R5sAKGveYDUXQ2/kKd5NIck+gMQ1z/k/rJkVHtAMo5cnqat0jcvnNOQjBvNnTU1k9BivaycM6y7Qg2NyHCLjqUk0YZzeEUcROUJgojKbVcYcvr/gQ2iRnm8dHtqNxrYMN3U3Ct+VwYsPigNIeTAaf0/GRwX9oE2zCfFJ7Zd+N/dHwiKZONRC9ToYmVdUXfQ66t28NCLgmGZ+hI8wIDAQAB",
+   "link": "http://atavi.com/browser-themes/",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "short_name": "Awesome theme for Atavi.com",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "frame": [ 230, 230, 230 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_link": [ 0, 0, 0 ],
+         "ntp_link_underline": [ 0, 0, 0 ],
+         "ntp_text": [ 0, 0, 0 ],
+         "tab_background_text": [ 0, 0, 0 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 228, 228, 228, 0.6 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "middle",
+         "ntp_background_repeat": "no-repeat"
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.6"
+}

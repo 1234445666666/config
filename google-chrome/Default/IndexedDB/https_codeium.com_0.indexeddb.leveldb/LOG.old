@@ -1,0 +1,28 @@
+2025/01/22-13:10:34.332 2aaaa Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_codeium.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/22-13:10:34.333 2aaaa Recovering log #4
+2025/01/22-13:10:34.333 2aaaa Reusing old log /home/pasha/.config/google-chrome/Default/IndexedDB/https_codeium.com_0.indexeddb.leveldb/000004.log 
+2025/01/22-13:10:34.347 2aaab Level-0 table #8: started
+2025/01/22-13:10:34.349 2aaab Level-0 table #8: 8828 bytes OK
+2025/01/22-13:10:34.350 2aaab Delete type=0 #4
+2025/01/22-13:10:34.350 2aaab Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/22-13:10:37.335 2aab9 Level-0 table #10: started
+2025/01/22-13:10:37.336 2aab9 Level-0 table #10: 7402 bytes OK
+2025/01/22-13:10:37.337 2aab9 Delete type=0 #7
+2025/01/22-13:10:37.337 2aab6 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 284 : 1
+2025/01/22-13:10:37.337 2aab6 Compacting 1@0 + 1@1 files
+2025/01/22-13:10:37.338 2aab6 Generated table #11@0: 92 keys, 4342 bytes
+2025/01/22-13:10:37.338 2aab6 Compacted 1@0 + 1@1 files => 4342 bytes
+2025/01/22-13:10:37.339 2aab6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/22-13:10:37.339 2aab6 Delete type=2 #10
+2025/01/22-13:10:37.339 2aab6 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 284 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/22-13:11:04.931 2aab6 Level-0 table #13: started
+2025/01/22-13:11:04.932 2aab6 Level-0 table #13: 6199 bytes OK
+2025/01/22-13:11:04.933 2aab6 Delete type=0 #9
+2025/01/22-13:11:04.933 2aab6 Delete type=2 #8
+2025/01/22-13:11:04.933 2aab6 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 341 : 1
+2025/01/22-13:11:04.933 2aab6 Compacting 1@0 + 1@1 files
+2025/01/22-13:11:04.934 2aab6 Generated table #14@0: 108 keys, 4555 bytes
+2025/01/22-13:11:04.934 2aab6 Compacted 1@0 + 1@1 files => 4555 bytes
+2025/01/22-13:11:04.935 2aab6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/22-13:11:04.935 2aab6 Delete type=2 #13
+2025/01/22-13:11:04.935 2aab6 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 341 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

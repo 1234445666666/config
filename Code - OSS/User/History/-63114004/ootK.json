@@ -1,0 +1,6 @@
+{
+    "workbench.editorAssociations": {
+        "*.zip": "default"
+    },
+    "explorer.confirmDragAndDrop": false
+}

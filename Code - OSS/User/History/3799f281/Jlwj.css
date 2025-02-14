@@ -1,0 +1,198 @@
+/* .to__do {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  width: 1000px;
+  height: 600px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.to__do h1 {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.to__do input {
+  width: 600px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.to__do button {
+  width: 240px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+
+  &:hover {
+    background-color: black;
+    color: white;
+  }
+}
+
+#to__do__list {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  height: 300px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+  text-decoration: none;
+  overflow: auto;
+  overflow-x: hidden;
+}
+
+.li {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 300px;
+  height: 50px;
+  word-break: break-all;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.done {
+  text-decoration: line-through;
+  color: grey;
+  cursor: pointer;
+}
+
+ul li{
+  list-style: none;
+  padding: 12px 8px 12px 50px;
+  cursor: pointer;
+  font-size: 18px;    
+  position: relative;
+}
+
+ul li::before{
+  content: '';
+  position: absolute;
+  height: 28px;
+  width: 28px;
+  background-image: url(../images/zelenaja-galochka.png);
+  background-size: cover;
+  background-position: center;
+  top: 8px;
+  left: 0px;
+}
+
+ul li::after{
+  content: '';
+  position: absolute;
+  height: 28px;
+  width: 28px;
+  background-image: url(../images/delete.png);
+  background-size: cover;
+  background-position: center;
+  top: 11px;
+  left: 200px;
+}
+
+ul li.checkbox::after{
+  background-image: url(../images/delete.png);
+}
+
+ul li.checked{
+  text-decoration: line-through;
+
+}
+
+ul li.checkbox::before{
+  background-image: url(../images/zelenaja-galochka.png);
+}
+
+ul li span{
+  position: absolute;
+  right: 0;
+  top: 5px;
+  width: 40px;
+  height: 40px;
+  font-size: 22px;
+  line-height: 34px;
+  text-align: center;
+}
+
+ul li span:hover{
+  background: #edeef0;
+}
+
+.checkbox {
+  cursor: pointer;
+}
+ */
+/* Стили для задачи */
+.li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Стили для кнопки выполнения */
+.accomplishment__to__do {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.accomplishment__to__do:hover {
+  background-color: #218838;
+}
+
+/* Стили для кнопки удаления */
+.remove__to__do {
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.remove__to__do:hover {
+  background-color: #cc0000;
+}
+
+/* Стили для выполненной задачи */
+.done {
+  text-decoration: line-through;
+  color: #888;
+}

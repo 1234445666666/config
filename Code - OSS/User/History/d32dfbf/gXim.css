@@ -1,0 +1,18 @@
+@import url(header.css);
+@import url(main.css);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+  color: black;
+}
+
+body.dark {
+    background: -webkit-linear-gradient(90deg, #3d4052,#09090c);background: linear-gradient(90deg, #3d4052,#09090c);
+  color: white;
+}

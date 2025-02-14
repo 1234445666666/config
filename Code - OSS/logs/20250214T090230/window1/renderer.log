@@ -1,0 +1,8 @@
+2025-02-14 09:02:31.802 [info] Started local extension host with pid 24283.
+2025-02-14 09:02:32.293 [warning] [redwan-hossain.auto-rename-tag-clone]: Cannot register 'auto-rename-tag.activationOnLanguage'. This property is already registered.
+2025-02-14 09:02:34.792 [info] [perf] Render performance baseline is 32ms
+2025-02-14 09:02:35.336 [warning] Authentication provider codeium_auth was not declared in the Extension Manifest.
+2025-02-14 09:02:37.496 [error] Timed out waiting for authentication provider to register
+2025-02-14 09:03:07.492 [error] [network] #9: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2025-02-14 09:43:43.776 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/pasha/coding/To-Do-List/index.html 
+2025-02-14 09:43:43.779 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/pasha/coding/To-Do-List/styles/style.css 

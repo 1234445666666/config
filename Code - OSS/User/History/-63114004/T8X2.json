@@ -1,0 +1,13 @@
+{
+    "workbench.editorAssociations": {
+        "*.zip": "default"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "workbench.startupEditor": "none",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    }
+}

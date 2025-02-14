@@ -1,0 +1,37 @@
+
+2024/10/09 (22:32:31) | ===> btop++ v.1.4.0
+2024/10/09 (22:32:31) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2024/10/09 (22:33:55) | ===> btop++ v.1.4.0
+2024/10/09 (22:33:55) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2024/10/19 (05:58:22) | ===> btop++ v.1.4.0
+2024/10/19 (05:58:22) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+
+2024/12/05 (15:51:35) | ===> btop++ v.1.4.0
+2024/12/05 (15:51:35) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/05 (15:51:35) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/05 (19:52:01) | ===> btop++ v.1.4.0
+2024/12/05 (19:52:01) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/05 (19:52:01) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/06 (22:04:38) | ===> btop++ v.1.4.0
+2024/12/06 (22:04:38) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/06 (22:04:38) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/12 (13:40:00) | ===> btop++ v.1.4.0
+2024/12/12 (13:40:00) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/12 (13:40:00) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/22 (16:58:05) | ===> btop++ v.1.4.0
+2024/12/22 (16:58:05) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/22 (16:58:05) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/26 (01:25:15) | ===> btop++ v.1.4.0
+2024/12/26 (01:25:15) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/26 (01:25:15) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/03 (14:51:04) | ===> btop++ v.1.4.0
+2025/01/03 (14:51:04) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/01/03 (14:51:04) | WARNING: Intel GPU: Failed to initialize PMU

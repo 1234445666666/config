@@ -1,0 +1,8 @@
+# settings
+
+(GimpGegl-gegl-difference-of-gaussians-config "2024-12-12 17:12:19"
+    (time 1734012739)
+    (radius1 10.795)
+    (radius2 19.913))
+
+# end of settings

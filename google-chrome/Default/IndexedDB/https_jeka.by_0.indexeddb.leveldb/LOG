@@ -1,0 +1,6 @@
+2025/02/13-23:04:52.105 338 Creating DB /home/pasha/.config/google-chrome/Default/IndexedDB/https_jeka.by_0.indexeddb.leveldb since it was missing.
+2025/02/13-23:04:52.113 338 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_jeka.by_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/14-09:48:12.519 33a Level-0 table #5: started
+2025/02/14-09:48:12.520 33a Level-0 table #5: 1830 bytes OK
+2025/02/14-09:48:12.522 33a Delete type=0 #3
+2025/02/14-09:48:12.523 33a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,11 @@
+[ERROR] 2024-02-10 10:12:34 - Authentication failed for user test@example.com
+[ERROR] 2024-02-10 11:02:58 - API request failed: 500 Internal Server Error
+[ERROR] 2024-02-10 11:20:22 - Database connection timeout
+[ERROR] 2024-02-10 11:35:11 - User session expired
+[ERROR] 2024-02-10 12:50:45 - Service unavailable: 503 Error
+[ERROR] 2024-02-10 13:20:44 - Access denied: Unauthorized request
+[ERROR] 2024-02-10 14:10:28 - File not found: /var/www/app/index.html
+[ERROR] 2024-02-10 14:55:20 - Network timeout while connecting to external API
+[ERROR] 2024-02-10 15:30:55 - User authentication failed: Too many attempts
+[ERROR] 2024-02-10 16:20:55 - Memory usage exceeded threshold
+Количество ошибок с 11:00 до 11:59: 3

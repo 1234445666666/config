@@ -1,0 +1,21 @@
+@import url(header.css);
+@import url(/style/main.css);
+@import url(/style/footer.css);
+
+:root {
+    --color-background: #484283;
+    --color-button: #F14F4F;
+    --color-background-footer: #444B58;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-inline-size: 360px;
+  max-inline-size: 1920px;
+}

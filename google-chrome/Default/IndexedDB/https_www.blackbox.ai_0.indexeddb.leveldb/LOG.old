@@ -1,0 +1,13 @@
+2024/12/18-01:19:34.027 16798 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_www.blackbox.ai_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/18-01:19:34.027 16798 Recovering log #70
+2024/12/18-01:19:34.027 16798 Reusing old log /home/pasha/.config/google-chrome/Default/IndexedDB/https_www.blackbox.ai_0.indexeddb.leveldb/000070.log 
+2024/12/18-01:19:34.036 1679a Level-0 table #74: started
+2024/12/18-01:19:34.037 1679a Level-0 table #74: 660 bytes OK
+2024/12/18-01:19:34.039 1679a Delete type=0 #70
+2024/12/18-01:19:34.039 16798 Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at '\x00\x15\x00\x00\x05' @ 471 : 1
+2024/12/18-01:19:34.039 16798 Compacting 1@0 + 1@1 files
+2024/12/18-01:19:34.040 16798 Generated table #75@0: 7 keys, 621 bytes
+2024/12/18-01:19:34.040 16798 Compacted 1@0 + 1@1 files => 621 bytes
+2024/12/18-01:19:34.042 16798 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/18-01:19:34.042 16798 Delete type=2 #74
+2024/12/18-01:19:34.042 16798 Manual compaction at level-0 from '\x00\x15\x00\x00\x05' @ 471 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)

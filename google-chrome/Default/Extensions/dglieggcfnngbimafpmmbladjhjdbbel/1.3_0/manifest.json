@@ -1,0 +1,19 @@
+{
+   "author": "https://t.me/answers_resh",
+   "content_scripts": [ {
+      "js": [ "init.js" ],
+      "matches": [ "*://resh.edu.ru/subject/lesson/*" ],
+      "run_at": "document_idle"
+   } ],
+   "description": "t.me/answers_resh Ответы РЭШ. Плагин, добавляющий на РЭШ кнопку просмотра правильного ответа. Плагин создан в целях самопроверки",
+   "host_permissions": [ "*://resh.edu.ru/subject/lesson/*" ],
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm5S/B1ktbwLKoIL8hyTeTaUHW4V1LnraGfV/SsnEg76dbNzts0ie2WabXa/FhBD8GmpgtIB4fVPnnSZegq9G0Q9Pyui1PCLsKizny6F5Z2hlkH8C2i3H5LLO2cb/980ZwG6DIE7OQlh11PpxYec/wC7L3wftVBIzTNHNjS3vfEso2pbbgXQnBmz3UugAATG4GS4pra12SczZn2DmNwZJi2/7IZBloFU4S0FzcRMG6YQhXkW3c0liDYIHEW8pRdMxRhdsM45mAZRhhp9GQIX9HVBHUNaCF96oxdslbginnQpast5/91rcUZXrRbxUAZbkaYX/qmelpf/0ivEcPcEIuwIDAQAB",
+   "manifest_version": 3,
+   "name": "Просмотр ответов на РЭШ",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3",
+   "web_accessible_resources": [ {
+      "matches": [ "*://resh.edu.ru/*" ],
+      "resources": [ "/script.js" ]
+   } ]
+}

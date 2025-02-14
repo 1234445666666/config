@@ -1,0 +1,55 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icons/128-grey.png",
+         "16": "icons/16-grey.png",
+         "32": "icons/32-grey.png",
+         "48": "icons/48-grey.png",
+         "64": "icons/64-grey.png"
+      },
+      "default_popup": "src/popup/popup.html",
+      "default_title": "__MSG_app_name_chrome__"
+   },
+   "background": {
+      "service_worker": "service-worker-loader.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "js": [ "assets/main.tsx-loader-iF6yyGcW.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   }, {
+      "js": [ "assets/main.tsx-loader-BiC_Tfxd.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "default_locale": "en",
+   "description": "__MSG_app_description__",
+   "differential_fingerprint": "1.1a1561b2f6920f98d5f70aa06c8c59107971bc0e520d30aaa528d2eb276af649",
+   "homepage_url": "https://veepn.com/",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnOw1/PZQz8jckxoVi7D0unGMrlG6wm72vnMA25aD9kV6d+5lh4m6cL0loHA1174DZUEGC/eYdbxOPzp+8lOPGllC9lVrg2lKwhOuqDIOu9rS69j+LW07fFWQ9o5Pmzc/gcsyEhFJsWPHNHS45xZzujpSMuFnE8Lc7lO9gq+nKw//rscl0rsQY9ymX4TDNmRj52hNrDfR64OU1dR43oa07Sqw5sXRki1BfNR6KxC4y0+P/IoO4vqsaG8XQ1H2zygSbkruiQ488xSvl1k9CXB1Rm00PyI0La/LCVPI8OEqTx0V4kGlDu9HsKqDIMnTrbC8nsZ6ZfKeeKoCgLxVd08KewIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "109",
+   "name": "__MSG_app_name_chrome__",
+   "permissions": [ "storage", "proxy", "tabs", "cookies", "notifications", "webRequest", "webRequestAuthProvider", "privacy", "management" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.3.1",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "fonts/FigtreeVF.woff2" ],
+      "use_dynamic_url": false
+   }, {
+      "matches": [ "http://*/*", "https://*/*" ],
+      "resources": [ "assets/x-close-cross-BQABqpBb.svg", "assets/logo-veepn-DYzqQ5GZ.svg", "assets/alert-BEaDoEhr.svg", "assets/client-CdnMx8Zm.js", "assets/index-B7uajRRb.js", "assets/main.tsx-BaKD51bG.js", "assets/x-close-cross-DFy6If8L.svg", "assets/logo-veepn-DbnXwVk8.svg", "assets/account-hijacked-BBvvqP8b.svg", "assets/compromised-password-vxxeRtFM.svg", "assets/data-leak-D-kVRZ4w.svg", "assets/public-document-B_twLPLq.svg", "assets/main.tsx-BeCHHWbu.js" ],
+      "use_dynamic_url": false
+   } ]
+}

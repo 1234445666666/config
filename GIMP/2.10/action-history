@@ -1,0 +1,26 @@
+# GIMP action-history
+
+(history-item "plug-in-animationplay" 2)
+(history-item "filters-color-balance" 0)
+(history-item "layers-new-from-visible" 2)
+(history-item "filters-colorize" 2)
+(history-item "edit-paste" 0)
+(history-item "edit-paste-as-new-image" 1)
+(history-item "image-duplicate" 0)
+(history-item "image-new" 0)
+(history-item "filters-color-temperature" 0)
+(history-item "filters-slic" 0)
+(history-item "filters-photocopy" 0)
+(history-item "view-zoom-revert" 0)
+(history-item "file-quit" 1)
+(history-item "file-open" 0)
+(history-item "layers-edit" 0)
+(history-item "edit-clear" 0)
+(history-item "tools-convolve" 0)
+(history-item "filters-edge" 0)
+(history-item "filters-gaussian-blur" 0)
+(history-item "filters-desaturate" 0)
+(history-item "filters-c2g" 0)
+(history-item "filters-difference-of-gaussians" 1)
+
+# end of action-history

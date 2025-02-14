@@ -1,0 +1,8 @@
+.header {
+    display: flex;
+
+}
+
+.header__hide {
+    display: none;
+}

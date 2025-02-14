@@ -1,0 +1,29 @@
+2025/01/15-13:34:59.852 1569d Creating DB /home/pasha/.config/google-chrome/Default/IndexedDB/https_www.banki.ru_0.indexeddb.leveldb since it was missing.
+2025/01/15-13:34:59.856 1569d Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_www.banki.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/15-13:34:59.864 1569c Level-0 table #5: started
+2025/01/15-13:34:59.866 1569c Level-0 table #5: 675 bytes OK
+2025/01/15-13:34:59.867 1569c Delete type=0 #3
+2025/01/15-13:34:59.867 1569c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/15-13:35:00.164 1569d Level-0 table #7: started
+2025/01/15-13:35:00.165 1569d Level-0 table #7: 666 bytes OK
+2025/01/15-13:35:00.167 1569d Delete type=0 #4
+2025/01/15-13:35:00.168 1569d Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/15-21:52:00.003 1569d Level-0 table #9: started
+2025/01/15-21:52:00.005 1569d Level-0 table #9: 2834 bytes OK
+2025/01/15-21:52:00.006 1569d Delete type=0 #6
+2025/01/15-21:52:00.006 1569d Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x05\x01\x02\x01\x0c\x00l\x00a\x00s\x00t\x00S\x00e\x00n\x00t\x00T\x00i\x00m\x00e' @ 203 : 1
+2025/01/15-21:52:00.006 1569d Compacting 1@0 + 1@1 files
+2025/01/15-21:52:00.007 1569d Generated table #10@0: 110 keys, 1936 bytes
+2025/01/15-21:52:00.007 1569d Compacted 1@0 + 1@1 files => 1936 bytes
+2025/01/15-21:52:00.008 1569d compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/15-21:52:00.008 1569d Delete type=2 #7
+2025/01/15-21:52:00.008 1569d Delete type=2 #9
+2025/01/15-21:52:00.009 1569d Manual compaction at level-0 from '\x00\x05\x01\x02\x01\x0c\x00l\x00a\x00s\x00t\x00S\x00e\x00n\x00t\x00T\x00i\x00m\x00e' @ 203 : 1 .. (end); will stop at (end)
+2025/01/15-21:52:00.009 1569d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x01\x02\x01\x0c\x00l\x00a\x00s\x00t\x00S\x00e\x00n\x00t\x00T\x00i\x00m\x00e' @ 203 : 1
+2025/01/15-21:52:00.009 1569d Compacting 1@1 + 1@2 files
+2025/01/15-21:52:00.010 1569d Generated table #11@1: 53 keys, 1345 bytes
+2025/01/15-21:52:00.010 1569d Compacted 1@1 + 1@2 files => 1345 bytes
+2025/01/15-21:52:00.011 1569d compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/15-21:52:00.011 1569d Delete type=2 #10
+2025/01/15-21:52:00.011 1569d Delete type=2 #5
+2025/01/15-21:52:00.011 1569d Manual compaction at level-1 from '\x00\x05\x01\x02\x01\x0c\x00l\x00a\x00s\x00t\x00S\x00e\x00n\x00t\x00T\x00i\x00m\x00e' @ 203 : 1 .. (end); will stop at (end)

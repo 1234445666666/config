@@ -1,0 +1,6 @@
+2024/12/14-18:28:03.832 edc4 Creating DB /home/pasha/.config/google-chrome/Default/IndexedDB/https_lifehacker.ru_0.indexeddb.leveldb since it was missing.
+2024/12/14-18:28:03.848 edc4 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_lifehacker.ru_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/14-22:50:35.858 edd0 Level-0 table #5: started
+2024/12/14-22:50:35.860 edd0 Level-0 table #5: 1836 bytes OK
+2024/12/14-22:50:35.862 edd0 Delete type=0 #3
+2024/12/14-22:50:35.862 edd0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

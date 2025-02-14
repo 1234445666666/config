@@ -1,0 +1,18 @@
+2025/01/04-18:05:46.654 33e Creating DB /home/pasha/.config/google-chrome/Default/IndexedDB/https_yandex.ru_0.indexeddb.leveldb since it was missing.
+2025/01/04-18:05:46.662 33e Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_yandex.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/04-18:05:58.923 36b Level-0 table #5: started
+2025/01/04-18:05:58.925 36b Level-0 table #5: 1125 bytes OK
+2025/01/04-18:05:58.928 36b Delete type=0 #3
+2025/01/04-18:05:58.928 340 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/04-18:08:13.239 33e Level-0 table #7: started
+2025/01/04-18:08:13.241 33e Level-0 table #7: 256 bytes OK
+2025/01/04-18:08:13.243 33e Delete type=0 #4
+2025/01/04-18:08:13.243 33e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/01/04-18:08:13.243 33e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x02\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 61 : 0
+2025/01/04-18:08:13.244 33e Compacting 1@1 + 1@2 files
+2025/01/04-18:08:13.245 33e Generated table #8@1: 19 keys, 550 bytes
+2025/01/04-18:08:13.245 33e Compacted 1@1 + 1@2 files => 550 bytes
+2025/01/04-18:08:13.247 33e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/04-18:08:13.247 33e Delete type=2 #7
+2025/01/04-18:08:13.248 33e Delete type=2 #5
+2025/01/04-18:08:13.248 33e Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x02\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 61 : 0 .. (end); will stop at (end)

@@ -1,0 +1,46 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  background-color: darkblue;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.header__input {
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.header__nav {
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.header__list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.header__item {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.header__button {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+

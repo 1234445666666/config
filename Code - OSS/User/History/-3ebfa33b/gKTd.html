@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Динамический поиск</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <div class="metro">
+        <h1>Выберете город</h1>
+        <select name="city" id="city">
+            <option value="msk">Москва</option>
+            <option value="spb">Санкт-Петербург</option>
+            <option value="sam">Самара</option>
+            <option value="kzn">Казань</option>
+            <option value="ekb">Екатеринбург</option>
+            <option value="nsk">Новосибирск</option>
+            <option value="nn">Нижний Новгород</option>
+        </select>
+        <button class="btn__open">Открыть</button>
+    </div>
+    <div class="base" style="display: none;">
+        <h1>Поиск вашей станции метро</h1>
+        <input type="text" placeholder="Введите название станции">
+        <div class="table">
+
+        </div>
+        <button class="btn__search">Поиск</button>
+    </div>
+   
+    
+</body>
+<script src="scripts/main.js"></script>
+</html>

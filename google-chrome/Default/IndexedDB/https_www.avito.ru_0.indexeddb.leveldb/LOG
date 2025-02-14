@@ -1,0 +1,28 @@
+2025/01/31-16:23:41.463 21e7 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_www.avito.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/31-16:23:41.463 21e7 Recovering log #17
+2025/01/31-16:23:41.463 21e7 Reusing old log /home/pasha/.config/google-chrome/Default/IndexedDB/https_www.avito.ru_0.indexeddb.leveldb/000017.log 
+2025/01/31-16:23:41.733 21e7 Level-0 table #23: started
+2025/01/31-16:23:41.734 21e7 Level-0 table #23: 637 bytes OK
+2025/01/31-16:23:41.736 21e7 Delete type=0 #17
+2025/01/31-16:23:41.737 21e7 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/31-16:23:44.617 21e9 Level-0 table #25: started
+2025/01/31-16:23:44.618 21e9 Level-0 table #25: 1518 bytes OK
+2025/01/31-16:23:44.620 21e9 Delete type=0 #22
+2025/01/31-16:23:44.620 21e7 Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at '\x00\x10\x00\x00\x05' @ 879 : 1
+2025/01/31-16:23:44.620 21e7 Compacting 1@0 + 1@1 files
+2025/01/31-16:23:44.622 21e7 Generated table #26@0: 30 keys, 1101 bytes
+2025/01/31-16:23:44.622 21e7 Compacted 1@0 + 1@1 files => 1101 bytes
+2025/01/31-16:23:44.623 21e7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/31-16:23:44.624 21e7 Delete type=2 #25
+2025/01/31-16:23:44.624 21e7 Manual compaction at level-0 from '\x00\x10\x00\x00\x05' @ 879 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/31-16:23:53.393 21e8 Level-0 table #28: started
+2025/01/31-16:23:53.394 21e8 Level-0 table #28: 1471 bytes OK
+2025/01/31-16:23:53.395 21e8 Delete type=0 #24
+2025/01/31-16:23:53.395 21e8 Delete type=2 #23
+2025/01/31-16:23:53.396 21e8 Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at '\x00\x11\x00\x00\x05' @ 925 : 1
+2025/01/31-16:23:53.396 21e8 Compacting 1@0 + 1@1 files
+2025/01/31-16:23:53.397 21e8 Generated table #29@0: 44 keys, 1235 bytes
+2025/01/31-16:23:53.397 21e8 Compacted 1@0 + 1@1 files => 1235 bytes
+2025/01/31-16:23:53.398 21e8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/31-16:23:53.398 21e8 Delete type=2 #28
+2025/01/31-16:23:53.398 21e8 Manual compaction at level-0 from '\x00\x11\x00\x00\x05' @ 925 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)

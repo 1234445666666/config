@@ -1,0 +1,6 @@
+2025/01/02-22:38:37.034 340 Creating DB /home/pasha/.config/google-chrome/Default/IndexedDB/https_ok.ru_0.indexeddb.leveldb since it was missing.
+2025/01/02-22:38:37.041 340 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_ok.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/02-22:38:46.179 340 Level-0 table #5: started
+2025/01/02-22:38:46.180 340 Level-0 table #5: 1826 bytes OK
+2025/01/02-22:38:46.182 340 Delete type=0 #3
+2025/01/02-22:38:46.183 340 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

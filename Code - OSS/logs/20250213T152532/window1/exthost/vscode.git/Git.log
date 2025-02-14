@@ -1,0 +1,38 @@
+2025-02-13 15:25:36.406 [info] [main] Log level: Info
+2025-02-13 15:25:36.406 [info] [main] Validating found git in: "git"
+2025-02-13 15:25:36.406 [info] [main] Using git "2.47.1" from "git"
+2025-02-13 15:25:36.406 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-13 15:25:36.406 [info] > git rev-parse --show-toplevel [28ms]
+2025-02-13 15:25:36.406 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2025-02-13 15:25:36.406 [info] [Model][openRepository] Opened repository: /home/pasha/coding/my/mem-card
+2025-02-13 15:25:36.408 [info] > git rev-parse --show-toplevel [26ms]
+2025-02-13 15:25:36.413 [info] > git config --get commit.template [45ms]
+2025-02-13 15:25:37.398 [info] > git rev-parse --show-toplevel [955ms]
+2025-02-13 15:25:37.572 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [181ms]
+2025-02-13 15:25:37.606 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/pasha/coding/my/mem-card/.git/refs/remotes/origin/main'
+2025-02-13 15:25:37.609 [info] > git check-ignore -v -z --stdin [202ms]
+2025-02-13 15:25:37.609 [info] > git rev-parse --show-toplevel [41ms]
+2025-02-13 15:25:37.718 [info] > git rev-parse refs/remotes/origin/main [112ms]
+2025-02-13 15:25:37.788 [info] > git status -z -uall [61ms]
+2025-02-13 15:25:37.788 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [51ms]
+2025-02-13 15:25:37.807 [info] > git rev-parse --show-toplevel [95ms]
+2025-02-13 15:25:37.821 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2025-02-13 15:25:37.832 [info] > git config --local branch.main.vscode-merge-base [3ms]
+2025-02-13 15:25:37.840 [info] > git rev-parse --show-toplevel [21ms]
+2025-02-13 15:25:37.840 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-02-13 15:25:37.874 [info] > git config --get commit.template [59ms]
+2025-02-13 15:25:37.882 [info] > git show --textconv :scripts/main.js [34ms]
+2025-02-13 15:25:37.882 [info] > git show --textconv :styles/main.css [18ms]
+2025-02-13 15:25:37.882 [info] > git ls-files --stage -- /home/pasha/coding/my/mem-card/styles/main.css [9ms]
+2025-02-13 15:25:37.889 [info] > git ls-files --stage -- /home/pasha/coding/my/mem-card/scripts/main.js [32ms]
+2025-02-13 15:25:37.895 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [56ms]
+2025-02-13 15:25:37.958 [info] > git merge-base refs/heads/main refs/remotes/origin/main [57ms]
+2025-02-13 15:25:37.967 [info] > git cat-file -s a8e06bcb729e3a58144ba7927882527d6d314000 [73ms]
+2025-02-13 15:25:37.967 [info] > git cat-file -s fadf71ab380a6524d53be0d4f595759cf3a6dc11 [79ms]
+2025-02-13 15:25:37.973 [info] > git diff --name-status -z --diff-filter=ADMR f3e522c09d4a336643caa18611b997a1627680a6...refs/remotes/origin/main [7ms]
+2025-02-13 15:25:37.974 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2025-02-13 15:25:37.985 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/pasha/coding/my/mem-card/.git/refs/remotes/origin/main'
+2025-02-13 15:25:37.986 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-02-13 15:25:38.014 [info] > git status -z -uall [21ms]
+2025-02-13 15:25:38.014 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+2025-02-13 15:25:38.017 [info] > git blame --root --incremental f3e522c09d4a336643caa18611b997a1627680a6 -- /home/pasha/coding/my/mem-card/scripts/main.js [5ms]

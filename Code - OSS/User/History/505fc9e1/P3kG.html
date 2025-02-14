@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Банк</title>
+    <link rel="stylesheet" href="styles/style.css" />
+  </head>
+  <body>
+    <main class="main">
+        <div class="calculator">
+            <h1>Калькулятор вклада</h1>
+            
+            <div class="input-group">
+                <label for="amount">Сумма вклада (₽)</label>
+                <input type="number" id="amount" placeholder="Введите сумму">
+            </div>
+    
+            <div class="input-group">
+                <label for="rate">Процентная ставка (%)</label>
+                <input type="number" id="rate" placeholder="Введите ставку">
+            </div>
+    
+            <div class="input-group">
+                <label for="term">Срок вклада (дней)</label>
+                <input type="number" id="term" placeholder="Введите срок">
+            </div>
+    
+            <button id="btn">Рассчитать</button>
+    
+            <div id="result" class="result" style="display: none;">
+                <h2>Результат расчета:</h2>
+                <p>Сумма к получению: <span id="totalAmount"></span></p>
+                <p>Доход по вкладу: <span id="profit"></span></p>
+            </div>
+    </main>
+  </body>
+  <script src="main.js"></script>
+</html>

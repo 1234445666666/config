@@ -1,0 +1,85 @@
+(VSCode) 2025-02-13 15:15:43.070 [INFO]: No proxy settings found
+(VSCode) 2025-02-13 15:15:44.063 [INFO]: Checking network connection...
+(VSCode) 2025-02-13 15:15:44.584 [INFO]: No Network Issue connecting to https://server.codeium.com/healthz
+(VSCode) 2025-02-13 15:15:44.865 [INFO]: Creating manager directory: /tmp/8f2f9999-32dd-434c-a0e6-3dff869570e6/codeium/manager
+(VSCode) 2025-02-13 15:15:45.148 [INFO]: Using cached LS with valid crc32: /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/f967d079379dbf4f485c8ce9fce1d4fae1c70ede/language_server_linux_x64
+(VSCode) 2025-02-13 15:15:45.154 [INFO]: Language server started
+2025/02/13 15:15:45 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+I0213 15:15:45.228626 15817 main.go:572] [Language Server Manager] Setting GOMAXPROCS to 8
+I0213 15:15:45.228699 15817 main.go:791] [Language Server Manager] Starting language server manager with pid 15817
+I0213 15:15:45.228817 15817 main.go:123] [Language Server Manager] Manager acquired its lock file /tmp/8f2f9999-32dd-434c-a0e6-3dff869570e6/codeium/manager/locks/manager.lock
+I0213 15:15:45.229337 15817 main.go:264] [Language Server Manager] Waiting for random port file in /tmp/8f2f9999-32dd-434c-a0e6-3dff869570e6/codeium/manager/child_random_port_1739448945228897727_8655554441785126726 to be created
+2025/02/13 15:15:45 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+I0213 15:15:45.308880 15830 main.go:572] Setting GOMAXPROCS to 4
+I0213 15:15:45.308971 15830 main.go:785] Starting language server process with pid 15830
+I0213 15:15:45.308998 15830 server.go:221] Language server will attempt to listen on host 127.0.0.1
+I0213 15:15:45.309107 15830 server.go:228] Language server listening on random port at 39139
+I0213 15:15:45.777509 15830 unleash.go:92] Initializing Unleash
+I0213 15:15:46.278032 15830 unleash.go:112] Successfully initialized Unleash
+I0213 15:15:46.278541 15830 server.go:306] Extension server port not specified; skipping extension server client creation
+I0213 15:15:46.289528 15830 web_server.go:258] Chat Web Server listening at ws://127.0.0.1:44453
+I0213 15:15:46.303570 15830 server.go:559] Successfully created API server client
+I0213 15:15:46.330355 15830 server.go:577] Successfully initialized tokenizer
+I0213 15:15:46.381464 15830 server.go:761] Local search is enabled, will index local files.
+I0213 15:15:46.381483 15830 server.go:765] Using 2 indexer workers
+I0213 15:15:46.395448 15830 server.go:854] Successfully created completion provider
+I0213 15:15:46.395489 15830 server.go:905] Child process attempting to acquire lock file /tmp/8f2f9999-32dd-434c-a0e6-3dff869570e6/codeium/manager/locks/child_lock_1739448945228915086_819061504538099562
+I0213 15:15:46.395562 15830 server.go:913] Child process acquired lock file /tmp/8f2f9999-32dd-434c-a0e6-3dff869570e6/codeium/manager/locks/child_lock_1739448945228915086_819061504538099562
+I0213 15:15:46.401735 15830 server.go:365] LSP listening on random port at 43221
+43221
+I0213 15:15:46.434048 15817 main.go:300] [Language Server Manager] Found random server port 39139
+I0213 15:15:46.434084 15817 main.go:301] [Language Server Manager] Found random lsp port 43221
+I0213 15:15:46.434108 15817 main.go:308] [Language Server Manager] Attempting to connect to language server at 127.0.0.1:39139
+I0213 15:15:46.445787 15817 main.go:177] [Language Server Manager] Fixing language server port at 39139
+I0213 15:15:46.445805 15817 main.go:360] [Language Server Manager] Successfully connected to new language server at 127.0.0.1:39139
+(VSCode) 2025-02-13 15:15:46.464 [INFO]: Found language server running on port 39139
+(VSCode) 2025-02-13 15:15:46.781 [INFO]: openAllTextDocuments took 5.629162999999608ms
+(VSCode) 2025-02-13 15:16:09.314 [INFO]: Completion request was cancelled by token (772.64ms)
+(VSCode) 2025-02-13 15:16:09.716 [INFO]: Completion request was cancelled by token (353.47ms)
+(VSCode) 2025-02-13 15:16:10.407 [INFO]: Completion request was cancelled by token (641.88ms)
+(VSCode) 2025-02-13 15:16:11.177 [INFO]: Completion request was cancelled by token (606.26ms)
+(VSCode) 2025-02-13 15:16:11.400 [INFO]: Completion request was cancelled by token (177.24ms)
+(VSCode) 2025-02-13 15:16:11.752 [INFO]: Completion request was cancelled by token (298.95ms)
+(VSCode) 2025-02-13 15:16:12.851 [INFO]: Completion request succeeded (984.62ms)
+(VSCode) 2025-02-13 15:16:12.857 [INFO]: Generated 3 completions
+(VSCode) 2025-02-13 15:16:12.865 [INFO]: provideInlineCompletionItems request succeeded (999.19ms)
+(VSCode) 2025-02-13 15:16:13.574 [INFO]: Completion request succeeded (13.95ms)
+(VSCode) 2025-02-13 15:16:13.575 [INFO]: Generated 2 completions
+(VSCode) 2025-02-13 15:16:13.577 [INFO]: provideInlineCompletionItems request succeeded (19.79ms)
+(VSCode) 2025-02-13 15:16:15.141 [INFO]: Completion request succeeded (12.25ms)
+(VSCode) 2025-02-13 15:16:15.142 [INFO]: Generated 2 completions
+(VSCode) 2025-02-13 15:16:15.143 [INFO]: provideInlineCompletionItems request succeeded (16.37ms)
+(VSCode) 2025-02-13 15:16:16.948 [INFO]: Completion request was cancelled by token (507.4ms)
+(VSCode) 2025-02-13 15:16:17.188 [INFO]: Completion request was cancelled by token (190.52ms)
+(VSCode) 2025-02-13 15:16:17.971 [INFO]: Completion request was cancelled by token (735.43ms)
+(VSCode) 2025-02-13 15:16:18.567 [INFO]: Completion request was cancelled by token (546.59ms)
+(VSCode) 2025-02-13 15:16:18.901 [INFO]: Completion request was cancelled by token (281.86ms)
+(VSCode) 2025-02-13 15:16:19.001 [INFO]: Completion request was cancelled by token (56.33ms)
+(VSCode) 2025-02-13 15:16:19.806 [INFO]: Completion request succeeded (752.82ms)
+(VSCode) 2025-02-13 15:16:19.806 [INFO]: No completions were generated
+(VSCode) 2025-02-13 15:16:19.806 [INFO]: provideInlineCompletionItems request succeeded (755.1ms)
+(VSCode) 2025-02-13 15:16:59.774 [INFO]: Completion request succeeded (523.12ms)
+(VSCode) 2025-02-13 15:16:59.776 [INFO]: No completions were generated
+(VSCode) 2025-02-13 15:16:59.777 [INFO]: provideInlineCompletionItems request succeeded (526.92ms)
+(VSCode) 2025-02-13 15:17:00.365 [INFO]: Completion request was cancelled by token (405.05ms)
+(VSCode) 2025-02-13 15:18:46.949 [INFO]: Completion request was cancelled by token (1726.33ms)
+(VSCode) 2025-02-13 15:18:47.114 [INFO]: Completion request was cancelled by token (115.78ms)
+(VSCode) 2025-02-13 15:18:47.353 [INFO]: Completion request was cancelled by token (194.93ms)
+(VSCode) 2025-02-13 15:18:47.932 [INFO]: Completion request succeeded (525.6ms)
+(VSCode) 2025-02-13 15:18:47.935 [INFO]: Generated 4 completions
+(VSCode) 2025-02-13 15:18:47.939 [INFO]: provideInlineCompletionItems request succeeded (533.48ms)
+(VSCode) 2025-02-13 15:19:27.050 [INFO]: Completion request succeeded (495.11ms)
+(VSCode) 2025-02-13 15:19:27.053 [INFO]: Generated 2 completions
+(VSCode) 2025-02-13 15:19:27.054 [INFO]: provideInlineCompletionItems request succeeded (499.85ms)
+(VSCode) 2025-02-13 15:19:28.206 [INFO]: Completion request was cancelled by token (271.99ms)
+(VSCode) 2025-02-13 15:19:28.359 [INFO]: Completion request was cancelled by token (61.57ms)
+(VSCode) 2025-02-13 15:19:28.668 [INFO]: Completion request was cancelled by token (205.54ms)
+(VSCode) 2025-02-13 15:19:28.755 [INFO]: Completion request succeeded (13.49ms)
+(VSCode) 2025-02-13 15:19:28.758 [INFO]: Generated 2 completions
+(VSCode) 2025-02-13 15:19:28.759 [INFO]: provideInlineCompletionItems request succeeded (18.59ms)
+(VSCode) 2025-02-13 15:22:34.141 [INFO]: Completion request was cancelled by token (1069.51ms)
+(VSCode) 2025-02-13 15:22:34.332 [INFO]: Completion request was cancelled by token (146.23ms)
+(VSCode) 2025-02-13 15:23:19.761 [INFO]: Disposing language server process
+(VSCode) 2025-02-13 15:23:19.761 [INFO]: Deleting manager directory: /tmp/8f2f9999-32dd-434c-a0e6-3dff869570e6/codeium/manager
+(VSCode) 2025-02-13 15:23:19.762 [INFO]: Successfully disposed language server
+W0213 15:23:19.761758 15817 main.go:127] [Language Server Manager] Got signal terminated, shutting down

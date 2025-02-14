@@ -1,0 +1,6 @@
+2025/02/07-09:50:09.827 8e34 Creating DB /home/pasha/.config/google-chrome/Default/IndexedDB/https_thecode.media_0.indexeddb.leveldb since it was missing.
+2025/02/07-09:50:09.829 8e34 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_thecode.media_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/07-09:55:19.374 8e35 Level-0 table #5: started
+2025/02/07-09:55:19.376 8e35 Level-0 table #5: 1839 bytes OK
+2025/02/07-09:55:19.378 8e35 Delete type=0 #3
+2025/02/07-09:55:19.379 8e35 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Магазин обуви</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <header class="header">
+        <h1 class="header__title">Магазин обуви</h1>
+        <nav class="nav">
+            <ul class="menu"> 
+                <li class="menu__item"><a class="menu__item__active" href="#">Главная</a></li>
+                <li class="menu__item"><a class="menu__item__active" href="#">Каталог</a></li>
+                <li class="menu__item"><a class="menu__item__active" href="#">Доставка</a></li>
+                <li class="menu__item"><a class="menu__item__active" href="#">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="main">
+        <div class="main__container">
+            <h2 class="main__title">Добро пожаловать в мой магазин обуви!</h2>
+            <p class="main__text">Мы предлагаем широкий выбор обуви для всех возрастов и стилей.</p>
+        </div>
+        <section class="products">
+            <div class="product-card">
+                <img src="images/shoe1.jpg" alt="Кроссовки">
+                <h2>Кроссовки</h2>
+                <p>Цена: 5000 руб.</p>
+                <div class="quantity-controls">
+                    <button class="decrease">-</button>
+                    <span class="quantity">0</span>
+                    <button class="increase">+</button>
+                </div>
+                <button class="add-to-cart">Добавить в корзину</button>
+            </div>
+
+            <div class="product-card">
+                <img src="images/shoe2.jpeg" alt="Туфли">
+                <h2>Туфли</h2>
+                <p>Цена: 7000 руб.</p>
+                <div class="quantity-controls">
+                    <button class="decrease">-</button>
+                    <span class="quantity">0</span>
+                    <button class="increase">+</button>
+                </div>
+                <button class="add-to-cart">Добавить в корзину</button>
+            </div>
+
+            <div class="product-card">
+                <img src="images/shoe3.jpg" alt="Ботинки">
+                <h2>Ботинки</h2>
+                <p>Цена: 9000 руб.</p>
+                <div class="quantity-controls">
+                    <button class="decrease">-</button>
+                    <span class="quantity">0</span>
+                    <button class="increase">+</button>
+                </div>
+                <button class="add-to-cart">Добавить в корзину</button>
+            </div>
+            <div class="product-card">
+                <img src="images/shoe1.jpg" alt="Кроссовки">
+                <h2>Кроссовки</h2>
+                <p>Цена: 5000 руб.</p>
+                <div class="quantity-controls">
+                    <button class="decrease">-</button>
+                    <span class="quantity">0</span>
+                    <button class="increase">+</button>
+                </div>
+                <button class="add-to-cart">Добавить в корзину</button>
+            </div>
+
+            <div class="product-card">
+                <img src="images/shoe2.jpeg" alt="Туфли">
+                <h2>Туфли</h2>
+                <p>Цена: 7000 руб.</p>
+                <div class="quantity-controls">
+                    <button class="decrease">-</button>
+                    <span class="quantity">0</span>
+                    <button class="increase">+</button>
+                </div>
+                <button class="add-to-cart">Добавить в корзину</button>
+            </div>
+
+            <div class="product-card">
+                <img src="images/shoe3.jpg" alt="Ботинки">
+                <h2>Ботинки</h2>
+                <p>Цена: 9000 руб.</p>
+                <div class="quantity-controls">
+                    <button class="decrease">-</button>
+                    <span class="quantity">0</span>
+                    <button class="increase">+</button>
+                </div>
+                <button class="add-to-cart">Добавить в корзину</button>
+            </div>
+            <div class="product-card">
+                <img src="images/shoe1.jpg" alt="Кроссовки">
+                <h2>Кроссовки</h2>
+                <p>Цена: 5000 руб.</p>
+                <div class="quantity-controls">
+                    <button class="decrease">-</button>
+                    <span class="quantity">0</span>
+                    <button class="increase">+</button>
+                </div>
+                <button class="add-to-cart">Добавить в корзину</button>
+            </div>
+
+            <div class="product-card">
+                <img src="images/shoe2.jpg" alt="Туфли">
+                <h2>Туфли</h2>
+                <p>Цена: 7000 руб.</p>
+                <div class="quantity-controls">
+                    <button class="decrease">-</button>
+                    <span class="quantity">0</span>
+                    <button class="increase">+</button>
+                </div>
+                <button class="add-to-cart">Добавить в корзину</button>
+            </div>
+
+            <div class="product-card">
+                <img src="images/shoe3.jpg" alt="Ботинки">
+                <h2>Ботинки</h2>
+                <p>Цена: 9000 руб.</p>
+                <div class="quantity-controls">
+                    <button class="decrease">-</button>
+                    <span class="quantity">0</span>
+                    <button class="increase">+</button>
+                </div>
+                <button class="add-to-cart">Добавить в корзину</button>
+            </div>
+            <div class="product-card">
+                <img src="images/shoe1.jpg" alt="Кроссовки">
+                <h2>Кроссовки</h2>
+                <p>Цена: 5000 руб.</p>
+                <div class="quantity-controls">
+                    <button class="decrease">-</button>
+                    <span class="quantity">0</span>
+                    <button class="increase">+</button>
+                </div>
+                <button class="add-to-cart">Добавить в корзину</button>
+            </div>
+        </section>
+
+        <section class="cart">
+            <h2>Корзина</h2>
+            <ul id="cart-items">
+                <!-- Здесь будут отображаться товары в корзине -->
+            </ul>
+            <p>Итого: <span id="total-price">0</span> руб.</p>
+            <button id="clear-cart">Очистить корзину</button>
+        </section>
+
+
+
+    </main>
+   
+    
+</body>
+<script src="main.js"></script>
+</html 

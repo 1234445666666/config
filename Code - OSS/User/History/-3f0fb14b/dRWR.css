@@ -1,0 +1,37 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 0 1rem;
+}
+ 
+.hamburger-menu {
+    display: none;
+}
+ 
+.hamburger {
+    width: 30px;
+    height: 3px;
+    background-color: white;
+    margin: 5px;
+}
+ 
+.nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+ 
+.nav-links li a {
+    color: white;
+    text-decoration: none;
+    padding: 1rem;
+}
+ 
+/* Медиазапрос для мобильных устройств */
+@media (max-width: 768px) {
+    .hamburger-menu {
+        display: block;
+    }

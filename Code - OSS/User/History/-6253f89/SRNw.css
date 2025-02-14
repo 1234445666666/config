@@ -1,0 +1,53 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.main__input {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.main__btn {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.main__btn2 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.main__btn3 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.main__list {
+}
+
+
+
+
+
+
+
+
+
+
+
+.removeLi {
+    color: red;
+    cursor: pointer;
+    text-decoration: underline;
+}

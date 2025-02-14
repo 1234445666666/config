@@ -1,0 +1,14 @@
+2025/01/23-12:43:05.872 2aaa9 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_codeium.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/23-12:43:05.872 2aaa9 Recovering log #12
+2025/01/23-12:43:05.872 2aaa9 Reusing old log /home/pasha/.config/google-chrome/Default/IndexedDB/https_codeium.com_0.indexeddb.leveldb/000012.log 
+2025/01/23-12:43:05.872 2aaa9 Delete type=2 #11
+2025/01/23-12:43:05.924 2aaab Level-0 table #17: started
+2025/01/23-12:43:05.925 2aaab Level-0 table #17: 6202 bytes OK
+2025/01/23-12:43:05.926 2aaab Delete type=0 #12
+2025/01/23-12:43:05.927 2aaa9 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 398 : 1
+2025/01/23-12:43:05.927 2aaa9 Compacting 1@0 + 1@1 files
+2025/01/23-12:43:05.928 2aaa9 Generated table #18@0: 117 keys, 4649 bytes
+2025/01/23-12:43:05.928 2aaa9 Compacted 1@0 + 1@1 files => 4649 bytes
+2025/01/23-12:43:05.929 2aaa9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/23-12:43:05.930 2aaa9 Delete type=2 #17
+2025/01/23-12:43:05.930 2aaa9 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 398 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,18 @@
+2024/12/17-10:32:42.561 16799 Creating DB /home/pasha/.config/google-chrome/Default/IndexedDB/https_www.joom.ru_0.indexeddb.leveldb since it was missing.
+2024/12/17-10:32:42.579 16799 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_www.joom.ru_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/17-10:32:42.688 1679a Level-0 table #5: started
+2024/12/17-10:32:42.690 1679a Level-0 table #5: 666 bytes OK
+2024/12/17-10:32:42.692 1679a Delete type=0 #3
+2024/12/17-10:32:42.692 16798 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/17-10:32:47.177 16799 Level-0 table #7: started
+2024/12/17-10:32:47.178 16799 Level-0 table #7: 5510 bytes OK
+2024/12/17-10:32:47.180 16799 Delete type=0 #4
+2024/12/17-10:32:47.180 16799 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/12/17-10:32:47.180 16799 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x04\x00h\x00a\x00s\x00h' @ 280 : 1
+2024/12/17-10:32:47.181 16799 Compacting 1@1 + 1@2 files
+2024/12/17-10:32:47.182 16799 Generated table #8@1: 51 keys, 1669 bytes
+2024/12/17-10:32:47.182 16799 Compacted 1@1 + 1@2 files => 1669 bytes
+2024/12/17-10:32:47.183 16799 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/17-10:32:47.183 16799 Delete type=2 #7
+2024/12/17-10:32:47.184 16799 Delete type=2 #5
+2024/12/17-10:32:47.184 16799 Manual compaction at level-1 from '\x00\x04\x01\x02\x01\x04\x00h\x00a\x00s\x00h' @ 280 : 1 .. (end); will stop at (end)

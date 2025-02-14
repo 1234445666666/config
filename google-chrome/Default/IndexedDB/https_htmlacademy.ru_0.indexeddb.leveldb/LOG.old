@@ -1,0 +1,15 @@
+2025/02/07-00:22:08.609 8e34 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_htmlacademy.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/07-00:22:08.609 8e34 Recovering log #15
+2025/02/07-00:22:08.609 8e34 Reusing old log /home/pasha/.config/google-chrome/Default/IndexedDB/https_htmlacademy.ru_0.indexeddb.leveldb/000015.log 
+2025/02/07-00:29:28.536 8e35 Level-0 table #20: started
+2025/02/07-00:29:28.537 8e35 Level-0 table #20: 945 bytes OK
+2025/02/07-00:29:28.539 8e35 Delete type=0 #15
+2025/02/07-00:29:28.540 8e35 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/02/07-00:29:28.540 8e35 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0c\x00l\x00a\x00s\x00t\x00S\x00e\x00n\x00t\x00T\x00i\x00m\x00e' @ 299 : 1
+2025/02/07-00:29:28.540 8e35 Compacting 1@1 + 1@2 files
+2025/02/07-00:29:28.541 8e35 Generated table #21@1: 38 keys, 869 bytes
+2025/02/07-00:29:28.541 8e35 Compacted 1@1 + 1@2 files => 869 bytes
+2025/02/07-00:29:28.542 8e35 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/07-00:29:28.542 8e35 Delete type=2 #17
+2025/02/07-00:29:28.542 8e35 Delete type=2 #20
+2025/02/07-00:29:28.542 8e35 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0c\x00l\x00a\x00s\x00t\x00S\x00e\x00n\x00t\x00T\x00i\x00m\x00e' @ 299 : 1 .. (end); will stop at (end)

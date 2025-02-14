@@ -1,0 +1,7 @@
+2024/12/14-15:01:47.730 edd0 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_vlscppe.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/14-15:01:47.731 edd0 Recovering log #3
+2024/12/14-15:01:47.731 edd0 Reusing old log /home/pasha/.config/google-chrome/Default/IndexedDB/https_vlscppe.microsoft.com_0.indexeddb.leveldb/000003.log 
+2024/12/14-15:02:17.881 edd2 Level-0 table #5: started
+2024/12/14-15:02:17.883 edd2 Level-0 table #5: 1276 bytes OK
+2024/12/14-15:02:17.885 edd2 Delete type=0 #3
+2024/12/14-15:02:17.885 edd2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

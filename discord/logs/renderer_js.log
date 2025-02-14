@@ -1,0 +1,18 @@
+[2024-12-07 14:21:38.681] [info]  DiscordSplash.signalReady
+[2024-12-07 14:21:38.707] [info]  DiscordSplash.onStateUpdate: {"status":"installing-updates","current":1,"total":6}
+[2024-12-07 14:21:38.707] [info]  Splash.onStateUpdate: {"status":"installing-updates","current":1,"total":6}
+[2024-12-07 14:21:38.708] [info]  DiscordSplash.onStateUpdate: {"status":"installing-updates","current":2,"total":6}
+[2024-12-07 14:21:38.709] [info]  Splash.onStateUpdate: {"status":"installing-updates","current":2,"total":6}
+[2024-12-07 14:21:38.709] [info]  DiscordSplash.onStateUpdate: {"status":"installing-updates","current":3,"total":6}
+[2024-12-07 14:21:38.709] [info]  Splash.onStateUpdate: {"status":"installing-updates","current":3,"total":6}
+[2024-12-07 14:21:38.710] [info]  DiscordSplash.onStateUpdate: {"status":"installing-updates","current":4,"total":6}
+[2024-12-07 14:21:38.710] [info]  Splash.onStateUpdate: {"status":"installing-updates","current":4,"total":6}
+[2024-12-07 14:21:38.710] [info]  DiscordSplash.onStateUpdate: {"status":"installing-updates","current":5,"total":6}
+[2024-12-07 14:21:38.710] [info]  Splash.onStateUpdate: {"status":"installing-updates","current":5,"total":6}
+[2024-12-07 14:21:38.711] [info]  DiscordSplash.onStateUpdate: {"status":"installing-updates","current":6,"total":6}
+[2024-12-07 14:21:38.711] [info]  Splash.onStateUpdate: {"status":"installing-updates","current":6,"total":6}
+[2024-12-07 14:21:38.711] [info]  DiscordSplash.onStateUpdate: {"status":"checking-for-updates","current":6,"total":6}
+[2024-12-07 14:21:38.711] [info]  Splash.onStateUpdate: {"status":"checking-for-updates","current":6,"total":6}
+[2024-12-08 02:04:09.232] [info]  DiscordSplash.signalReady
+[2024-12-08 02:04:09.263] [info]  DiscordSplash.onStateUpdate: {"status":"checking-for-updates"}
+[2024-12-08 02:04:09.264] [info]  Splash.onStateUpdate: {"status":"checking-for-updates"}

@@ -1,0 +1,17 @@
+2024-12-07T11:21:38.481Z 0: 
+
+----------------------------------------------
+2024-12-07T11:21:38.485Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.76"}, modulepath: /home/pasha/.config/discord/0.0.76/modules
+2024-12-07T11:21:38.487Z 2: ✅ webContents.created web1 ""
+2024-12-07T11:21:38.488Z 3: ✅ window.created win1 "discord"
+2024-12-07T11:21:38.738Z 4: ✅ webContents.did-finish-load web1
+2024-12-07T11:21:55.699Z 5: window.close win1
+2024-12-07T23:04:09.034Z 0: 
+
+----------------------------------------------
+2024-12-07T23:04:09.042Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.76"}, modulepath: /home/pasha/.config/discord/0.0.76/modules
+2024-12-07T23:04:09.046Z 2: ✅ webContents.created web1 ""
+2024-12-07T23:04:09.047Z 3: ✅ window.created win1 "discord"
+2024-12-07T23:04:09.343Z 4: ✅ webContents.did-finish-load web1
+2024-12-07T23:04:09.575Z 5: window.close win1
+2024-12-07T23:04:09.589Z 6: webContents.destroyed web1

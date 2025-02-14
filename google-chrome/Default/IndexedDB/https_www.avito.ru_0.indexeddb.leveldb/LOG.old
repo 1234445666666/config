@@ -1,0 +1,63 @@
+2025/01/31-13:58:38.293 21e8 Creating DB /home/pasha/.config/google-chrome/Default/IndexedDB/https_www.avito.ru_0.indexeddb.leveldb since it was missing.
+2025/01/31-13:58:38.297 21e8 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_www.avito.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/31-13:58:38.349 21f3 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/31-13:58:57.394 21f7 Level-0 table #5: started
+2025/01/31-13:58:57.396 21f7 Level-0 table #5: 6722 bytes OK
+2025/01/31-13:58:57.397 21f7 Delete type=0 #3
+2025/01/31-13:58:57.398 21e8 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/31-13:59:05.099 21e9 Level-0 table #7: started
+2025/01/31-13:59:05.100 21e9 Level-0 table #7: 14988 bytes OK
+2025/01/31-13:59:05.102 21e9 Delete type=0 #4
+2025/01/31-13:59:05.102 21e7 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/31-13:59:16.871 21e9 Level-0 table #9: started
+2025/01/31-13:59:16.873 21e9 Level-0 table #9: 46336 bytes OK
+2025/01/31-13:59:16.875 21e9 Delete type=0 #6
+2025/01/31-13:59:16.875 21e7 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\x05' @ 641 : 1
+2025/01/31-13:59:16.875 21e7 Compacting 1@0 + 1@1 files
+2025/01/31-13:59:16.876 21e7 Generated table #10@0: 120 keys, 56582 bytes
+2025/01/31-13:59:16.876 21e7 Compacted 1@0 + 1@1 files => 56582 bytes
+2025/01/31-13:59:16.878 21e7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/31-13:59:16.878 21e7 Delete type=2 #9
+2025/01/31-13:59:16.878 21e7 Manual compaction at level-0 from '\x00\x0c\x00\x00\x05' @ 641 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/31-13:59:45.504 21e7 Level-0 table #12: started
+2025/01/31-13:59:45.505 21e7 Level-0 table #12: 1225 bytes OK
+2025/01/31-13:59:45.506 21e7 Delete type=0 #8
+2025/01/31-13:59:45.506 21e7 Delete type=2 #7
+2025/01/31-13:59:45.507 21e7 Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0d\x00\x00\x05' @ 687 : 1
+2025/01/31-13:59:45.507 21e7 Compacting 1@0 + 1@1 files
+2025/01/31-13:59:45.508 21e7 Generated table #13@0: 130 keys, 56770 bytes
+2025/01/31-13:59:45.508 21e7 Compacted 1@0 + 1@1 files => 56770 bytes
+2025/01/31-13:59:45.509 21e7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/31-13:59:45.510 21e7 Delete type=2 #12
+2025/01/31-13:59:45.510 21e7 Manual compaction at level-0 from '\x00\x0d\x00\x00\x05' @ 687 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/31-14:00:52.933 21e7 Level-0 table #15: started
+2025/01/31-14:00:52.934 21e7 Level-0 table #15: 1547 bytes OK
+2025/01/31-14:00:52.935 21e7 Delete type=0 #11
+2025/01/31-14:00:52.935 21e7 Delete type=2 #10
+2025/01/31-14:00:52.936 21e7 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\x05' @ 733 : 1
+2025/01/31-14:00:52.936 21e7 Compacting 1@0 + 1@1 files
+2025/01/31-14:00:52.937 21e7 Generated table #16@0: 147 keys, 56424 bytes
+2025/01/31-14:00:52.937 21e7 Compacted 1@0 + 1@1 files => 56424 bytes
+2025/01/31-14:00:52.938 21e7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/31-14:00:52.939 21e7 Delete type=2 #15
+2025/01/31-14:00:52.939 21e7 Manual compaction at level-0 from '\x00\x0e\x00\x00\x05' @ 733 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/31-14:01:08.463 21e8 Level-0 table #18: started
+2025/01/31-14:01:08.465 21e8 Level-0 table #18: 75489 bytes OK
+2025/01/31-14:01:08.467 21e8 Delete type=2 #13
+2025/01/31-14:01:08.467 21e8 Delete type=0 #14
+2025/01/31-14:01:08.468 21e8 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x0a\x01\x1f\x03\x000=U\xc0KyB\x00\x06`7\x82 \xb6\x0a`.\x01`\xf6\x011\x00\xb8@C\x01\xb8\x12\xcap\x1d\x00\xe6\xd0\x0c#\x1aP\x0c\xe7\x86\x00\xb0\x80\x0d\x08\x009\xa0\x13\x9a`R\xa8\x00\xd9f\x0e\x14\x019\x19\xc0\x06f"\xb4\x14\x00\x19\x19\x8a\xc3\xca\x04V]\x92\x80\x80\x03\xc01\x8f\x00\xae\x08 \x01S@M@m\x10]\x191\x00\x17@/\x93\xa0\x00' @ 812 : 1
+2025/01/31-14:01:08.468 21e8 Compacting 1@0 + 1@1 files
+2025/01/31-14:01:08.471 21e8 Generated table #19@0: 167 keys, 56293 bytes
+2025/01/31-14:01:08.471 21e8 Compacted 1@0 + 1@1 files => 56293 bytes
+2025/01/31-14:01:08.472 21e8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/31-14:01:08.473 21e8 Delete type=2 #16
+2025/01/31-14:01:08.473 21e8 Delete type=2 #18
+2025/01/31-14:01:08.474 21e8 Manual compaction at level-0 from '\x00\x0a\x01\x1f\x03\x000=U\xc0KyB\x00\x06`7\x82 \xb6\x0a`.\x01`\xf6\x011\x00\xb8@C\x01\xb8\x12\xcap\x1d\x00\xe6\xd0\x0c#\x1aP\x0c\xe7\x86\x00\xb0\x80\x0d\x08\x009\xa0\x13\x9a`R\xa8\x00\xd9f\x0e\x14\x019\x19\xc0\x06f"\xb4\x14\x00\x19\x19\x8a\xc3\xca\x04V]\x92\x80\x80\x03\xc01\x8f\x00\xae\x08 \x01S@M@m\x10]\x191\x00\x17@/\x93\xa0\x00' @ 812 : 1 .. (end); will stop at (end)
+2025/01/31-14:01:08.474 21e8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0a\x01\x1f\x03\x000=U\xc0KyB\x00\x06`7\x82 \xb6\x0a`.\x01`\xf6\x011\x00\xb8@C\x01\xb8\x12\xcap\x1d\x00\xe6\xd0\x0c#\x1aP\x0c\xe7\x86\x00\xb0\x80\x0d\x08\x009\xa0\x13\x9a`R\xa8\x00\xd9f\x0e\x14\x019\x19\xc0\x06f"\xb4\x14\x00\x19\x19\x8a\xc3\xca\x04V]\x92\x80\x80\x03\xc01\x8f\x00\xae\x08 \x01S@M@m\x10]\x191\x00\x17@/\x93\xa0\x00' @ 812 : 1
+2025/01/31-14:01:08.474 21e8 Compacting 1@1 + 1@2 files
+2025/01/31-14:01:08.477 21e8 Generated table #20@1: 149 keys, 56825 bytes
+2025/01/31-14:01:08.477 21e8 Compacted 1@1 + 1@2 files => 56825 bytes
+2025/01/31-14:01:08.479 21e8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/31-14:01:08.479 21e8 Delete type=2 #19
+2025/01/31-14:01:08.479 21e8 Delete type=2 #5
+2025/01/31-14:01:08.480 21e8 Manual compaction at level-1 from '\x00\x0a\x01\x1f\x03\x000=U\xc0KyB\x00\x06`7\x82 \xb6\x0a`.\x01`\xf6\x011\x00\xb8@C\x01\xb8\x12\xcap\x1d\x00\xe6\xd0\x0c#\x1aP\x0c\xe7\x86\x00\xb0\x80\x0d\x08\x009\xa0\x13\x9a`R\xa8\x00\xd9f\x0e\x14\x019\x19\xc0\x06f"\xb4\x14\x00\x19\x19\x8a\xc3\xca\x04V]\x92\x80\x80\x03\xc01\x8f\x00\xae\x08 \x01S@M@m\x10]\x191\x00\x17@/\x93\xa0\x00' @ 812 : 1 .. (end); will stop at (end)

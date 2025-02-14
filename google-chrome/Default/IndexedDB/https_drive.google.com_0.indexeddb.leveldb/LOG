@@ -1,0 +1,6 @@
+2025/02/14-08:58:58.049 339 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/14-08:58:58.049 339 Recovering log #1073
+2025/02/14-08:58:58.068 339 Reusing old log /home/pasha/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/001073.log 
+2025/02/14-08:59:51.790 339 Level-0 table #1077: started
+2025/02/14-08:59:51.808 339 Level-0 table #1077: 1970311 bytes OK
+2025/02/14-08:59:51.811 339 Delete type=0 #1073

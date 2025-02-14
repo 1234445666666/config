@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h1 {
+    color: #D19BC8;
+}

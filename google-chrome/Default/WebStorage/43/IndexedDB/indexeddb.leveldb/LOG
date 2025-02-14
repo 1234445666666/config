@@ -1,0 +1,6 @@
+2024/12/07-01:22:37.012 3fa Creating DB /home/pasha/.config/google-chrome/Default/WebStorage/43/IndexedDB/indexeddb.leveldb since it was missing.
+2024/12/07-01:22:37.015 3fa Reusing MANIFEST /home/pasha/.config/google-chrome/Default/WebStorage/43/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/12/07-01:25:51.049 3f9 Level-0 table #5: started
+2024/12/07-01:25:51.055 3f9 Level-0 table #5: 8841 bytes OK
+2024/12/07-01:25:51.056 3f9 Delete type=0 #3
+2024/12/07-01:25:51.057 3f9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

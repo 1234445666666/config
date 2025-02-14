@@ -1,0 +1,45 @@
+.registration {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.password {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.password__control {
+    cursor: pointer;
+}
+
+.password__control:hover {
+    text-decoration: underline;
+}
+
+.password__control:active {
+    text-decoration: none;
+}
+
+.password__control:visited {
+    text-decoration: none;
+}
+
+.password {
+    display: none;  
+    
+}
+

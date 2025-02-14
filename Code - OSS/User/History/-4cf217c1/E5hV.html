@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Расчет процентов вклада</title>
+    <link rel="stylesheet" href="styles/style.css" />
+  </head>
+  <body>
+    <main class="main">
+      <div class="container">
+        <div class="content">
+          <form action="#">
+            <input type="number" value="" placeholder="Сумма вклада" />
+            <select name="" id="">
+              <option value="">RUB</option>
+              <option value="">USD</option>
+              <option value="">EUR</option>
+            </select>
+          </form>
+
+          <form action="#">
+            <input type="number" value="0" placeholder="Срок вклада" />
+            <select name="" id="">
+              <option value="">RUB</option>
+              <option value="">USD</option>
+              <option value="">EUR</option>
+            </select>
+          </form>
+
+          <form action="#">
+            <input type="number" value="0" placeholder="Процент" />
+          </form>
+
+          <input type="checkbox" name="" id="" />
+          <label for="">Начисление процентов с учетом капитализации</label>
+
+          <input type="checkbox" name="" id="" />
+          <label for="">Попоплнение вклада</label>
+
+          <button type="submit">Рассчитать</button>
+        </div>
+        <div class="result">
+          <h2 class="result__title">Результат рассчета</h2>
+          <p class="result__original">0</p>
+          <p class="result__percent">0</p>
+          <p class="result__sum">0</p>
+          <p></p>
+        </div>
+      </div>
+    </main>
+  </body>
+  <script src="main.js"></script>
+</html>

@@ -1,0 +1,236 @@
+#btnBack {
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+
+  &:hover {
+    background-color: black;
+    color: white;
+  }
+}
+.registration {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+}
+
+input {
+  width: 240px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+
+  &:focus {
+    border: 2px solid black;
+    outline: none;
+  }
+
+  &::placeholder {
+    color: black;
+  }
+}
+
+.registration__btn {
+  width: 240px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+
+  &:hover {
+    background-color: black;
+    color: white;
+  }
+}
+
+.password {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  width: 600px;
+  height: 600px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.password h1 {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.password__control {
+  position: absolute;
+  z-index: 1;
+  top: 230px;
+  right: 200px;
+  width: 30px;
+  height: 30px;
+  background: url(/images/password.svg) 0 0 no-repeat;
+  cursor: pointer;
+}
+
+.password__control.view {
+  background: url(/images/eye.svg) 0 0 no-repeat;}
+
+#btn__check {
+  width: 240px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+
+  &:hover {
+    background-color: black;
+    color: white;
+  }
+}
+
+.users__base {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  width: 600px;
+  height: 600px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#btnUsers {
+  width: 240px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+
+  &:hover {
+    background-color: black;
+    color: white;
+  }
+}
+
+#btnBack2 {
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+
+  &:hover {
+    background-color: black;
+    color: white;
+  }
+}
+
+.users__list {
+  list-style-type: none;
+}
+
+.users__list li {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  width: 600px;
+  height: 600px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+}
+
+@media (max-width: 600px) {
+  .password {
+    width: 100%;
+    height: 100%;
+  }
+
+  .users__base {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+@media (max-width: 400px) {
+  .registration {
+    width: 100%;
+    height: 100%;
+  }
+
+  .password {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+@media (max-width: 300px) {
+  .password {
+    width: 100%;
+    height: 100%;
+  }
+
+  .users__base {
+    width: 100%;
+    height: 100%;
+  }
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <div class="form">
+        <h1>Регистрация данных пользователя</h1>
+        <form action="#">
+            <input type="text" id="name" placeholder="Введите ваше имя">
+            <input type="email" id="email" placeholder="Введите ваш email">
+            <input type="password" id="password" placeholder="Введите ваш пароль">
+            <input type="password" id="repeat-password" placeholder="Повторите ваш пароль">
+            <button type="submit" class="btn__submit">Зарегистрироваться</button>
+        </form>
+        <button class="btn__open">данные формы</button>
+    </div>
+
+    <div class="base" style="display: none;">
+        <h1>База данных</h1>
+        <table class="table" border="1">
+            <tr>
+                <th>Имя</th>
+                <th>Email</th>
+                <th>Пароль</th>
+            </tr>
+            <tr>
+                <!-- <td>данные пользователя</td>
+                <td></td>
+                <td></td> -->
+            </tr>
+
+        </table>
+        <button class="btn__close">вернуться</button>
+    </div>
+
+
+    
+</body>
+<script src="main.js"></script>
+</html>

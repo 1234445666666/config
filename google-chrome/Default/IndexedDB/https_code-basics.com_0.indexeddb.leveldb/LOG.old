@@ -1,0 +1,6 @@
+2024/12/07-15:54:42.386 3f8 Creating DB /home/pasha/.config/google-chrome/Default/IndexedDB/https_code-basics.com_0.indexeddb.leveldb since it was missing.
+2024/12/07-15:54:42.393 3f8 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_code-basics.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/07-15:55:15.468 3f8 Level-0 table #5: started
+2024/12/07-15:55:15.470 3f8 Level-0 table #5: 1840 bytes OK
+2024/12/07-15:55:15.472 3f8 Delete type=0 #3
+2024/12/07-15:55:15.473 3f8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

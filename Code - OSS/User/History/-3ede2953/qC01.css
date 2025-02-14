@@ -1,0 +1,45 @@
+.header {
+    background-color: darkblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    height: 100px;
+
+}
+
+.logo {
+    border-radius: 70px;
+    width: 70px;
+    height: 70px;
+    margin-left: 100px;
+}
+
+.header__input {
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.header__nav {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-right: 100px;
+}
+
+.header__list {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    color: white;
+}
+
+.header__button {
+    border: none;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px 20px;
+    color: black;
+}

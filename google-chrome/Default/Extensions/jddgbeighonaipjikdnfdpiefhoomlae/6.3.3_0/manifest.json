@@ -1,0 +1,62 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "public/icons/icon128.png",
+         "16": "public/icons/icon16.png",
+         "48": "public/icons/icon48.png"
+      },
+      "default_popup": "action/default_popup.html"
+   },
+   "background": {
+      "service_worker": "background/service_worker.js"
+   },
+   "content_scripts": [ {
+      "css": [  ],
+      "js": [ "content_scripts/content-0.js" ],
+      "matches": [ "*://*.ubstv.click/*" ],
+      "run_at": "document_start"
+   }, {
+      "css": [  ],
+      "js": [ "content_scripts/content-1.js" ],
+      "matches": [ "*://*.youtube.com/*" ],
+      "run_at": "document_idle"
+   }, {
+      "css": [ "content_scripts/content-2.css", "/public/content-variables.css" ],
+      "js": [ "content_scripts/content-2.js" ],
+      "matches": [ "*://*.youtube.com/*", "*://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "css": [  ],
+      "js": [ "content_scripts/content-3.js" ],
+      "matches": [ "*://*.youtube.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "css": [ "content_scripts/content-4.css" ],
+      "js": [ "content_scripts/content-4.js" ],
+      "matches": [ "*://*.storage.googleapis.com/*" ],
+      "run_at": "document_idle"
+   }, {
+      "css": [ "content_scripts/content-5.css" ],
+      "js": [ "content_scripts/content-5.js" ],
+      "matches": [ "*://*.youtube.com/*" ],
+      "run_at": "document_idle"
+   } ],
+   "description": "Ускоряет YouTube и обходит блокирову Ютуб в России. Скажи нет замедлению Ютуб. Без регистрации.",
+   "differential_fingerprint": "1.53dd0148d8633c94b04cdc5f81db67aec314a3a0d79924c7aa534edcaa57004c",
+   "host_permissions": [ "https://*.youtube.com/*" ],
+   "icons": {
+      "128": "public/icons/icon128.png",
+      "16": "public/icons/icon16.png",
+      "48": "public/icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6O5bR1Z442gruX/t4THQw1UmLasEx2w1kfwfTYByZPt0dArRnciUW0UuRVdv4Wk9rQcU2dU2fJ73i10lf7hXhfAweXUDD1vkzkGOlc23vIclNEdFIhlrdxs6NfSidtb4qqj7IZuySAvV78Nbf7nNGZURiWMJJYSp3i7KQsxjBqBVRzZSPh+MnS2CeeYXoIzTxoWkXyRd2gsfTnCftZAPdfppx0gPPNrQyTJnlnwHW/UniVcVLghCRf44V6U2L7RTvyGIKV+krhkRD/kRCNgSdsto7AEBNJYH5U9Nr5JPMj3y1IWVvX2QZ8/3bj4PiMYKb1MDM7kNULp2z+KiTld7SwIDAQAB",
+   "manifest_version": 3,
+   "name": "ЮБуст - Обход блокировки YouTube. ВПН для Ютуб без рекламы",
+   "permissions": [ "proxy", "storage", "webRequest", "activeTab", "tabs", "alarms" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "6.3.3",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*.ubstv.click/*", "*://*.youtube.com/*", "*://*.youtube.com/*", "*://*.google.com/*", "*://*.youtube.com/*", "*://*.storage.googleapis.com/*", "*://*.youtube.com/*" ],
+      "resources": [ "web_accessible_resources/*" ]
+   } ]
+}

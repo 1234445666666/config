@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style/style.css" />
+  </head>
+  <body>
+    <div class="registration" style="display: flex">
+      <h1>Регистрация</h1>
+      <input type="text" id="enterLogin" placeholder="введите ваш логин" />
+      <input
+        type="text" id="enterPassword" placeholder="введите ваш пароль"
+      />
+      <button class="registration__btn">Зарегистрироваться</button>
+    </div>
+
+    <div class="password" style="display: none;">
+      <h1>Проверка данных пользователя</h1>
+      <input type="password" id="enterPassword" placeholder="введите ваш логин" />
+      <input type="password" id="checkPassword" placeholder="введите пароль" />
+      <a href="#" class="password__control">показать пароль</a>
+      <button id="btn">Проверить</button>
+    </div>
+  </body>
+  <script src="main.js"></script>
+</html>

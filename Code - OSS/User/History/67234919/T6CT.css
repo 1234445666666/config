@@ -1,0 +1,30 @@
+.footer {
+    background-color: var(--color-background-footer);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.footer h1 {
+    color: white;
+}
+
+.footer nav {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.footer nav ul {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    color: white;
+}
+
+.footer nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+

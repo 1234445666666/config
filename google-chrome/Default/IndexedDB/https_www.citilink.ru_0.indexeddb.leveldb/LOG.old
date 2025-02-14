@@ -1,0 +1,7 @@
+2024/12/22-17:47:41.051 32f Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_www.citilink.ru_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/22-17:47:41.052 32f Recovering log #3
+2024/12/22-17:47:41.052 32f Reusing old log /home/pasha/.config/google-chrome/Default/IndexedDB/https_www.citilink.ru_0.indexeddb.leveldb/000003.log 
+2024/12/22-17:47:50.934 32f Level-0 table #5: started
+2024/12/22-17:47:50.935 32f Level-0 table #5: 6515 bytes OK
+2024/12/22-17:47:50.936 32f Delete type=0 #3
+2024/12/22-17:47:50.936 32f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

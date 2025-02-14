@@ -1,0 +1,33 @@
+const Input = document.querySelector('.main__input');
+
+const btnAdd = document.querySelector('.main__btn');
+
+const btnRemoveONE = document.querySelector('.main__btn2');
+
+const btnRemoveALL = document.querySelector('.main__btn3');
+
+const list = document.querySelector('.main__list');
+
+btnAdd.addEventListener('click', () => {
+    const li = document.createElement('li');
+    li.textContent = Input.value;
+    list.appendChild(li);
+    Input.value = '';
+});
+
+btnRemoveONE.addEventListener('click', () => {
+    list.removeChild(list.lastElementChild);
+});
+
+btnRemoveALL.addEventListener('click', () =>
+    list.innerHTML = ''
+);
+
+li.addEventListener('click', () => {
+    if (event.target.tagName === "LI") {
+        event.target.classList.toggle("removeLi");
+    }
+    
+});
+
+

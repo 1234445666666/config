@@ -1,0 +1,15 @@
+2025/01/24-16:22:13.518 419d5 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_premier.one_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/24-16:22:13.519 419d5 Recovering log #15
+2025/01/24-16:22:13.520 419d5 Reusing old log /home/pasha/.config/google-chrome/Default/IndexedDB/https_premier.one_0.indexeddb.leveldb/000015.log 
+2025/01/26-02:03:50.419 419d6 Level-0 table #20: started
+2025/01/26-02:03:50.421 419d6 Level-0 table #20: 45214 bytes OK
+2025/01/26-02:03:50.423 419d6 Delete type=0 #15
+2025/01/26-02:03:50.424 419d6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/01/26-02:03:50.424 419d6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01\x0c\x00l\x00a\x00s\x00t\x00S\x00e\x00n\x00t\x00T\x00i\x00m\x00e' @ 13433 : 1
+2025/01/26-02:03:50.424 419d6 Compacting 1@1 + 1@2 files
+2025/01/26-02:03:50.425 419d6 Generated table #21@1: 53 keys, 1419 bytes
+2025/01/26-02:03:50.425 419d6 Compacted 1@1 + 1@2 files => 1419 bytes
+2025/01/26-02:03:50.427 419d6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/26-02:03:50.427 419d6 Delete type=2 #17
+2025/01/26-02:03:50.427 419d6 Delete type=2 #20
+2025/01/26-02:03:50.427 419d6 Manual compaction at level-1 from '\x00\x03\x01\x02\x01\x0c\x00l\x00a\x00s\x00t\x00S\x00e\x00n\x00t\x00T\x00i\x00m\x00e' @ 13433 : 1 .. (end); will stop at (end)

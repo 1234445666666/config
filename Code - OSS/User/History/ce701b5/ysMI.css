@@ -1,0 +1,87 @@
+body.dark {
+  background-color: black;
+  color: white;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.main__form {
+  display: flex;
+  font-size: 1.7rem;
+  justify-content: center;
+  margin: 15px 0;
+  padding: 0.8rem;
+}
+
+.main__input {
+  padding: 8px;
+  border: 1px solid black;
+}
+
+.main__input:active {
+
+}
+
+.main__input:focus {
+
+}
+
+.main__add {
+  background: #03d8b6;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 8px;
+  text-transform: uppercase;
+  color: white;
+  border-left: none;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+.main__removeOne {
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 5px;
+  cursor: pointer;
+  background-color: white;
+}
+
+.main__removeAll {
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 5px;
+  cursor: pointer;
+  background-color: white;
+}
+
+.main__removeOne:hover , .main__removeAll:hover {
+  background-color: #03d8b6;
+  color: white;
+  transition: 0.4s all ease;
+}
+
+.main__list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 1.7rem;
+  margin: 15px 0;
+  padding: 0.8rem;
+  width: 100%;
+}
+
+.main__wrapper {
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+
+.removeLi {
+  color: gray;
+  cursor: pointer;
+  text-decoration: line-through;
+  transition: 0.4s all ease;
+}

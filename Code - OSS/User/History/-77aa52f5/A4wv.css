@@ -1,0 +1,49 @@
+header {
+    display: flex;
+
+    padding: 20px;
+    background-color: #484283;
+    width: 100%;
+}
+
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #484283;
+    width: 100%;
+    border-bottom: 1px solid white;
+ 
+} 
+
+
+.logo {
+    color: white;
+    margin-left: 370px;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    margin-right: 370px;
+}
+
+.menu-list {
+    display: flex;
+    list-style: none;
+}
+
+.menu-list li {
+    margin-right: 40px;
+}
+
+.menu-list a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+

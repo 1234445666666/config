@@ -1,0 +1,14 @@
+@import url(header.css);
+@import url(/style/main.css);
+@import url(/style/footer.css);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-inline-size: 360px;
+  max-inline-size: 1920px;
+}

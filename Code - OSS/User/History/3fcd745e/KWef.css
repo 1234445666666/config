@@ -1,0 +1,52 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+}
+
+.header__title {
+    font-size: 44px;
+    color: black;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    list-style: none;
+}
+
+.menu__item {
+    margin-right: 20px;
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.menu__item__active {
+    text-decoration: none;
+    color: black;
+   
+
+}
+
+.menu__item__active:hover {
+    color: rgba(6, 60, 110, 0.774);
+
+
+}
+
+
+
+
+
+
+
+
+
+
+

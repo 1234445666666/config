@@ -1,0 +1,903 @@
+{
+   "checksum": "dbd2ff62941edab1ef0ec39b4fa44dd4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13303514358301945",
+            "date_last_used": "13383944869282499",
+            "guid": "0c8275c8-eb63-4b78-a2b8-5289a3e4e592",
+            "id": "78",
+            "name": "Telegram",
+            "type": "url",
+            "url": "https://web.telegram.org/z/"
+         }, {
+            "date_added": "13314198702410576",
+            "date_last_used": "13383844501053446",
+            "guid": "c5a27065-de3c-4174-a88e-3c90d3bc677f",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Новости",
+            "type": "url",
+            "url": "https://vk.com/feed"
+         }, {
+            "date_added": "13314813217984899",
+            "date_last_used": "13382801418279032",
+            "guid": "709ec7b0-6b71-4e9c-9132-a3361d857190",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Откройте для себя - Роблокс",
+            "type": "url",
+            "url": "https://www.roblox.com/discover#/"
+         }, {
+            "date_added": "13315859673471448",
+            "date_last_used": "13382803779568388",
+            "guid": "8076d07e-9759-4b61-8a93-79ba2d069d6f",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Twitch",
+            "type": "url",
+            "url": "https://www.twitch.tv/"
+         }, {
+            "date_added": "13319756197759062",
+            "date_last_used": "13377251055361528",
+            "guid": "3ba4d94c-e3b3-45ba-a448-7c68792d0a67",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "РБК Инвестиции - новости инвестиций, котировки акций и курсы валют",
+            "type": "url",
+            "url": "https://quote.ru/"
+         }, {
+            "date_added": "13336233557667295",
+            "date_last_used": "13356300406827916",
+            "guid": "1fbfc78c-8440-48f3-b9ee-a072a24bdd90",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Купить предметы | Магазин Dota 2",
+            "type": "url",
+            "url": "https://market.dota2.net/"
+         }, {
+            "date_added": "13337362693819201",
+            "date_last_used": "13359416435854557",
+            "guid": "38d34f8e-cc5d-439e-b9a0-9fe24fd51221",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "INSTUDY",
+            "type": "url",
+            "url": "https://spo.instudy.online/home"
+         }, {
+            "date_added": "13373410615134611",
+            "date_last_used": "13380377411651050",
+            "guid": "f771da04-8ace-4686-a254-4456c6576578",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "переводчик — Яндекс: нашлась 541 тыс. результатов",
+            "type": "url",
+            "url": "https://yandex.ru/search/?clid=2285101&text=%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA&lr=213"
+         }, {
+            "date_added": "13358459798882494",
+            "date_last_used": "13378546674554589",
+            "guid": "85e57204-9f0c-435d-a33d-eb4eac30bb54",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Сети для начинающего IT-специалиста. Обязательная база / Хабр",
+            "type": "url",
+            "url": "https://habr.com/ru/articles/491540/"
+         }, {
+            "date_added": "13358459923912630",
+            "date_last_used": "13378546676139063",
+            "guid": "6e8e6298-8452-48d8-b1e1-04b10b1ea3e0",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Архитектура и безопасность операционных систем",
+            "type": "url",
+            "url": "https://dspace.kpfu.ru/xmlui/bitstream/handle/net/20351/06_42_001103.pdf"
+         }, {
+            "date_added": "13358461561361593",
+            "date_last_used": "13378546677146828",
+            "guid": "7fb6f243-d80b-4320-ba4b-e11d2c4a4076",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Библиотека видеокурсов",
+            "type": "url",
+            "url": "https://www.networkeducation.ru/video"
+         }, {
+            "children": [ {
+               "date_added": "13371561251851567",
+               "date_last_used": "0",
+               "guid": "cbee6171-4aa1-48e7-b24b-f5f7cc2d6408",
+               "id": "35",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Browse Fonts - Google Fonts",
+               "type": "url",
+               "url": "https://fonts.google.com/"
+            }, {
+               "date_added": "13371560163732285",
+               "date_last_used": "0",
+               "guid": "7ccd9317-15e4-4118-8259-82b2dfdbbc8a",
+               "id": "36",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Могу ли я использовать... Таблицы поддержки для HTML5, CSS3 и т. д.",
+               "type": "url",
+               "url": "https://caniuse.com/"
+            }, {
+               "date_added": "13371598368743490",
+               "date_last_used": "13378978029864268",
+               "guid": "b654e4a1-2390-4154-bd40-4686300b05c1",
+               "id": "37",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "1234445666666",
+               "type": "url",
+               "url": "https://github.com/1234445666666"
+            }, {
+               "date_added": "13371644313217201",
+               "date_last_used": "0",
+               "guid": "0703821c-5aa1-4a68-b961-797407886cdd",
+               "id": "38",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Интерактивный курс по SQL — SQL Academy",
+               "type": "url",
+               "url": "https://sql-academy.org/ru/guide"
+            }, {
+               "date_added": "13371651489913464",
+               "date_last_used": "0",
+               "guid": "0617e2ec-0581-4587-b737-bfc7cc33d176",
+               "id": "39",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Подборки // CodeRun",
+               "type": "url",
+               "url": "https://coderun.yandex.ru/selections"
+            }, {
+               "date_added": "13371684021099980",
+               "date_last_used": "0",
+               "guid": "49c213c1-19f3-461d-82bb-6cb535f810b6",
+               "id": "40",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "flex css: 2 тыс изображений найдено в Яндекс Картинках",
+               "type": "url",
+               "url": "https://yandex.ru/images/search?img_url=https%3A%2F%2Fpreview.redd.it%2Frofzm44oka091.png%3Fauto%3Dwebp%26s%3D99a6ec87e79b8ad7d6b614c95e8a65933fadca4d&lr=213&pos=0&rpt=simage&source=serp&stype=image&text=flex%20css"
+            }, {
+               "date_added": "13371687977282050",
+               "date_last_used": "0",
+               "guid": "956be168-72f1-4d52-a7c2-06794d3ad0fa",
+               "id": "41",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "eternnoir/pyTelegramBotAPI: API бота Python Telegram.",
+               "type": "url",
+               "url": "https://github.com/eternnoir/pyTelegramBotAPI?tab=readme-ov-file#callback-query-handler"
+            }, {
+               "date_added": "13371735614142024",
+               "date_last_used": "0",
+               "guid": "8127f37b-ce7f-4bb6-ba9b-e9ab2c868114",
+               "id": "42",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "15 ИСиП 23 О.2 ХК 1 - Google Таблицы",
+               "type": "url",
+               "url": "https://docs.google.com/spreadsheets/d/1kU9s2mRdGAG0Xisuytdx6812jVqqPbLJsBrU_1gWVdc/edit?yqrid=220da14b&gid=0#gid=0"
+            }, {
+               "date_added": "13371754570537938",
+               "date_last_used": "0",
+               "guid": "ef7e345e-c01d-4188-853a-98eb5a41b5f6",
+               "id": "43",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(458) Практический курс по SQL для начинающих - #1 Введение в PostgreSQL - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=HVQNxdI6fqY&list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF"
+            }, {
+               "date_added": "13372118392630394",
+               "date_last_used": "0",
+               "guid": "b40d47ea-2979-423c-b09f-8ed797025086",
+               "id": "44",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Вакансия Стажер в ИТ в г Москва - работа в Сбере",
+               "type": "url",
+               "url": "https://rabota.sber.ru/search/4290770/"
+            }, {
+               "date_added": "13372325304133823",
+               "date_last_used": "0",
+               "guid": "4ca61339-5c3a-4cd4-bc1b-378ec276269f",
+               "id": "45",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "cFavicon Generator из любого текста или изображения - LogoAI.com",
+               "type": "url",
+               "url": "https://www.logoai.com/favicon-generator?s=c"
+            }, {
+               "date_added": "13372325310723472",
+               "date_last_used": "0",
+               "guid": "236caa9a-a3b1-4f7e-880f-a85de6fc49e7",
+               "id": "46",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Лучший генератор фавиконов (совершенно бесплатный) - favicon.io",
+               "type": "url",
+               "url": "https://favicon.io/"
+            }, {
+               "date_added": "13372458689718983",
+               "date_last_used": "0",
+               "guid": "e189c83f-a116-4811-b0a0-8f894c28bb1e",
+               "id": "47",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Monkeytype | Минималистичный, настраиваемый тест печати",
+               "type": "url",
+               "url": "https://monkeytype.com/"
+            }, {
+               "date_added": "13372461109771738",
+               "date_last_used": "0",
+               "guid": "48dda167-1a2a-4846-8d44-19d42a665e5b",
+               "id": "48",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "General",
+               "type": "url",
+               "url": "https://github.com/1234445666666/telebot/settings"
+            }, {
+               "date_added": "13372724813045889",
+               "date_last_used": "0",
+               "guid": "936ace3b-f451-4c7f-a39a-e2091c96d1d7",
+               "id": "49",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Сочетания клавиш для Visual Studio Code",
+               "type": "url",
+               "url": "https://www.nikomedvedev.ru/other/vscodeshortcuts/hotkeys.html"
+            }, {
+               "date_added": "13372873597498913",
+               "date_last_used": "13378145881418265",
+               "guid": "1401dbc3-837a-447a-af03-7f4b5b61d176",
+               "id": "50",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Практические работы - Основы алгоритмизации и программирования - Google Таблицы",
+               "type": "url",
+               "url": "https://docs.google.com/spreadsheets/d/1TM1C9at1FItahfIao4hdT1rYpguRGUzF3J8ENmt36TM/edit?gid=0#gid=0"
+            }, {
+               "date_added": "13373067806217606",
+               "date_last_used": "0",
+               "guid": "a11f6822-26db-4dd8-aa9b-c7f64e8a8d6a",
+               "id": "51",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Символ",
+               "type": "url",
+               "url": "https://ru.piliapp.com/symbol/"
+            }, {
+               "date_added": "13373156371933802",
+               "date_last_used": "0",
+               "guid": "8d68ecec-4892-41c7-aa91-3c460fb55077",
+               "id": "52",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.",
+               "type": "url",
+               "url": "https://tailwindcss.com/"
+            }, {
+               "date_added": "13373157665374901",
+               "date_last_used": "0",
+               "guid": "177bc2ce-08f2-4e09-898a-16380733bc25",
+               "id": "53",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "OpenResume — бесплатный конструктор и анализатор резюме с открытым исходным кодом",
+               "type": "url",
+               "url": "https://www.open-resume.com/resume-builder"
+            }, {
+               "date_added": "13373159069777360",
+               "date_last_used": "0",
+               "guid": "edc23e72-f277-41cc-a53f-674a30efe625",
+               "id": "54",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Учебник VSCode | Codeium · Бесплатное завершение кода ИИ и чат",
+               "type": "url",
+               "url": "https://codeium.com/vscode_tutorial?extensionName=vscode&page=install&access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjhkOWJlZmQzZWZmY2JiYzgyYzgzYWQwYzk3MmM4ZWE5NzhmNmYxMzciLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoi0J_QsNGI0LAg0JrQsNGA0L_QvtCyIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL2V4YTItZmIxNzAiLCJhdWQiOiJleGEyLWZiMTcwIiwiYXV0aF90aW1lIjoxNzI4Njg1NDI1LCJ1c2VyX2lkIjoiQm9zdXk0eEpsdWNNYXFjV0VoTXowMjZLang3MyIsInN1YiI6IkJvc3V5NHhKbHVjTWFxY1dFaE16MDI2S2p4NzMiLCJpYXQiOjE3Mjg2ODU0MzksImV4cCI6MTcyODY4OTAzOSwiZW1haWwiOiJwLmsuMjcwNjA3QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJwLmsuMjcwNjA3QGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.sgL3Kt_Qx3kl6pJDFjA0cqIpFZSf86mHmMwqeNfiOWnnpFpPZpfAxuRvxxBhK7rHqXoWUGXp1_pjVQBB9N1LYjR1_DXIKRPaPA0Il1BhJl6hcAhjQcfvQzFbmw3GKwL7knCoDHrSAdXo31metHv5wI1Eg4SL4Ht3uegbPboXxkK0MLfsLa5Df3xAdYpkHwQxx13gQLsKsnQlNMOPF1aS-gcuUGUZ3WVoXmyCJcXwL0hAADcLA8evnjEolwwotJeUqYLMTgB4r9BGOQnpD8P30q8OBPM5OrIQzvnc59Mf3T35E74lqiHRtjOZ8od-kNtOuEJuRRwy-U0Tr53jXHdqKg"
+            }, {
+               "date_added": "13355314546338446",
+               "date_last_used": "13373410633445598",
+               "guid": "e3b6925e-002a-413a-8fc1-14b9494177fc",
+               "id": "55",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Самый полный стартовый гайд по ботам Telegram (python) / Хабр",
+               "type": "url",
+               "url": "https://habr.com/ru/articles/697052/"
+            }, {
+               "date_added": "13355313993496631",
+               "date_last_used": "13373410651215666",
+               "guid": "e0bc1f9e-e7e4-44eb-8b14-61b4122a765f",
+               "id": "56",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Задачи по программированию c проверкой - CodeChick",
+               "type": "url",
+               "url": "https://codechick.io/challenges"
+            }, {
+               "date_added": "13357367668768323",
+               "date_last_used": "13373410658074975",
+               "guid": "607b33cb-25c2-42b4-9d5f-0a37b17a1297",
+               "id": "57",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Что такое язык ассемблера и кому его нужно изучать / Skillbox Media",
+               "type": "url",
+               "url": "https://skillbox.ru/media/code/chto-takoe-assembler/"
+            }, {
+               "date_added": "13357367672064807",
+               "date_last_used": "13373410667635020",
+               "guid": "badc6a8a-dcfa-470f-b45c-d6046784bdf5",
+               "id": "58",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(14) ЯЗЫК АССЕМБЛЕРА С НУЛЯ | #1 НАЧАЛО - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=PHyIP9g9BQw"
+            }, {
+               "date_added": "13374424169593217",
+               "date_last_used": "0",
+               "guid": "58970c51-a283-4b2c-8e7e-dd2896277f24",
+               "id": "59",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Конкатенация | JavaScript | CodeBasics",
+               "type": "url",
+               "url": "https://code-basics.com/ru/languages/javascript/lessons/string-concatenation"
+            }, {
+               "date_added": "13374592429789088",
+               "date_last_used": "0",
+               "guid": "cb889466-2eda-4835-b19e-b084d59d8275",
+               "id": "60",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Арифметические операции",
+               "type": "url",
+               "url": "https://ru.hexlet.io/courses/js-basics/lessons/arithmetics/exercise_unit"
+            }, {
+               "date_added": "13374620854318151",
+               "date_last_used": "0",
+               "guid": "9258dcd5-f541-4426-9937-68ebb5a5d976",
+               "id": "61",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Шпаргалка по Vim",
+               "type": "url",
+               "url": "https://vim.rtorr.com/"
+            }, {
+               "date_added": "13374621247930956",
+               "date_last_used": "0",
+               "guid": "339f5402-3c79-46b5-a34a-349f2997ee36",
+               "id": "62",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Полезные статьи. Основы работы с редактором VIM. LTD Beget.",
+               "type": "url",
+               "url": "https://beget.com/ru/kb/how-to/other/osnovy-raboty-s-redaktorom-vim#rabota-s-faylami"
+            }, {
+               "date_added": "13374625528750459",
+               "date_last_used": "0",
+               "guid": "f1090f85-ad56-4200-88cb-d6a01cad15e6",
+               "id": "63",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "100 команд Linux для ежедневной работы / Tproger",
+               "type": "url",
+               "url": "https://tproger.ru/articles/100-komand-linux-dlya-ezhednevnoj-raboty"
+            }, {
+               "date_added": "13374829488978839",
+               "date_last_used": "0",
+               "guid": "e66f6882-40ac-4904-9d5c-0ee402bdca04",
+               "id": "64",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Интерполяция мин-макс-значений",
+               "type": "url",
+               "url": "https://min-max-calculator.9elements.com/"
+            }, {
+               "date_added": "13374970261723502",
+               "date_last_used": "0",
+               "guid": "edc79d98-0b18-4522-b1c8-1c00c5b00761",
+               "id": "65",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Слайдер на чистом CSS",
+               "type": "url",
+               "url": "https://codepen.io/aleksey1967/pen/NWroPwv"
+            }, {
+               "date_added": "13375006988976240",
+               "date_last_used": "13378546769424912",
+               "guid": "227cb3a9-d9ab-42c4-8a8a-ad723c949ff8",
+               "id": "66",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Dananz – Figma",
+               "type": "url",
+               "url": "https://www.figma.com/design/txd9ZCN80qADFUreB1cQuK/Dananz?node-id=1-540&node-type=frame&t=1RgxXjqXZC2zctE9-0"
+            }, {
+               "date_added": "13375012267556999",
+               "date_last_used": "0",
+               "guid": "d0159a8d-2a4b-4472-a4d6-5447993607a8",
+               "id": "67",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Premium Car Blog Template – Figma",
+               "type": "url",
+               "url": "https://www.figma.com/design/t3nWfvHyMK3VVuMN2n0ZUq/Premium-Car-Blog-Template?node-id=0-2&node-type=frame&t=qthe59P6NsG8L1y3-0"
+            }, {
+               "date_added": "13375230743480784",
+               "date_last_used": "0",
+               "guid": "a0affc50-02ae-402d-b65a-1bb12a79162e",
+               "id": "68",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "JavaScript - Изучение веб-разработки | MDN",
+               "type": "url",
+               "url": "https://developer.mozilla.org/ru/docs/Learn/JavaScript"
+            }, {
+               "date_added": "13377210702877454",
+               "date_last_used": "0",
+               "guid": "6a2f4854-984b-4541-8816-15b7b701dc53",
+               "id": "69",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "r/unixporn - the home for *NIX customization!",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/?rdt=39324"
+            }, {
+               "date_added": "13378083284062106",
+               "date_last_used": "0",
+               "guid": "535afa2e-3c2d-4767-acf2-f1e80427133f",
+               "id": "73",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "SneakMax YouTube – Figma",
+               "type": "url",
+               "url": "https://www.figma.com/design/EEiUY5PZ7GiO2hYRth11Yy/SneakMax-YouTube?node-id=43-389&node-type=canvas&t=1yrmF05M1dfnOUhV-0"
+            }, {
+               "date_added": "13378546624141947",
+               "date_last_used": "0",
+               "guid": "d693b1db-f7fb-40de-b116-ff022eb8f526",
+               "id": "75",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Frontend Developer Roadmap: What is Frontend Development?",
+               "type": "url",
+               "url": "https://roadmap.sh/frontend"
+            }, {
+               "date_added": "13378595622786280",
+               "date_last_used": "0",
+               "guid": "95e2c966-f870-478e-9311-3653fb29f693",
+               "id": "76",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Mobile-Locator: Пробить человека по номеру телефона",
+               "type": "url",
+               "url": "https://mobile-location.org/punch-phone-number"
+            }, {
+               "date_added": "13378595647940076",
+               "date_last_used": "0",
+               "guid": "fa8e35fb-5fad-4473-a704-c078ee4180ad",
+               "id": "77",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Сервис проверки номера – НИИ Радио",
+               "type": "url",
+               "url": "https://www.niir.ru/bdpn/bdpn-proverka-nomera/"
+            }, {
+               "date_added": "13377870123921144",
+               "date_last_used": "0",
+               "guid": "7a650aae-0000-45b5-a99e-3a231680203f",
+               "id": "5",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "New Tab",
+               "type": "url",
+               "url": "chrome://newtab/"
+            }, {
+               "date_added": "13378856791170217",
+               "date_last_used": "0",
+               "guid": "231a3fd4-66c5-4322-8f06-7d4a198c6ada",
+               "id": "90",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "35+ бесплатных игр на JavaScript (Code+ Demo)",
+               "type": "url",
+               "url": "https://foolishdeveloper.com/free-javascript-games-code/"
+            }, {
+               "date_added": "13379638761481080",
+               "date_last_used": "0",
+               "guid": "84de851b-aae5-407c-ad05-8d5c4fa9ad0b",
+               "id": "92",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Whirl – Figma",
+               "type": "url",
+               "url": "https://www.figma.com/design/0PG1gaVMbmQzjDEwqyCJzZ/Whirl?node-id=2-626&t=zAaCT70oTTPnloVm-0"
+            }, {
+               "date_added": "13379640991301751",
+               "date_last_used": "0",
+               "guid": "7df611ea-d334-4808-95a3-76b892be44ec",
+               "id": "93",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Пионер – Figma",
+               "type": "url",
+               "url": "https://www.figma.com/design/rTIAAgDAufAPl61AWjYlrb/%D0%9F%D0%B8%D0%BE%D0%BD%D0%B5%D1%80?node-id=0-11&t=tVl1rWn4rLKCfn3a-0"
+            }, {
+               "date_added": "13380594080280775",
+               "date_last_used": "0",
+               "guid": "d12e64b5-0c3a-47da-8ab0-b11853afc5df",
+               "id": "95",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "tusharnankani/ToDoList: A dynamic and aesthetic To-Do List Website built with HTML, CSS, Vanilla JavaScript.",
+               "type": "url",
+               "url": "https://github.com/tusharnankani/ToDoList"
+            }, {
+               "date_added": "13380596339406032",
+               "date_last_used": "0",
+               "guid": "841fc250-7772-4faf-a05b-64335ee324d4",
+               "id": "97",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "LayoutFlow - Responsive HTML & CSS Website Templates",
+               "type": "url",
+               "url": "https://layoutflow.com/"
+            }, {
+               "date_added": "13380596406617345",
+               "date_last_used": "13381120948021501",
+               "guid": "c927a586-894f-4af8-ab84-9ae6a8465594",
+               "id": "98",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS",
+               "type": "url",
+               "url": "https://github.com/bradtraversy/50projects50days?tab=readme-ov-file"
+            }, {
+               "date_added": "13380596433361879",
+               "date_last_used": "0",
+               "guid": "2397bb15-1ba1-4c21-9221-966617522fb0",
+               "id": "99",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Сайты с бесплатными HTML/CSS/JS шаблонами",
+               "type": "url",
+               "url": "https://proglib.io/p/50-luchshih-resursov-s-besplatnymi-html-css-js-shablonami-2024-08-29"
+            }, {
+               "date_added": "13380978462610678",
+               "date_last_used": "0",
+               "guid": "9d51d59b-8756-4e72-91b1-1acfc6c31f21",
+               "id": "100",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "browser-game-hub - Lovable",
+               "type": "url",
+               "url": "https://lovable.dev/projects/3bd1e22e-7769-4e17-a6ce-8073286a67e1"
+            }, {
+               "date_added": "13381498277684791",
+               "date_last_used": "0",
+               "guid": "fdac74a1-8aaf-4e3a-a8f3-f64f2bb9834d",
+               "id": "102",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "DeepSeek - Into the Unknown",
+               "type": "url",
+               "url": "https://chat.deepseek.com/"
+            }, {
+               "date_added": "13382198400116777",
+               "date_last_used": "13383919836427835",
+               "guid": "0e26efba-2d1c-4ccb-8968-876069c95583",
+               "id": "104",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "para po  terminaly",
+               "type": "url",
+               "url": "https://trello.com/b/xTtvNN4O/links"
+            }, {
+               "date_added": "13382200280138849",
+               "date_last_used": "0",
+               "guid": "1c253dba-114a-4762-9507-58d4c9ea9723",
+               "id": "105",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Шпаргалка: командная строка - Google Документы",
+               "type": "url",
+               "url": "https://docs.google.com/document/d/15nGn5TtriN3Xm55AKQSiskUXEpYk5plk5ICMa4jBtLM/edit?tab=t.0#heading=h.fkde0d88xw0t"
+            } ],
+            "date_added": "13371561272116268",
+            "date_last_used": "0",
+            "date_modified": "13382524801438497",
+            "guid": "e18b5af7-8f71-499a-8a84-23d10fb68be7",
+            "id": "34",
+            "name": "IT",
+            "type": "folder"
+         }, {
+            "date_added": "13319755878622730",
+            "date_last_used": "13378668725549954",
+            "guid": "152d23c6-8515-46c5-922e-feb85098db04",
+            "id": "80",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "РБК: Предстоящие размещения облигаций российских компаний",
+            "type": "url",
+            "url": "https://bonds.rbc.ru/"
+         }, {
+            "date_added": "13323101517203314",
+            "date_last_used": "13326659481240306",
+            "guid": "35941bca-0498-4c74-bae3-3b34f6e4d075",
+            "id": "79",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Dota 2 - обновления, новости, матчи, турниры, гайды, герои",
+            "type": "url",
+            "url": "https://dota2.ru/"
+         }, {
+            "date_added": "13329668774844571",
+            "date_last_used": "13330712457796364",
+            "guid": "d715c1bf-1bbf-4540-ae3e-e90a7400d567",
+            "id": "82",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Банк задач",
+            "type": "url",
+            "url": "https://egehackplatform.ru/tasks"
+         }, {
+            "date_added": "13330629927985837",
+            "date_last_used": "13330631479460713",
+            "guid": "d4e8f0ac-362e-4c4b-90cd-2704f394e85d",
+            "id": "81",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Explore All blockchains NFTs | Rarible",
+            "type": "url",
+            "url": "https://rarible.com/explore/all/items"
+         }, {
+            "date_added": "13331391791367024",
+            "date_last_used": "0",
+            "guid": "5716735b-1851-49d4-b93f-8aff0afed623",
+            "id": "83",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Скачать mp3 с youtube, конвертировать youtube в mp3 онлайн бесплатно",
+            "type": "url",
+            "url": "https://y2mate.mx/ru49/youtube-mp3"
+         }, {
+            "date_added": "13378663794079927",
+            "date_last_used": "13378663959504323",
+            "guid": "22b58dd0-b9b0-4460-a5ab-0979dcbd704a",
+            "id": "84",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Код ошибки при запуске обновления: 0x80072F8F-0x20000 - АйТи Мен",
+            "type": "url",
+            "url": "https://itmen.help/blog/windows-10/updates/error-code-when-starting-update-0x80072f8f-0x20000.html"
+         }, {
+            "date_added": "13378812467072581",
+            "date_last_used": "0",
+            "guid": "33e33be6-d1ff-4c03-9fbd-8c1c782cccd9",
+            "id": "89",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Магазин Gaijin.Net",
+            "type": "url",
+            "url": "https://store.gaijin.net/"
+         } ],
+         "date_added": "13377869753435537",
+         "date_last_used": "0",
+         "date_modified": "13378812467072581",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13371685503115661",
+            "date_last_used": "0",
+            "guid": "41cdfca0-f568-4750-98ef-fa7e91c689b9",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Кунг-фу Панда 2 (2011) - смотреть видео онлайн от «Мультимейшин» в хорошем качестве, опубликованное 21 февраля 2024 года в 21:32.",
+            "type": "url",
+            "url": "https://rutube.ru/video/63a7fde5969e501e6ad154a474534c16/"
+         }, {
+            "date_added": "13373579666934498",
+            "date_last_used": "0",
+            "guid": "ac0dd592-b5c9-4d84-a606-c3a841c415c9",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Билеты ПДД 22024 Экзамен ПДД ABM/CD(СД) от ГИБДД",
+            "type": "url",
+            "url": "https://www.pdd24.com/pdd-onlain"
+         }, {
+            "date_added": "13376231781084758",
+            "date_last_used": "0",
+            "guid": "d4499cda-9713-49ba-b7e5-eea1f246ceb0",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Device Activation",
+            "type": "url",
+            "url": "https://github.com/login/device?skip_account_picker=true"
+         }, {
+            "date_added": "13377946363108713",
+            "date_last_used": "0",
+            "guid": "b2844352-5723-4530-b947-c70fa909ea17",
+            "id": "71",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Image to Code",
+            "type": "url",
+            "url": "https://www.blackbox.ai/screenshot"
+         }, {
+            "date_added": "13378672625378865",
+            "date_last_used": "0",
+            "guid": "09bbd832-39d2-4efa-b818-1619c275e494",
+            "id": "87",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Telegram",
+            "type": "url",
+            "url": "https://web.telegram.org/a/"
+         }, {
+            "date_added": "13382524801438497",
+            "date_last_used": "0",
+            "guid": "2554555b-39ba-487d-906b-707d6875f606",
+            "id": "107",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Экзамен ПДД 2025 решать новые билеты онлайн - официальные вопросы как в ГИБДД",
+            "type": "url",
+            "url": "https://pdd-exam.ru/"
+         }, {
+            "date_added": "13382803426131917",
+            "date_last_used": "0",
+            "guid": "0ecb6af4-684f-419b-b29d-0a4155aaaab5",
+            "id": "108",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Личный кабинет - Мои объявления - Авито",
+            "type": "url",
+            "url": "https://www.avito.ru/profile"
+         } ],
+         "date_added": "13377869753435538",
+         "date_last_used": "0",
+         "date_modified": "13382803426131917",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13251563809184331",
+            "date_last_used": "0",
+            "guid": "542546f9-93ab-49ee-810c-f0ba0343cd59",
+            "id": "6",
+            "name": "VK Styles - Темы для вк - Интернет-магазин Chrome",
+            "type": "url",
+            "url": "https://chrome.google.com/webstore/detail/vk-styles-themes-for-vkco/ceibjdigmfbbgcpkkdpmjokkokklodmc?hl=ru"
+         }, {
+            "date_added": "13245095612254461",
+            "date_last_used": "0",
+            "guid": "8413ecd8-39a2-422c-b712-93e5fc86440d",
+            "id": "86",
+            "name": "Авиабилеты",
+            "type": "url",
+            "url": "https://avia.yandex.ru/?win=455&clid=1961774&utm_source=distribution&utm_medium=bookmark&utm_campaign=ru"
+         }, {
+            "date_added": "13245095612254469",
+            "date_last_used": "0",
+            "guid": "715dc97e-7558-4983-b3c8-1c5a497f3fe6",
+            "id": "85",
+            "name": "Яндекс",
+            "type": "url",
+            "url": "https://www.yandex.ru/?win=455&clid=1961774&from=dist_bookmark"
+         } ],
+         "date_added": "13377869753435539",
+         "date_last_used": "0",
+         "date_modified": "13251563809184331",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CmEKQQiIgQISOyAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCY6A3N0TLgYAEY6A3N0TLgYAKRVM3d0TLgYAEgAqGG1HcDJqbXpSWVFEcEk1NEpESTdIaVE9PUgDEvMBCFwS7gEKHGpaSzQ3UVVHQXVtTFVldy9kam10SnlxNTArdz0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaUVoOVFrdTQ5OU1ZVWs4M3g3RHFjc3R4UlhqVU5xa1JHVFd5azAxSUhFSVJNSjZXNW05UUoyMUtocE0vZkVzeTBqOFlDY0E9PRgAIAIoAjC8rY3/+cOKAziJ4Jz/vzJAkeCc/78yShxDOUJQWG1BTEpDVEIvbEhPTHJyaWh6NTFXM1E9WiYiJP////8AAAAFUGNic1lTQW9mMmU4bGtyTytHZ0EweW1sWkZzPWXvAI6HEvQBCGkS7wEKHHpYTGVreWN3eVRHeVhLRmEyRXNUcjJQL3N3MD0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaTcrNW9BdXZHSkduQ01JQTVXMVg4S1k2c3NDYnVDOGQ3TTc2TmJPbTVZRTJmSmlqd3ZHeW51MU1wQnNEdnR1aitCOHpUc2c9PRgAIAIoAjDYmLm5wI6LAzjKuNPEyTJAzbjTxMkyShxpbVlhM1ZZVmxCTCttbzQ1d2lOV0ZKajNKTXM9WiciJf////8AAAAG2i9RUEhVL2g0bldIbDYxWSszVEh0aktibHBJVT1lOca2sBL0AQhLEu8BChxXbnBXaFV3YjRnR0x6MmM0VUc4U2c5Myt1QnM9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lFb0NpaG5wc2hDbUpOZW9ld2RqcUpHNDFybHJ0T1pCV3dBMGR1NVhRSDU2WE92RDN3TDlTb1hBWWk3MlhpcHA5aDh6bWxnPT0YACACKAIwwYG0uJWkigM4jv259rsyQJD9ufa7MkocU1R5azhDZTEySlR2ZWtGclFrTTlVellyUFMwPVonIiX/////AAAABOxQb2ZwQXQ5SHBTanlWU0xsczhjRkZGUVVSUHc9ZfjklVMS7AEIVRLnAQocV1FJUUhxSlpkdVVTdHliYWwyc042YVQ5Vis4PRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpK3dkL3lxSlpUQmw0dXlmaVlEWndadXEwYUZxRlU4dFdWcjNOQkI5WTlBRzNxY0o1QVpkWGpTZlJGbmt3Tk9tZ0wwR3dmUT09GAAgACgAMM2Py/Lwp4oDOLOzzLG8MkCzs8yxvDJKHGtIM080UkFhdHlMaEVnM3dKa09tUW9NSEJDUT1aHyId9khqb3FWUHByczlhK29Hc29LT1hmeDUyQlNBST1lAAAAABLrAQgHEuYBChxJMDJLSmVzY0hNeFNDY0crWWcrSGZ5VXQ5TFE9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lkSno1SG4vc09ZeUFLNldPb1h1UXlMSG9BTUVLTnhtQ25CTkVMcWJXbHFNOURTT0luREhWUXRpMHhzWUVnQUFqa3Q0eTdnPT0YACAAKAAwwfvE473ciAM4i7HorqIyQIux6K6iMkoccitUYlNjZFFSM1oyUnd1Qmp3Y1NMc3NsSms4PVoeIhxzSmdNa2IxT3o3L3pHR2dkbTR0VmR3ZU41RXc9ZWhNw+wS7wEIPxLqAQocUTlvT3ZGR2ZIK1JrMTl1Mm5SVHlSYmxXbUlVPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpQ0d6MFRaZkpyTUhUV0RXa1pUQjNoQ3BUcWtobnZFRXk0QzVGZ0p6bEZDYVVGUnR1WThmZHY2d3RXcDd2UmVVNSswVUlnQT09GAAgACgAMK6g+JmGsokDOK6n3aitMkCup92orTJKHDdudFYzN2xja3FOeG4vK214VHZvak11d1lwaz1aIiIg////3G5LSkdzNmlRb2RVVkNFenpYTVRIYXNrOSthZz1lvhVQiRL0AQhUEu8BChw4NE8vR214b3pzdFNybDE0UHl5T3AzTFVsYWs9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2l5QjRHM3NWNXU2dml3cjFES01pc0hlYk9ZUFhuSStyak9UVDhJL1g1NmZmWmJncnBDVXdERzNtV2JRTzBsM0ZhLzQ4dzd3PT0YACAAKAAwzY/L8vCnigM4t7PMsbwyQLezzLG8MkocRzRZS2MySHQrZHZBbkF5eDZhaGovYmw0VTBvPVonIiX/////AAAACLVCVDZVekEwVk1DYjN4K3c3dmMwb1NkRkFxcVk9ZbuRLQES8wEIURLuAQocSEZsSit2cERnZXJVMFdCQ3V2eVg4TW9XMzE0PRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpRVVMTDc2RnUxN01rbGF2bmpqRFJsNlJjTDdzaXhjaS9iZ3lQbm1WbFMvR01NTFZTdGdEM0VoN3JOL2JPcktaekhWZW8yUT09GAAgACgAMM2Py/Lwp4oDOLezzLG8MkC3s8yxvDJKHEd2aCtSQ2RkMHR6RFFNc1pXdnkrYldCdUU4ND1aJiIk/////wAAAAhnNlNzeU1SYkJUUzlVQkd0SVF4U3ZGWHlJYVU9ZWNetUQS7AEIDRLnAQoccFdtcWpNbWd0eDR5REQvQmY2cFY4QlByQmNZPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpcWpoUGhMY3EwckhVYUcvaGRFY3QvRTBCNlpHOC8vVkRSaWVIcjdhTmdJaDZ4Rk1rUi8yY2JrSVFmN0N6bWcya2lBSThNUT09GAAgACgAMNfT//jPnocDOP+S/rLSMED/kv6y0jBKHGs2Z0dxSW9kN3QzTkdRK3c1NTAvNkZNYnM1RT1aHyId/3hhbnBOQjFlMnp6K1htOGxiaGVoMitlbnVodz1l44DKahKtAggGEqgCChx6blNkUUhzanVKa1hteHplUURyb1hmdE8yRmc9EqYBWjpBRHF0QVp5T1M4TmtEdzNkMlB6bVdzVnFYR0VyV1ExWDJRUDFzRVJnY2FCQzRKeUc0ckd6WDNzS1pwTFprT0VUd25NeVFHeFo5TW1sRHRmbG84aHZ0cFkrU2RQUS9XQUwreFpOdTFCQUJDR3A1VTVRanFTSFBHM3h1Skh0eUk0Wkh2aGh0TXNBaGNhelVYdWNvdm9NWEJwK3QwSCtoZ25XN3c9PRgAIAAoADDUyZac3Iv1Ajirg6rw4i5Aq4Oq8OIuShxwZlNoVm1RMDZ0anNmSTlmSWlYUFVXVWdyWFU9Wh8iHdpHdTB6MGVUOWk1SWQ3V2xzMjZSQ3JyYlg1bmM9ZQAfR1sS9AEIFxLvAQocSUdNTjNwTXhTdEYwa1pBM0NhSTA0czRTU2NNPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpK2lvdjlKWmluWElkcUgveDAyNXlqeVg0L0VUSHpFaDVJUDRFU3FpYzk0UGcwSnNpb0xFWDN1Q2ViVHBNY09NQzROcU15dz09GAAgACgAMNuxoNHI24UDOMiLr4zxMUDIi6+M8TFKHGZrUGVxdFFvOFdteUlQMEFnRi9HbU9sRGtIbz1aJyIl/////wAAAAX2ZmVYRDRFaGtuUXNQVFBveUl3UGFuS1lDd2QwPWUAAAAAEuwBCAwS5wEKHEM5dWhiSUUrdWRBcVRVYnIrME5QUmQ1Q1I2Yz0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaWV1clY0QmpnRStBNm0yZW51Ykg4eUhMNGJtVzU4MFBpUTl0V2RKYm5UQm9QbUxTUCtpTHhXYTgxTUoxeWJNM1hSMlNzTWc9PRgAIAAoADDX0//4z56HAzjByf+/zjBAwcn/v84wShxWZkJTeGhuMTg4MTQvTjgvQzd0V0t5ZWpDbkU9Wh8iHf9EUlBXai9pdS9HUWZ5WlpmV0pxSDVoaXBZYVU9ZfNVl1kS7gEINhLpAQocdVpBVDM3bFJPQXNnUzZ3NHdFQzlaeVJYWlJRPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpZDlOVE0wV2VETGVyYzRKYWNobWxPcldSMVhPbllYMlNjMzBrVDAyTWtNSFAwYzJaWHA4c051NlZnbko2QzlRUlhXK05NQT09GAAgACgAMOOBspyvh4kDONHgu+2nMkDR4LvtpzJKHE15WWpHalI2ZkNIVlYzWS9VMG5ML0hKTWFRZz1aISIf///udXhFcnlpTHVOZXVsQ0dMS1Rad25TcW4wTERBPWUAAAAAEvQBCFAS7wEKHGdUbjlmUmJIWUhQdW1aMTlPYmdIZ005UmMycz0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaTJML05pQTV0c25ZRUdXMnlwVEpjQkxiMFRMVmNYZElFWkFkbjlBblQvZFhEdnZKcjFibWI2dkM2UHpIUmZtR1VrUWlLRkE9PRgAIAAoADDNj8vy8KeKAzi3s8yxvDJAt7PMsbwyShxidDV5Y3RaTzZReDdkQnMrUFFscEllU2ZBZ0k9WiciJf////8AAAAH/TZBUis5bm9ETnEweUVZVDc5VzFNUVZMUUVSWT1lzgWwqBL0AQhaEu8BChxRT2xEWGxRei9UcTN0MWpxL3duOFAxVUNBSkk9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lRcnZ2d09rVFlMb3VsWmtxMlEvQnFCdkpUSXdha1ZHWFdyMWZmamFRYTY4Y1hUc0hickt6QTAyVElnN2IvYmJTbjVERkJ3PT0YACAAKAAw/tHs8ZitigM4gomtir0yQIKJrYq9Mkoceis3ZStGbkx3MjZrRXdPWVhDdnQwSUJUZm40PVonIiX/////AAAABP5EY3dibjk5SUhuNU90cGR6eVMrMFRoVHlFM3M9ZYDZ0zMS9AEITBLvAQocVzQ2R3IzVGlYdWxoVkQ5MTZrR0xIL2dDaEEwPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpbERjZjBYK3I0WG9COVBHK2RuR3I1Vlh2UHdJSGJJSnVMcDQxcUlJQ2F5U1dWZE1iSXRxYm5XM3lsRyt2UnRwOWkrRG9OZz09GAAgAigCMNyXpv3LpYoDOILP6I28MkCLz+iNvDJKHHdTUW5QcDF1K210aW8xWnBpclAxWm96SFM4RT1aJyIl/////wAAAAT2RkY4Tm96eG40UXRYeDUwbjdmYWJDRUwza2ljPWWLdkr6EvQBCE0S7wEKHEtNQmE0MkRBUVp1Y3kyZkxLRlFaNUV3aXk4bz0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaW8yclRYZERzQmZ4WEd4ZDNzVmhHQVZZMUFrc3FtSzljSDF4dkRNTitVT2dVVVhRdm9OSFRMTmxnTEtUaVZqcHVuTG4vSEE9PRgAIAIoAjCgm6WJzKWKAzjEk+qNvDJAy5PqjbwyShw5MkdiSUIzalB6Y3BhUjgvRXZCVGRBbGxWN009WiciJf////8AAAAE+1RjOHhWN0QyaktuMzJ6ZGJQZmNranJZbmJMMD1l91h5uxLsAQgpEucBChx2cklyYndFSjY3dkkwYVloek1ZWVYvNXdJYXM9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2l3WWsxREluN0h4TWIwS1JhaEdUWkNIc3ZHMG9QSWZPVVlLS3p3b3BaMEVSb0Z2RjR0bnlNVkxjTWtHNVFvMDJDZGxtamdBPT0YACAAKAAwp7CN/8bciAM4wrL/r6IyQMKy/6+iMkocVGFOL1hGU014UmNSb21tV3Nqb0ZER0hMMkZnPVofIh39enY0VHBXRXBqamlQUDhhek8zMmRXcXcxaVJvPWUVUPmJEu8BCEMS6gEKHElwQTAzcllvM1N6Y2JtcXZyTHFZeitKbXRxRT0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaU9tWFNqNjZ6R1pycEE1V3RHWUN2OStWRVM3M3A2RkNUdXc1MXczekkrajVFMFlIQ0FJbTIya1lsNEIzd01vanhsblVBRlE9PRgAIAAoADDtmbT1pr2JAzil/JHhrjJApfyR4a4yShxQTkRwdEVvMHN4RXZhNmpSNXZPbzE1RytLYTA9WiIiIP////05RDN3UGw0cVBPQU9nVGFFSEJxcDdTQnovN289Ze8AjocS7AEIJxLnAQocYWdYeG1QbHpEQlVJd3RUUHc1dW5uSzMxR05ZPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpaHNpTFpuOExnSk5DenZvY0YvV0RqOXNvTmQ3Z1ZtcDNvNE8wZ3lYUFlnakk1Q21rMnNyeE94UzRvMnM2a2wwTjBBYnhSUT09GAAgACgAMIvQ9Ya/24gDOPmwzJ6iMkD5sMyeojJKHGtBaEdGelBzbUx2Z2V4a3dQdXZya2tJM0svVT1aHyId9zNzZTdUVWM0aHIrUzRFamhYVnBGdVBncFJGaz1lgXzK8RLrAQhOEuYBChxhYmJnSmxUeExjVzQ5bGsycHZsNUpreHJlcWM9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lobWQ5dFI1VXFyWGlvZVlrQjJkNGEvVUYzRTF0RGJrcitDWUpoQ0dwUWFFZzZtQlFNMkwrZDRSMnZ0S0F1djEyNjFScU1BPT0YACAAKAAw5ubzsrvBiwM4t7PMsbwyQP6VzYfQMkocQWtiWHRhVjNwYlBpZlM3c1c2MGdiSHJuS3JJPVoeIhxlMHNQSFh3QTVNaDNYTFZlTjNOZngraFVGY3c9ZYBUdY4SwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp6RVlwQjJOM0ttb05GcjlqdUxmbElCUTZKVFN1dFdvM1c5Z1ZYbVdiNWVZeEl6UmpHTkE1YUVkMFdtbWZSVGlWTUM4WjhiTUJPTlJ5Vm10UVJPZlNFb1pDcnlkZz09GAAgACgAMOn8u6K9kIoDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS7QEIMxLoAQocNXdTL0l5cWkrT3pWeDdveE5zelkvRDA5VUZJPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpemFVVjJKK3hsVE5jTTd0enZXY3dPRnViUlhRMmp4V2NBdjdEVC9RMEJoSi9CRTBtUGxwbWJ2NExJMEtVYUc5STY4NGYvZz09GAAgACgAMM2flqrbhIkDOIm8+cGnMkCJvPnBpzJKHFRrYXdTeVNmYzdxVFI1VDBQd3lXL25WcjYvYz1aICIe//93Q095M1V2elE1YjJmeDZSMkpQVkIweGl5elk9ZXDWwEYS7AEIVxLnAQocK2RvTnEvTDloRUZWdFcvQlhCMThZUXVMTXBNPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpU3MwTzIxNE1LNWZpRWFUWVpFVXVDKzJ4Tm45OTR3bXBROU0xQTJORVdoajhOVzNxK1pkWlZ0TjVZc1VLTThCUVo1RSs0Zz09GAAgACgAMObm87K7wYsDOOK9xLK8MkD+lc2H0DJKHGtyRDI2REtyanVmMWFBN3BRYWN4elNqemUxdz1aHyId+2cvcG1yUGpmM2FnYi9XQnNncnFBb3ZDOU9QWT1lgFR1jhL0AQhhEu8BChw0aTh5SEVOaGFLNmZiUENqQVJDUkcvQm5YcTg9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2loWE1FcjBHc2NLbWJXWERnYjhZRFUvdzZjSUFUMlVLK3ZzQU53K1hBTGxHM2d3a1ZtRk9jRW5UMjJ5TzhnM0haaUZEaDRRPT0YACACKAIw7v+0ounfigM4ztXqx8MyQNbV6sfDMkocUmhhZkpKOGVZQlBNMjNJOHU5WEN6bFNMUTl3PVonIiX/////AAAABfV0cWYwaGVGYWZXTTFabXYyZ1FXZnBHWlcyRjQ9ZUKvmUwS7QEIMRLoAQocRzYzcjF1cTdNZU5ldkd0am5NbGxjOTV3TS80PRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpN1dXdHFzbUgrOENNemI4OFMvamdmQVhhSkYrVTFzS2ZOMkpFMHNiMUZVRFZzL2dZK3A4QVdCdGtMNXRZSWJ3VHkrbm05Zz09GAAgACgAMOTq8r3d+ogDOPbpsp6mMkD26bKepjJKHDVkNkdGQTVQVUo4VXR6dXZpZVlPNzdmckdkaz1aICIe//1jU3RQVG84YlNBenA5cXFEZXUrQ1ZhZTE1YWs9ZQAAAAAS8wEIUxLuAQocK09YNVY5T29uYWtPOU9TR0lXS05VNXBPNXY4PRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpdEJxZm9VRi9UdVovVU0wTHNNSE9oejhqd1N4Z25Jbkd6d2lzS1dBN1o0OEVKVFNhRU5oZGF4bldxUmhwRGFUWFR1aTVkdz09GAAgACgAMM2Py/Lwp4oDOLezzLG8MkC3s8yxvDJKHFlVd01pQmhkTDdTZ3o0MmIreUpQRVFOTDhWbz1aJiIk/////wAAAAhrQk5JMkgxVjhBVTJ3bFdYeEp1L0lOdEN3bXM9Zdn4jMUS7AEIKhLnAQocaTVYVkpmb1RybElzcjhkNTEremFORDhCc2tFPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpR044bHlJdW5tcHhtUVJZSkp3aEJzVkZ6cERMcDRLQXFuQjJHUGlDdjk5aGRHVDlBUjVtYThubGFZRUFYSDJZazloelpXdz09GAAgACgAMPKM+Lj43YgDOL712saiMkC+9drGojJKHFJGeFdDR0toS2ZkRmluT0dQMXJFVGF3NjZyaz1aHyId/jUwOTU4b3EyQ2JmNENLcVNMc3NybDVpcFA0RT1lvivuRxLuAQg1EukBChxBTVpMMzVMOEhUaTdzeVUrU0xpeFlxazF1UG89EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lzbXY2aVBUK3p5TEZ6OW93eGtld0NlRFRwYlRFV1BIK1lCUzV4dDVhS3R3clloTVBnSXp5bWtXQVUzandCR1ltWmZ6MlV3PT0YACAAKAAw84Lb/qmHiQM434Tm7KcyQN+E5uynMkoceEpLYUEzeHZ3UUN0bURTdkIzZFVQMk9aWHNZPVohIh///91pUnhxbVR2VThweEhQblBkRmNSSUh4VUlaN3c9ZRFZFSwS7QEIMBLoAQocLzZxV1FpV3lRQTV3OWtxVC92ZXRDQm5XM2FBPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpdm83c3lRMnVBWTQwNk1CcW1BbkpiMGgxQ0p0ZkhKRFM4RWdiUHdnbDNYemV3YUlFK2JSQlFSWE1MaEJtOU9DNHlWREdqQT09GAAgACgAMOLi3I6H84gDOIvU06ClMkCL1NOgpTJKHGppamsxVDkyZnRqaVRvL0xoR3prMlovdGFVYz1aICIe//ordGRRMWVubzZObTR2M2FSZ2NmM2ZYb2pYZG89ZRVQ+YkS7gEIPBLpAQocYWI2NEZDOG50dWV4ckhkQTZBSCs5bGxDa29vPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpSXVkSll0VnhqS3dldjFUSkdnaWcxSDFkUnZxZzhqcnc2WVZvTG40N3c0MWxXcExuZHNnMmN4eVN2MHJwUEd3WXF6OG43UT09GAAgACgAMOjqu7ub6YkDON2N+ZitMkDdjfmYrTJKHE0vYWZ4WXY5a1N0KzRYdy9vNEFzMnYxLysrQT1aISIf////Vzl6eW12OGUyNk5EUE1yNnNZRGFNN2tzakJ3PWUnd8Z3EvQBCF0S7wEKHExqNnZKa2FjVkROL2RxL3k2MDdGdlZXRnBvYz0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaVdxSmk2cEkyRHV4WjFWeHZnajFQVzlhNGRwc2ZmMVdsbzlUbjZYOEg1d2NrZmpJSmVxVFBybzlneHhXMkNwbzJidDNua0E9PRgAIAIoAjDoua+mgsSKAzjF7KSAwDJAyOykgMAyShxQRXlraDgwRXQ5a0ZNTTJvZ09XVTFraE5Rb2s9WiciJf////8AAAAFqEs0Z2RFd0VoWDlQcE9vY0VHZjU2c1VLaS9JYz1l7wCOhxLsAQgIEucBChxrZmNoRWkwR3lFaVJFM0trcUw3VXk1emYySVU9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2ljY1R5ZVpGQWZiNkEwKzVXMG1uakxTdXJ3WnJsaXdjOXJQVFVpQXBaT0FnZ3dXYUdldmVGLzl5S1Z4TnVkb0VlQU5wRi9nPT0YACAAKAAw1JDxjM6TiQM49vuCtqkyQPb7grapMkocb0tNTjRUamdhQ3lwSHp6dzJ3NXhlVEFNSkJVPVofIh25VVJyYU5kYWdhem8xTGp1TDRwU0Nzay82RmlnPWX2Pca4EvQBCEUS7wEKHElpaW0wbS8va09HNUZwWGxtTW8xQURpbno0OD0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaVBhNnpLYWgvK3pJRk85UGY3eFlSbHRhNDZDd3hocVdBeW9wa29KSmxCcmJYRXdKZm1ZNkxMZTdEZHRDaXBxaVFVWFdQVkE9PRgAIAAoADDJxa7jpP2JAzid6Lf5tjJAnei3+bYyShxsV0JqQXk5ZmRtOEh2TFBiYnRLdWI0YWp4OFU9WiciJf////8AAAAEszdJWFdzaC8yeWtSc1VHaklLSndrSC8yNVREcz1lwCv08BLsAQgoEucBChx4bmJVZ1RNQ2JnRWhnMmdQRE55eGJTbUJuSk09EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lRTkdBVUU0YlBmSXNBc1lhVWl1VG9lSXF3ZFZYK3hCM1RTODBYQ3MrL1FOZ0xyU1FROEx3VVg1NmNQRUVad2tJM1VkN1hBPT0YACAAKAAwsrC4n7jciAM47PaNrqIyQOz2ja6iMkocdVFDZGZucktndmRjK0o5YVZsQURpRzllcGY4PVofIh37emdmNy9zR21TZ3Ztb0dDM2F6WWNsYVRXZkVFPWWvYbkHEuwBCAkS5wEKHEd6U3hBVTZYNHRmSTMzSitSaXk0eml3U1kzWT0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaWZvbDYxRWFrMUpSNHBaeStQajhOYmVKT0VxMERzSXZhRE1EdXhKam43QkRrcnFnbGhoVFlCQUp3c0EzckRVeGRYQ2g0R0E9PRgAIAAoADDUj9H75eCJAzjdldOmszJA3ZXTprMyShwrRWh0QXFyZXFJVGZRZmgzdnhGclZGYnZqZDQ9Wh8iHdxvcGw0M3hEaG5NeFlSdU1BU2ZKeW5iS2RsbFE9ZRVQ+YkS8wEIUhLuAQocUXI5MnlOWWNDY2w3ZDBLdXhGbk5TSjV3dUVvPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpOUprMEJtUzM3ZVREd0JYbTN5NFFBWW5JMkRTbmwyY3VRWDV1eTJjdWNOR2VPTGJPVFNWSDUvemJZblM2R0dJSlcwRVB1dz09GAAgACgAMM2Py/Lwp4oDOLezzLG8MkC3s8yxvDJKHG9CNlpFc0pRQnh0WGg5NmYyRVlBTkw1cTlxaz1aJiIk/////wAAAAhIYkZZQ0Z6MnJmTHJCOXczb01yT1pXTXd6ams9Zb/x1MAS7AEIJRLnAQocSlE2TTZYeERiSjZhRTFDaUhMNjBURkRFZDVFPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpSElxZ3EyUWd1RHRuNjJQN0VmMk5DdVRUM2FkS1VBdFBOV0t6S2RnU3NLVnpsYkNEMHBqUFl3R0I4WkZTdGJsUm9uQ0VmQT09GAAgASgBMMGAu6m2kYoDOOePooWiMkCFjq/DuTJKHGNEdjV0S3o5d1FRUkZ4UzNGeFlTTXducFNSRT1aHyId3itXTHR2emZ6djVYS0wwY0xxU282SE0xWEJQZz1lFVD5iRLtAQgOEugBChxSTW02L1g5WUpxWlp4dHZtVzVCSmhHNGN6OXM9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lzODJ0cFNncExxTVZVc005Y3dFSkVHN1RWSjBVaHJKSlB2amMyTWdtZEpBQ0JBazhWQXRSQ3pLUyt5dW9SMzNTdEdUWGhRPT0YACAAKAAwx7vKyrv+iQM4/47/9OAwQP+O//TgMEocUG1zZU5mZEd6eXFxdzZRMUlaYzlTTXZ0YUFNPVogIh7//3NXTi9CN25NZVNmcEI2NXZyeG04bFVFNWxLUT1lrALvFxLuAQgPEukBChxCb01OR2NtRXpwUzQra0V5VW1JVENhbWpwTUU9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lSM004NkdZNDFZMzBlWFhxRlc1SmtvcDJuZmZUMU82Z0JCdmNhekFzanIvOG95Y0JMWmtKOFp4OGptSmt0ZjM0RTdhTFhBPT0YACAAKAAwzY/L8vCnigM4pK2Bpp4xQJiiqLO8MkocbDdtRkxFV2VtRi93dk9iNUU4ZWNDSDNKbEVBPVohIh////9TSTFXQ0h1OFk3THRJVmd4N3JmQm0wa212OFE9ZZrMLRIS9AEITxLvAQocSEFSeG9KbS9xeHZrRWtLZnhkelVKemVEVmE0PRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpQzZ1VllRWW5hMEtlTnlxTGlJZU55L1B5ZFcxMGJsKzJVS1lIZ1MvWUdYbkZlNnhiWUVkUFVsNmFKREhpMmFSaVVEeWtxQT09GAAgACgAMM2Py/Lwp4oDOLezzLG8MkC3s8yxvDJKHGRVdFpMdHArMEN4eTRUeFdsRzkwMm5qQ1dKND1aJyIl/////wAAAAf+UDRvaVdMRTFzZUdTa0Y5KzlwcTJpR3BGaHFjPWXoQjQKEu4BCDQS6QEKHEQyMnVvWjRqV3podGs0WUNMbFVWNzhLM1Y4bz0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaS9vbFZNMUdYMURwbGJ0cTBCN1c4Vm1sR3Q1ZFRBbjNndHpTaTdGaWFPaDlEaHBYYU5kcGd1SmlaaXNRcDUyOWxqTG05emc9PRgAIAAoADDKyvmVpYeJAzjdi5fspzJA3YuX7KcyShxmM3BZVHRtaDN6RE03R3N0V0hCQnMyYkxGcmc9WiEiH///uytMeStKSms0elZYb05QRXQ5dXpkNFZvWE5xZz1l7dA6DBLvAQhBEuoBChxwQW9INDhScXBSS2hCR0RFRzhoOG40eWZ2MmM9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lhVGVRTkYremZxbW1vZDVQaUQ1d21QYVpGdW5WMFEzbERPZW9Tc09MdHNiWTh0YS9KeGVmdjFZNzl2SGFLNG5JMm0xV1hRPT0YACAAKAAwx9i2t4q8iQM425GOza4yQNuRjs2uMkocRG5GM1Z2dVNvWjlMYUVmdnZzekpCcVhKY2dzPVoiIiD////3QmpFa1ltYUllNnRoUWZQNDZNdnNFTm0xYllNPWVr9QJ7EusBCCMS5gEKHGtPTWV0dEFxem1pVjhNdFN6MGVIT1lFTmJtQT0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaXRLYXdOTDRpUDB2RDB4UVQrc2ZhdXpNUHJPSzM2VUo4V1hOZXNzdFMvdi9mZVFIVnorTE1VdGs3STFFbHp0eHg5RklTWXc9PRgAIAAoADDgi4P77tiIAziL2MjzoTJAi9jI86EyShxzUnNtZWsrTEtRcGFITCtVU0NheWIzQWFDSk09Wh4iHHo1anRhcThVa1FPSi9rTUJabDNrdWxDdXNGTT1lB2hTmxLuAQgQEukBChwzUFEyVTQwVWQyWk9rUlZ3SW81dEhMSmFhUmM9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lyWWNqdlJuMmZ3VXFTVE1BcStoM0VWMi91dDdyK0NlazJSMHBINzRDQlZYeDA5ZHFUay9PUEFIKzA4N21VSWFEWnc0b2VnPT0YACAAKAAwzY/L8vCnigM4u622wKIxQJiiqLO8MkocZEFEN3dNeWdkMmtKc2xCcFBlUEI5NG1icHdVPVohIh////9yTzJsVitpOVRYS1YrWU1FSitDbWhNTnNUZjg9Ze/zb0IS7AEICxLnAQocRnlvTXdlM0JpVlQ5UWNIT2xPWS9pM0tUQU9BPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpV1VtUGlqQnRsVkRySFp3VGs5UDdIRlY1Y0lVY2d6amp0ZGpMNjU5ZWZhdXd2ZExMTE1xampHaEZrZFdIMS81T1ZlRlgxZz09GAAgASgBMNPhuMitvosDONn3j6HJMECxjNfUzzJKHFNrcXdYZFFCSjNqTVdmWXZKbjRFUmhjcUo2dz1aHyId/mpab2s4WlRQYW5hT21HU3FrQXU4UksvU0paND1lZ4vVMhLtAQguEugBChxzY3o5L1BrWHI4NWNtbHpvVTBPZEM2YjlLeXc9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lsN1cyTWliTUlaY1JQNS90eVdDbE1tU1VpTElvc3lGNUJrKzltK2VqMG56TTZIcWVZMlFrYjNmKzlEVG5CK2dkL1NRK1ZRPT0YACAAKAAwy+/6rY3viAM4g5Lz36QyQIOS89+kMkocQW45VkVZZXBVVVIyYlZuNk5lcGN0R1FHZng4PVogIh7/6zNjOVJ3T09HRkVWY0JzYnRnRUpoalg1WDFpRT1lefF8iBLuAQg5EukBChx0S2RHY3plN2FoUkpvMjU4OHFhR2VhTC9zeVk9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lkZ2w1RkdmKy9kVEN0ZkczVXovT0dDWS9hZGpHbDZLa0Zqd2JralFBWlEvbVB4Zm5nZCtUNUN6SzdpTFBadTZQTlZhL3dBPT0YACAAKAAwlsTivtiOiQM4oJDFg+0xQKCQxYPtMUocYjBXVUJhd0pJSjkvNmpSSVROa1AvV2xZSjdVPVohIh////1CT1YxYVN2VlIrbzA2Mm5IQkV3bUlVV1Z4c0E9Zd4uhq0S9AEIZBLvAQocaWVLKzJMODVCaXhWUGhxbVNSK1FHOGNLQjBnPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpV0M0ejNPSFlmR0Nwanh4UEN5VmVZSTNVMzFFZnVIRzJqclJ3ZmsyTUJHU1kvamV4MC81NXpYaXVuM3BFRE9lSnliMDhaUT09GAAgAigCMPH6+er46ooDOJLPhf7EMkDboob+xDJKHDhxQUw5RFdRejNnWDBnQUNmTU5YMVVRMXBNZz1aJyIl/////wAAAAX+Z0x2RzdRU1FRTzd2WmdWbmN6TStQaXV2Q3hFPWXt3VX2EvMBCEQS7gEKHHphaC9ZRDgxQXZ4Rk9JTFRpM1ZNRk5leWpVcz0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaXd1anJ5T3dndytkeWpOZ2Q1U0lsTGNYSzZYcVhickxMUUdyWlJwTXJmL2g1WVNLamowVityU0dWSS9lUFBlN2ZjUmovN1E9PRgAIAAoADCv6efm1MOJAzi416jJrzJAuNeoya8yShx6Y3VmeHpyV1BOMlFrRHdjbnhYeTFJTkhFM2c9WiYiJP////8AAAAEZlRyVXVORlpqV1g4VTk3eThiOXJUemhyZ3VrPWVtoJ/1EvQBCBMS7wEKHFpnWlFhUW51UngvRG9UNXBsUklBNzdIV3AxYz0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaWtBRXZhN1IrNjNJaDhrUGZxZmZFUFFNL0VjNE1RaCtPZGRMMjhvZFVRQXB0S2NSOGxxZkoybm5sSFdmNXJjOGdGeGRLWnc9PRgAIAAoADDNj8vy8KeKAzjj7rTlqDJAmKKos7wyShxqUU8raVZxSEI1QUFqM1lqVWdybjc1TFRqWWM9WiciJf////8AAAAE/VJ5ZjRZKzlHa1o2aUUrdDlGVEY4czBxQXNWbz1lDxeLXRLsAQgkEucBChw1VHc2bEttYkV3K3V3dnJuZHMxTzhHNWNXNHc9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lwSExxNnRmUWZ4dTE2YUdkNmlyOWpWT3g5cnNIcTc3Wml5VWtoMi8vMGZhRUUzaGpTUWJ5cm5PdHRjbVY3UjNnMG8xL09nPT0YACAAKAAwwvOpgO/YiAM4lKOG86EyQJSjhvOhMkocdzVMTFdYdVJRT1NCMEovb055d3pOWTlFZktRPVofIh29bU9CZFh5SEN0REQwOXJ5UnR4cGxTZ2tOSVFrPWUEMFtOEvQBCEkS7wEKHFZXVWZDR3J1dHlpT0Fyb3R4UWhjSVEwT3JJST0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaTNINXFSemd2eXcxYVpHcndSZGgwYmQvdndleGY0SVhpNncwMEtQQ014U2Job05wekM4c2JVbDFVdEVzL2RXQkwzZHAzeHc9PRgAIAMoAzDqyNGx15aKAzje+MGZujJAvsLCmboyShxYMmgwR0k1Y20xRmRma0pNTXpqTzlxelpZeDg9WiciJf////8AAAAE2VgwYmNvYU52Z3UzakRoQlovblplajdyeUFvWT1l7wCOhxLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWndyYXB1NURQbmo0RkxJZVlFU3VENWVNSXE4UE1ra1VsV0VEc0N0TTU2bnZTTmczOCtzVUJ2VlBQbUdvT2NuYzBmWlljd1M4WXlZL2JlczY3MmY5WHRJeW1reDZBPT0YACAAKAAw6fy7or2QigM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABL0AQgiEu8BChwxbzl3bEU2UVBYNitndG83WU5GZWJJdEpEMk09EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2k4NUE4alFzazJuOVVSem1YUEVNRkVsWmYrOGNGRGhQUDJJbW14V3Vsa2J0R09PcTNTYlhldU8xaUFWdUtjZWNHMjBhekxBPT0YACAAKAAw4IuD++7YiAM4tPbJ86EyQLT2yfOhMkocQXhqQUdubG1Jczh2VFVyemY0NDVkVXlJQVhJPVonIiX/////AAAAB/dKMDJpejg5b09CV2ZpcndLWVhLTEFqQURQYWs9ZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp4dVFCckN3RitHT1Y4TlU3eklUMmgwU083bDlqQmRVODNHM0VRUFVzV2JRQWRzYjZrZ2ZCZ0lOZXpYaUhmZTI4WXMyYUdpGAAgACgAMOn8u6K9kIoDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS9AEIBRLvAQocd2U3bG1CRnVWZG9nWGF6cUYvRlA2Q2FrcGtVPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpU0Z6ZEZjNHdYOTYvODJhNGNQS3czVXh3YVYrZ2NUcXJPblFoQkNEejJvaml6NXBLTWVUZ3JydGNiUVUvNzh1ZmRzdlA2UT09GAAgAigCMOPB1JLMpYoDOMb677O5MkCEreuNvDJKHGUvVk1Gc0JwYktxR2NXZXYwVFpoTldqbTdmZz1aJyIl/////wAAAAT9QVdaUW5IMERXT3NLMFZiY2xGMDNIbGNzaDRzPWUAAAAAEuwBCEcS5wEKHERvelo4UmF3UC9zbEJUZGRvY3RHUlphN0dhQT0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaUszY1Z6M3VLUk94QzAzaHJ3dFBiZ3JzSGRkejVzWVhISG9xNTROdEdqbEtsNXVCT1FWRGVxYlhCcDVMR0VNMzhOMEpyc3c9PRgAIAIoAjDsstmj2ZKKAzjk+ZzYuTJA5/mc2LkyShx4Nnk1QXlaS2lWZmZVR2lCYzNvOEE3YzJwekE9Wh8iHfdTZllhWmwxL1Nrc0EzazdSN1lvSmQwdWp0Z0U9ZUKVjnYS7AEIKxLnAQocT2tKdTR3SzB1dE1wK3V6YzZHdGNDL29ZbG1rPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpL21vOEgxYmZjay9ROW9VL3FzMy9lTS9QVGNzT29qdVJmb3huaXJnSkl2emtuT1NMMFVxRTdUUXcwZGJYOGt4WEQyWkUwUT09GAAgACgAMKO+n4i/3ogDOKr238+iMkCq9t/PojJKHGZkNTBrKzdzNm5vYy9lYWVPNUpOWW54YkovRT1aHyId/1k1TlQrZTRTelJYdjFjUytsNHNveDBjQTY2cz1lOPk5MxLtAQgyEugBChxndHdHMG1teFYrY0lHTmxkNUZEbWdybjkxN0U9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2k2cVAvZ2N3TmxjQnpGWkI1S2x6dmdmQnluWForNXNKS05oNVhDZ09kczh3WHpNQUFjRXhvc3U4RTF2R3JVTmNZSjBvSmN3PT0YACAAKAAw7dPF4If/iAM4u/Sr5aYyQLv0q+WmMkocUGlGWGVub0FMeVZzMWh5ZFl5aTBFUWdaaGpVPVogIh7//3MyU280dXhrS3JoY21YanVKRjAzRXB1c0t1Zz1lvivuRxLtAQgtEugBChxUWk9RbEZUR0tSejdocFp3dlVicFdwaUlER1k9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lzWTkwd1gwVVZTWGFRU3hOa0picXlYelRLRExvYnlzcUR2cmE5Ly9hTytpdkpvQms2Rlo1V25tTmlRK2xLSm9NQzNWQzFnPT0YACAAKAAw6P2fmo3viAM4xt7y36QyQMbe8t+kMkoceXRKZnlFdlMyMTdkYmEwN2lBQ3NFZ0o4QkRnPVogIh7/1mN5R3A3b2xGOXo1VUtPK2RaTlB6Um1oRUh3ND1lRC/DbhLvAQg+EuoBChxBeXRFc01yUTkwa0tjOG1VeTVpTzdDNkVQNWc9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2l2WllrS1lDL25VdTFkQytoSzFUWkFTQ09EVGI0QnFPZXovdDhmZ2Q3d2txYlp1UU1YRkJycm0vTk5CejVTSFNteDg2aGlRPT0YACAAKAAw4vfYoPaxiQM4u4PYpq0yQLuD2KatMkocWkR5eXVvWXUvT0Uzb25BLzE1UFJiWVYreFhBPVoiIiD///+5R1liSUdGb0VKa1ZacEhMTVlvWUNBZk5EeklvPWUAAAAAEu8BCEIS6gEKHDkzNXBoRENpNkFKNE9tMjRiWmptUjJXSU1FOD0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaVA3MytGSDRuT2lORG9yYWFhZXVIRlZqUkR4Z20vUVZFZzZ6eWFRcnVOQmY5Q0ZVNmxGVi9BNzhvTUVPbmJZVWkzSkRQNFE9PRgAIAAoADCB5eSgk72JAziw5c/erjJAsOXP3q4yShx6Z0NkNEZZWGZKMGk3bHpMT0hJcm5Xd1VkNk09WiIiIP////tlTFBqZFVrQzRGOXV6Q1lYUTdaQ1VIRnVoRk09Ze8AjocS7AEIVhLnAQocYmhXTmFzQXB1aCt4K01nZ2pMSWU4b05CVGhjPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpNUR5cnZMd1NoMmZsYWNzWStDREczQ1ZxM0plb1Q0S1V6MW13ZG1wNWFvUlBMdmZvSHJzM2hBN3JBdkRBL0pTbEZMZ0t4Zz09GAAgACgAMM2Py/Lwp4oDOLOzzLG8MkCzs8yxvDJKHFZYT091TU1RYmh6S1Zha0pMMmRtV1lpRUo4cz1aHyId7W05aE9qYVlvNjIzczlwa29ISFJqU3luaUJPND1lAAAAABLuAQg3EukBChxEblhNOVdYdG03R052K0RLSmo5VnNpNlBMRXc9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lnSWZnRmFmZGtzUjJtaUdnSmxuTG82MENMZlg0Z3Q5K3hPU0Z0YTRYMThSaWsxb29SZkROSkllamhGNjFEdGRKaUp2VkdnPT0YACAAKAAwyaW8sdiOiQM4or3EsOUxQKK9xLDlMUocMGpVRWtldUIzSU0rdjhGRFE0bUErTk1oUXJFPVohIh////drUXNhK2U2TENkYlhIYlBqSVBjeG1RcXlJMTA9ZfTvPdIS9AEIGRLvAQocSTh3dUZMaGRhbFlleS9TaDVQUlBnekI1QlJRPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpRXhXZTlHQUNkRitsWEp6bU9Cd01yN3JOSndLRU1ZK1poTGtaSFNlekFsWkF3SXMzUkNoTkZySElVa1BrOXhPRURsM0NiZz09GAAgACgAML/Ojd7O24UDOJGEk43xMUCRhJON8TFKHEY2VWZZbEVzN0FrTE9Xc2cydFU0Z2ozWmcvdz1aJyIl/////wAAAAX9d1pQam8wOWRPTVhvTmpwbDJVOStiWDFwUFFvPWUAAAAAEvQBCFkS7wEKHHRjNVp4RHhBTkFETTNlUUR1aS9sd2ZzVlNibz0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaTFid3ZSNURKbnQ4TDcvUGxYZTlTVWJmR0NhOWpzVUR4RnNZUjk4RHVUaFpoM2hwZjRsdmszOVk4RUhiejZtVjc0TE9LK2c9PRgAIAAoADDv9MLh86uKAziC35v1vDJAgt+b9bwyShxWMUhVeGVUWkZRMUxxTXIvc2Jvc2Rtbm5WVnc9WiciJf////8AAAAI2llJSFU0ZUJpMnc3MlYzaW5melhSQVdRejVWZz1loeuiHRLvAQhAEuoBChxERHltR01DRE4xNTRpTUhxNkFUSU5FUXFjb1U9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lSYnNuWTU1SFZQT3gyZnp3UEt0UXlSeUtOQy9DdWk4bEFMdldqbjNuaTA3T1Q4QVFRRGVjSUZ2QjF2Mm5tRE5tY1NTWFdRPT0YACAAKAAwvcalgv63iQM40ob+ia4yQNKG/omuMkocWkVGMDRXOW5qdWc5S0h5eWJhU2NCS3BYSHc4PVoiIiD////uYW1MaU1nT2FmNU1lVzFRM1lOUHNYOG1HL2lNPWWVGUTGEu4BCDsS6QEKHEhNZCtDQjRVYSt6bzN1ZjVlc2FlNDI2ZmZZaz0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaTE4TE1ZK3RMbjkzL05tN2xvY0NYcDdMOThnMU11cXZLOXZoQys1dE9uYWlYSmZvR3F3NmR2OG9NN0NEeFJQY1RtVEpQb2c9PRgAIAAoADDBvNiMmKyJAzj5qNvIrDJA+ajbyKwyShxnL3JCemZGZThVRzNZN24rMDlsRjVaeWRLWWc9WiEiH////0p6RzhreGlCdFh5RWkxR0RBTmt6Y1YwY1ZHVT1l7ZHTdxLuAQg9EukBChxBZHVNS1U4MmlQb20vTVMyQ3ovTGNhemJrK289EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lxOEpYaWt2MWNkVDhxdUZwTFlzKzRlekk2ZjNyMWdEd0EyOFJ0SFVCc2pzTnRzZkIwZVJDd2ErTVNqV0FxVGhJYXBweGtRPT0YACAAKAAwmY/L5fSxiQM4roDApq0yQK6AwKatMkocR3ZVYlA3RjUzbnVKTDNBODhzem5GUWlncklnPVohIh////9zc2dKS21YU2pGcnpqQUM2bCtNa2dnakNWN2M9ZawGJNYS9AEIYxLvAQocUlVEQmw1MHJ4SWUvR2xKNnZyUG9yYnNMZFhRPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpczk5WEZpdG9ZbDdQb0thNG5RQWdLN3JrNS83UXo3ZFVyZzlzQUhxWTFZSFIyNXN6dWgzWW5zRWpDaGVHakVFUVFFaEtHUT09GAAgAigCMIa0m8/p34oDONGz8MfDMkDUs/DHwzJKHGRleXY3a2FZM0tJaEYyeWRzSHJrblpNaGtBYz1aJyIl/////wAAAAX9MmZJU2I3azVldXpiOWMwcjZCcWo4elpZN2hJPWWOgVYfEvQBCGgS7wEKHGtHUXNRWE4xZldPeUc5MTl0eGw2dWNSdnRHWT0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaUhRRjBLbVlOVmEyQ1VYSUM0R1pIWFZ5dzEwREVseWdmMDhSSzlLcDRDU1VuV2MrSk5VL0JOdUtHUStpTmpMaVdaekZrcmc9PRgAIAsoCzCSqpKrxsCLAzj02ODDyTJAqfPM+M8yShxxNTFJSExmSjIzVG5qaW5QTGNMNUcvNmpOTG89WiciJf////8AAAAGtStraUxmM0dYdG93MXU0dXh6ZDFSSkFDOEFkND1ly21EQhL0AQgUEu8BChxENVdCS0VHTkpkVXlUa240MzJweUZLYXBic3c9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2krZ1k4YUo2eENVV1J0djAwUkVWM2lVUXVORWxmSEIzOXdYdkQranFaZ0R3ekpqakxSNDVzU29yWDZwZWtHa2RXVkVLQndBPT0YACAAKAAwzY/L8vCnigM44rqnjPExQJiiqLO8MkoccEdTY1R4WldxRHp2cU5OSzJxcjh1aXBlYjcwPVonIiX/////AAAABbFWUGxBT1dVR2Y4MmhGVWNuK0JIUGFySnFhaWs9ZfTvPdIS7QEILBLoAQoca2JCT3NKcnYwWi9jTkVkeC9RMFhiRnhtNGdNPRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpS3B2Q1RxQTV3SGdPK3BYdjFFR2lsZG52aDFFZFFSNXl2dlFZeUozVDJlNWNESGNuZm9VUHBLQzBOMWhWU2F5ZUNEZTQxZz09GAAgACgAML2l77KK6YgDOLbunf2jMkC27p39ozJKHEY5VURIOWl0NEQzalJxNnVKcHU5Y2ZBMThqVT1aICIe/6xSUWFYY0phV2xPZ2xjcGFTZ0wxK3MzTjFjUjQ9ZTyk1JMS7AEIJhLnAQocbVVRdG1GUzZseWRBcnduckc3NkloK3RKeEI0PRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpNzNVSUZFZW5yMjFhNlN4U3JaeXVnWnM1SVZXUmsrUzJ2bWNqc29iMkhOcmJHVnF2a1pXYUF4eEplV3p3ZVJ3S0lOaExVUT09GAAgACgAMLr436ik24gDOIGtlpuiMkCBrZabojJKHGNOQ3VTQXhqTEpmd0llalg0d3R3VXA4elJpND1aHyId7zNVZ0l6OUx3M1VNVkdJZ1FuUkN2c3o1eHRIMD1lFMcGsxL0AQhfEu8BChw3U2FFUHI5amRIU09LV3dnYWtNNW5Tb0l4Y2c9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2ljYU1uQWZCbkpSVDZkSjNoQXlOZW5hZXl5RElpbGcwVlhsYzJ6bDlaSHhFdFRMNkJRa01ZOUtpc0dwcXlsTWRhc2tFeXNRPT0YACACKAIwrNOY7eDfigM4mOTgxsMyQJ3k4MbDMkocb3NwNXJvS05xSmlSTHNiMVZ1Q2MxU0NhVVNJPVonIiX/////AAAABdRnQW1Yc3J4M3ErYXB5SzZQMEpjVTN3bE5HWmM9ZRVQ+YkS7gEIOhLpAQocNXE5K3NBTDk4aFFpUkdycytZK1VmL3k1U3o4PRJmWjpBRHF0QVp4b0tURnpvelNpNHVWNGt6VThTY0tpSStvUUM0UllBSUNDRTdMQUVjTlMyVjJpN294NHFnWTFzOGdNMUtvKzd2RzFFV3VsbSswL1JhYURDUE45V1d2cXZlYlhYZz09GAAgACgAMMCtucLYjokDOIGqxYPtMUCBqsWD7TFKHHQrUkR2VDlIWnJkSU82Q0h6ZHFFZGZjQWo3OD1aISIf///+Ty9MbzNiUzIzYkQ2Rkp4Ym5CNWxNb0orTGg4PWU4+TkzEvMBCGYS7gEKHHhVT2tNc0NjaEhHMWtWOGtQdTkwR094ckNhQT0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaXhZbk01QnV4eGVORlZOME5RY1BwbzNJeitzb2t2Y3h4ZGR0Z1JOQUZrU2Q1QTJyQXpFUVd5U1QrUFA4UW1uNGphVnRUdVE9PRgAIAIoAjDkwMiiifqKAzi0zvT1xjJAt8709cYyShxRaitjajFlR0hOczhRWTExSTFMSXVUQ3NOSjQ9WiYiJP////8AAAAGajVpV25tamZWa3Z6NUwwTG9XMC9neW1aSFIwPWXfqqUwEvQBCGIS7wEKHDJrZWNkU2hxVjN5dXhCZjhUd1hZSHY4cGpXWT0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaUo4OWNmamNCRE81QjBISjRXcDFFd2Vra05QbTcvOU5nZGJRWUdSeUNyRWlPNmVFc1VPMXhTMXRoQ3RXUE51djRIL0YyN0E9PRgAIAIoAjDFtbvC6d+KAzjZ4u7HwzJA4uLux8MyShxURkdNMFh5bkw0NDMxTWNVZk9uZHNNeVp0emM9WiciJf////8AAAAF+mIycUFtN3hCd21XUXBUZlh4ZTc4b2tJN0ljaz1lFVD5iRLtAQgvEugBChxyTDFWaGNXYW1KbHJkRmw2NnZlWGpQNWlYQzg9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lpamxsbG1QTlkxSUpJcFdkNktYK09sNzh1YjRWZ25IZkhHbVJJU2gyTTcwUDU2L21JN1ZKeElkcHhka3pzRVRpQnF0ZVJBPT0YACAAKAAwo4bgjP7yiAM4t/m/n6UyQLf5v5+lMkocMlYxR2xNbnl3V24rQUJXUm95NkNMUXE5c1RjPVogIh7/9UxIZFlsU2hBcHoxWVBlNWpMOUlOTkx2b3Bxbz1lcUU2LxLsAQhrEucBChw1QVRxRTJrV0hTZEhlVkVvaTMxem5NSHFxbEU9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lNN0N6bVprWUwxU2dPNitKM2htbE1TbU56Wk91MkR1QmtpelpYRjd5RVZwY2dxbkJOTjV2ZDlyK2JMVXpacWhMR1JDSURRPT0YACADKAMw6ZOQtvmXiwM4ntOy38oyQIb8st/KMkocOWdHeXdQZWNUMG9kTmp6THB6R2N2amRmamlFPVofIh39NW0rLy9BdHJBbDJRdzBRb1hRNzhqdVEyY2w4PWWhnCqsEu4BCDgS6QEKHHJubFlwL1VaTm40a1pNTnNGR093azN6YUo4WT0SZlo6QURxdEFaeG9LVEZ6b3pTaTR1VjRrelU4U2NLaXhRQlVON09TTllRR2Nua25nT2dCTXpnZnZwTUFsL0d3Vmg4N09PTUdLZkd2Tk95SVdsMTdyRG5rVWJlcGRuK0NvbzVsMEE9PRgAIAAoADCW54C62I6JAziZ3qKw5TFAmd6isOUxShwrc2xJalgvWllnbVgrcmRFbk1STjhKd3JPc2c9WiEiH///+2xRSU03MDBCTzBGQzJ6RHdtS0YyS0QrWkUvTT1lOXXX8xLsAQhsEucBChxqVnowL0l1M3A5RTZ3TVljOEdYdGt3QUVkc3c9EmZaOkFEcXRBWnhvS1RGem96U2k0dVY0a3pVOFNjS2lZbHFEbmZ5YjRXQTVwV3Q3RkRDeVZiTGpxdTAySER0Q3R3dWdUY3I2SWhWQnVWWStZZGQrYUxUYVlzTXQ2SWxmaEhqL01BPT0YACAHKAcwiofrsIegiwM41Mag5MsyQMH4oOTLMkocbGF0bHdiTGRodWNtcXp0MDBaQWpjaVp6cFVjPVofIh3+WW5kaDlKMUJMRFp6VDhobEQxN3FFYmo1blkwPWXehePDMAE4AA==",
+   "version": 1
+}

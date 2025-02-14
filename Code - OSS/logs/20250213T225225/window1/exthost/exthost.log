@@ -1,0 +1,213 @@
+2025-02-13 22:52:27.607 [info] Extension host with pid 21238 started
+2025-02-13 22:52:27.607 [info] Skipping acquiring lock for /home/pasha/.config/Code - OSS/User/workspaceStorage/b3f0fa6cf3c374d841c88916d019b4fb.
+2025-02-13 22:52:27.646 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-02-13 22:52:27.652 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2025-02-13 22:52:27.653 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2025-02-13 22:52:27.706 [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+2025-02-13 22:52:27.781 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-02-13 22:52:27.868 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-02-13 22:52:28.012 [info] Eager extensions activated
+2025-02-13 22:52:28.018 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 22:52:28.020 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 22:52:28.036 [info] ExtensionService#_doActivateExtension castrogusttavo.symbols, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 22:52:28.039 [info] ExtensionService#_doActivateExtension Codeium.codeium, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 22:52:28.464 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 22:52:28.530 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-02-13 22:52:28.534 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-13 22:52:28.693 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-13 22:52:28.701 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-13 22:52:28.773 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-13 22:52:28.949 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-02-13 22:53:02.308 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-02-13 22:57:47.948 [error] Error: Illegal value for `line`
+    at _M.t (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:1005)
+    at Object.lineAt (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:72)
+    at e.getCommandEditHints (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1863611)
+    at e.getNonCachedDocumentResults (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1865290)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1866355)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1851578)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1852920)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1852007)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858134)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858337)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858396
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858277)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1866929)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1809564)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1796896)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1798238)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1797325)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803812)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804015)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804074
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803955)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1810187)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1808756)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1796896)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1798238)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1797325)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803812)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804015)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804074
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803955)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1808999)
+    at Immediate.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1806417)
+    at processImmediate (node:internal/timers:483:21)
+2025-02-13 22:58:21.199 [error] Error: Illegal value for `line`
+    at _M.t (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:1005)
+    at Object.lineAt (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:72)
+    at e.getCommandEditHints (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1863611)
+    at e.getNonCachedDocumentResults (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1865290)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1866355)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1851578)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1852920)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1852007)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858134)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858337)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858396
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858277)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1866929)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1809564)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1796896)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1798238)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1797325)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803812)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804015)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804074
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803955)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1810187)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1808756)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1796896)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1798238)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1797325)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803812)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804015)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804074
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803955)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1808999)
+    at Immediate.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1806417)
+    at processImmediate (node:internal/timers:483:21)
+2025-02-13 22:58:21.208 [error] Error: Illegal value for `line`
+    at _M.t (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:1005)
+    at Object.lineAt (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:72)
+    at e.getCommandEditHints (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1863611)
+    at e.getNonCachedDocumentResults (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1865290)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1866355)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1851578)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1852920)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1852007)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858134)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858337)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858396
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1858277)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1866929)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1809564)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1796896)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1798238)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1797325)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803812)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804015)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804074
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803955)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1810187)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1808756)
+    at d (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1796896)
+    at Generator.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1798238)
+    at Generator.next (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1797325)
+    at s (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803812)
+    at a (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804015)
+    at /home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1804074
+    at new Promise (<anonymous>)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1803955)
+    at e.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1808999)
+    at Immediate.<anonymous> (/home/pasha/.vscode-oss/extensions/codeium.codeium-1.34.2-universal/dist/extension.js:2:1806417)
+    at processImmediate (node:internal/timers:483:21)
+2025-02-13 23:06:28.474 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+2025-02-14 08:59:05.307 [info] Extension host terminating: renderer closed the MessagePort
+2025-02-14 08:59:05.352 [error] Canceled: Canceled
+    at new IT (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at kh.L [as value] (/usr/lib/code/extensions/git/dist/main.js:2:975601)
+    at P.B (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/usr/lib/code/extensions/git/dist/main.js:2:997158)
+    at /usr/lib/code/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/usr/lib/code/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-02-14 08:59:05.357 [error] Canceled: Canceled
+    at new IT (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at a.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/usr/lib/code/extensions/github/dist/extension.js:2:328633)
+    at /usr/lib/code/extensions/github/dist/extension.js:2:329592
+    at kh.value (/usr/lib/code/extensions/git/dist/main.js:2:1088462)
+    at P.B (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/usr/lib/code/extensions/git/dist/main.js:2:997158)
+    at /usr/lib/code/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/usr/lib/code/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-02-14 08:59:05.363 [info] Extension host with pid 21238 exiting with code 0

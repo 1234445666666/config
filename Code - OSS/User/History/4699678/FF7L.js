@@ -1,0 +1,93 @@
+// Темная и светлая тема
+const themeDark = document.querySelector(".theme-dark");
+const themeLight = document.querySelector(".theme-light");
+
+themeDark.addEventListener("click", () => {
+  document.body.classList.add("dark");
+  localStorage.setItem("theme", "dark"); // Сохраняем тему
+});
+
+themeLight.addEventListener("click", () => {
+  document.body.classList.remove("dark");
+  localStorage.setItem("theme", "light"); // Сохраняем тему
+});
+
+// Загружаем тему при загрузке страницы
+window.addEventListener("load", () => {
+  const savedTheme = localStorage.getItem("theme");
+  if (savedTheme === "dark") {
+    document.body.classList.add("dark");
+  } else {
+    document.body.classList.remove("dark");
+  }
+});
+
+// Кнопки
+const Input = document.querySelector(".main__input");
+const btnAdd = document.querySelector(".main__add");
+const btnRemoveONE = document.querySelector(".main__removeOne");
+const btnRemoveALL = document.querySelector(".main__removeAll");
+const list = document.querySelector(".main__list");
+const wrapper = document.querySelector(".main__wrapper");
+const numberTasks = document.querySelector(".header__span");
+
+// Добавление задачи
+btnAdd.addEventListener("click", () => {
+  if (Input.value !== "") {
+    const li = document.createElement("li");
+    li.textContent = Input.value;
+    list.appendChild(li);
+    Input.value = "";
+    updateTaskCount(); // Обновляем счетчик задач
+    saveData(); // Сохраняем данные
+  } else {
+    alert("Введите задачу");
+  }
+});
+
+// Удаление одной задачи
+btnRemoveONE.addEventListener("click", () => {
+  if (list.lastElementChild) {
+    list.removeChild(list.lastElementChild);
+    updateTaskCount(); // Обновляем счетчик задач
+    saveData(); // Сохраняем данные
+  }
+});
+
+// Удаление всех задач
+btnRemoveALL.addEventListener("click", () => {
+  list.innerHTML = "";
+  updateTaskCount(); // Обновляем счетчик задач
+  saveData(); // Сохраняем данные
+});
+
+// Удаление задачи через клик на элемент списка
+wrapper.addEventListener("click", (event) => {
+  if (event.target.tagName === "LI") {
+    event.target.classList.toggle("removeLi");
+    saveData(); // Сохраняем данные
+  }
+});
+
+// Сохранение данных
+function saveData() {
+  localStorage.setItem("data", list.innerHTML);
+  localStorage.setItem("taskCount", list.childElementCount); // Сохраняем количество задач
+}
+
+// Загрузка данных
+function loadData() {
+  list.innerHTML = localStorage.getItem("data") || "";
+  numberTasks.textContent = localStorage.getItem("taskCount") || 0; // Загружаем количество задач
+}
+
+// Обновление счетчика задач
+function updateTaskCount() {
+  const count = list.childElementCount;
+  numberTasks.textContent = count;
+}
+
+// Загрузка данных при загрузке страницы
+window.addEventListener("load", () => {
+  loadData();
+});

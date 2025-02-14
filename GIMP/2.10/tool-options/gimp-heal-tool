@@ -1,0 +1,11 @@
+# GIMP gimp-heal-tool options
+
+(foreground (color-rgb 0.73725491762161255 0.44705882668495178 0.3490196168422699))
+(background (color-rgb 0.88627451658248901 0.62745100259780884 0.46274510025978088))
+(brush "1. Pixel")
+(dynamics "Dynamics Off")
+(palette "Color History")
+(brush-size 3)
+(brush-spacing 0.20000000000000001)
+
+# end of gimp-heal-tool options

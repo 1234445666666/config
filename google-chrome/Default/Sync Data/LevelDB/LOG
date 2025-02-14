@@ -1,0 +1,60 @@
+2025/02/13-12:42:47.009 339 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/02/13-12:42:47.014 339 Recovering log #528
+2025/02/13-12:42:47.020 339 Reusing old log /home/pasha/.config/google-chrome/Default/Sync Data/LevelDB/000528.log 
+2025/02/13-13:11:09.551 33a Level-0 table #532: started
+2025/02/13-13:11:09.566 33a Level-0 table #532: 96917 bytes OK
+2025/02/13-13:11:09.568 33a Delete type=0 #528
+2025/02/13-13:46:18.264 33a Level-0 table #534: started
+2025/02/13-13:46:18.270 33a Level-0 table #534: 156496 bytes OK
+2025/02/13-13:46:18.272 33a Delete type=0 #531
+2025/02/13-13:46:18.272 33a Compacting 4@0 + 1@1 files
+2025/02/13-13:46:18.276 33a Generated table #535@0: 308 keys, 40240 bytes
+2025/02/13-13:46:18.277 33a Compacted 4@0 + 1@1 files => 40240 bytes
+2025/02/13-13:46:18.278 33a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/13-13:46:18.278 33a Delete type=2 #527
+2025/02/13-13:46:18.278 33a Delete type=2 #534
+2025/02/13-13:46:18.278 33a Delete type=2 #529
+2025/02/13-13:46:18.278 33a Delete type=2 #525
+2025/02/13-13:46:18.278 33a Delete type=2 #532
+2025/02/13-14:32:58.386 346 Level-0 table #537: started
+2025/02/13-14:32:58.388 346 Level-0 table #537: 166359 bytes OK
+2025/02/13-14:32:58.390 346 Delete type=0 #533
+2025/02/13-14:52:06.433 339 Level-0 table #539: started
+2025/02/13-14:52:06.452 339 Level-0 table #539: 90491 bytes OK
+2025/02/13-14:52:06.455 339 Delete type=0 #536
+2025/02/13-15:56:47.763 339 Level-0 table #541: started
+2025/02/13-15:56:47.778 339 Level-0 table #541: 88137 bytes OK
+2025/02/13-15:56:47.779 339 Delete type=0 #538
+2025/02/13-22:53:54.808 346 Level-0 table #543: started
+2025/02/13-22:53:54.814 346 Level-0 table #543: 91452 bytes OK
+2025/02/13-22:53:54.817 346 Delete type=0 #540
+2025/02/13-22:53:54.817 346 Compacting 4@0 + 1@1 files
+2025/02/13-22:53:54.821 346 Generated table #544@0: 308 keys, 37742 bytes
+2025/02/13-22:53:54.821 346 Compacted 4@0 + 1@1 files => 37742 bytes
+2025/02/13-22:53:54.824 346 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/13-22:53:54.824 346 Delete type=2 #535
+2025/02/13-22:53:54.824 346 Delete type=2 #537
+2025/02/13-22:53:54.824 346 Delete type=2 #539
+2025/02/13-22:53:54.824 346 Delete type=2 #541
+2025/02/13-22:53:54.824 346 Delete type=2 #543
+2025/02/13-23:03:35.888 338 Level-0 table #546: started
+2025/02/13-23:03:35.896 338 Level-0 table #546: 83418 bytes OK
+2025/02/13-23:03:35.899 338 Delete type=0 #542
+2025/02/13-23:11:11.219 349 Level-0 table #548: started
+2025/02/13-23:11:11.226 349 Level-0 table #548: 88334 bytes OK
+2025/02/13-23:11:11.228 349 Delete type=0 #545
+2025/02/14-09:33:58.245 339 Level-0 table #550: started
+2025/02/14-09:33:58.256 339 Level-0 table #550: 86617 bytes OK
+2025/02/14-09:33:58.259 339 Delete type=0 #547
+2025/02/14-09:46:06.687 339 Level-0 table #552: started
+2025/02/14-09:46:06.693 339 Level-0 table #552: 84871 bytes OK
+2025/02/14-09:46:06.695 339 Delete type=0 #549
+2025/02/14-09:46:06.695 339 Compacting 4@0 + 1@1 files
+2025/02/14-09:46:06.698 339 Generated table #553@0: 308 keys, 40562 bytes
+2025/02/14-09:46:06.698 339 Compacted 4@0 + 1@1 files => 40562 bytes
+2025/02/14-09:46:06.699 339 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/14-09:46:06.700 339 Delete type=2 #548
+2025/02/14-09:46:06.700 339 Delete type=2 #546
+2025/02/14-09:46:06.700 339 Delete type=2 #550
+2025/02/14-09:46:06.700 339 Delete type=2 #544
+2025/02/14-09:46:06.700 339 Delete type=2 #552

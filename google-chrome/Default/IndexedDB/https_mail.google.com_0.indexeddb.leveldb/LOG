@@ -1,0 +1,13 @@
+2025/02/11-09:30:32.168 80d5 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/11-09:30:32.168 80d5 Recovering log #3
+2025/02/11-09:30:32.179 80d5 Reusing old log /home/pasha/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2025/02/11-09:30:47.379 80d6 Level-0 table #5: started
+2025/02/11-09:30:47.400 80d6 Level-0 table #5: 2970082 bytes OK
+2025/02/11-09:30:47.402 80d6 Delete type=0 #3
+2025/02/11-09:32:56.298 80d6 Level-0 table #7: started
+2025/02/11-09:32:56.323 80d6 Level-0 table #7: 3041704 bytes OK
+2025/02/11-09:32:56.326 80d6 Delete type=0 #4
+2025/02/11-09:35:36.752 80d5 Compacting 1@1 + 1@2 files
+2025/02/11-09:35:36.795 80d5 Generated table #8@1: 82 keys, 184748 bytes
+2025/02/11-09:35:36.795 80d5 Compacted 1@1 + 1@2 files => 184748 bytes
+2025/02/11-09:35:36.797 80d5 compacted to: files[ 0 0 1 0 0 0 0 ]

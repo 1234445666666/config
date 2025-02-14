@@ -1,0 +1,6 @@
+2025/01/28-17:34:43.193 21e7 Creating DB /home/pasha/.config/google-chrome/Default/IndexedDB/https_gamma.app_0.indexeddb.leveldb since it was missing.
+2025/01/28-17:34:43.195 21e7 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_gamma.app_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/29-12:40:25.871 21e8 Level-0 table #5: started
+2025/01/29-12:40:25.893 21e8 Level-0 table #5: 344495 bytes OK
+2025/01/29-12:40:25.895 21e8 Delete type=0 #3
+2025/01/29-12:40:25.896 21e8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

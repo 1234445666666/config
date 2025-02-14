@@ -1,0 +1,15 @@
+2025/02/10-15:38:44.809 80d6 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/10-15:38:44.810 80d6 Recovering log #109
+2025/02/10-15:38:44.815 80d6 Reusing old log /home/pasha/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000109.log 
+2025/02/11-11:02:02.256 80d6 Level-0 table #114: started
+2025/02/11-11:02:02.267 80d6 Level-0 table #114: 1127642 bytes OK
+2025/02/11-11:02:02.269 80d6 Delete type=0 #109
+2025/02/11-11:02:02.269 80d6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/02/11-11:02:02.269 80d6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x10\x02\x1f\x03\x00\x10\xb0d\x03OyB\x00\x03\x00\x00\x00\x00\x00\xe0j@' @ 100716 : 1
+2025/02/11-11:02:02.269 80d6 Compacting 1@1 + 1@2 files
+2025/02/11-11:02:02.273 80d6 Generated table #115@1: 320 keys, 69001 bytes
+2025/02/11-11:02:02.273 80d6 Compacted 1@1 + 1@2 files => 69001 bytes
+2025/02/11-11:02:02.275 80d6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/11-11:02:02.275 80d6 Delete type=2 #111
+2025/02/11-11:02:02.275 80d6 Delete type=2 #114
+2025/02/11-11:02:02.276 80d6 Manual compaction at level-1 from '\x00\x10\x02\x1f\x03\x00\x10\xb0d\x03OyB\x00\x03\x00\x00\x00\x00\x00\xe0j@' @ 100716 : 1 .. (end); will stop at (end)

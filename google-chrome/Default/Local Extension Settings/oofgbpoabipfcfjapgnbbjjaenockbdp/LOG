@@ -1,0 +1,9 @@
+2025/02/13-12:42:47.484 339 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/Local Extension Settings/oofgbpoabipfcfjapgnbbjjaenockbdp/MANIFEST-000001
+2025/02/13-12:42:47.485 339 Recovering log #12
+2025/02/13-12:42:47.486 339 Reusing old log /home/pasha/.config/google-chrome/Default/Local Extension Settings/oofgbpoabipfcfjapgnbbjjaenockbdp/000012.log 
+2025/02/13-22:53:34.972 339 Compacting 1@1 + 1@2 files
+2025/02/13-22:53:34.981 339 Generated table #16@1: 30 keys, 25901 bytes
+2025/02/13-22:53:34.981 339 Compacted 1@1 + 1@2 files => 25901 bytes
+2025/02/13-22:53:34.983 339 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/13-22:53:34.984 339 Delete type=2 #14
+2025/02/13-22:53:34.984 339 Delete type=2 #5

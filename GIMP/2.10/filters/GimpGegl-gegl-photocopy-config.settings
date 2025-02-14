@@ -1,0 +1,16 @@
+# settings
+
+(GimpGegl-gegl-photocopy-config "2024-12-12 17:15:46"
+    (time 1734012946)
+    (mask-radius 10)
+    (sharpness 0.5)
+    (black 0.20000000000000001)
+    (white 0.20000000000000001))
+(GimpGegl-gegl-photocopy-config "2024-12-12 17:15:39"
+    (time 1734012939)
+    (mask-radius 21.512)
+    (sharpness 0.5)
+    (black 0.45600000000000002)
+    (white 0.503))
+
+# end of settings

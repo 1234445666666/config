@@ -1,0 +1,119 @@
+2025-02-13 14:51:23.860 [info] [main] Log level: Info
+2025-02-13 14:51:23.860 [info] [main] Validating found git in: "git"
+2025-02-13 14:51:23.860 [info] [main] Using git "2.47.1" from "git"
+2025-02-13 14:51:23.860 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-13 14:51:23.860 [info] > git rev-parse --show-toplevel [19ms]
+2025-02-13 14:51:23.860 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:23.860 [info] > git rev-parse --show-toplevel [18ms]
+2025-02-13 14:51:23.860 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:23.861 [info] > git rev-parse --show-toplevel [10ms]
+2025-02-13 14:51:23.861 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.086 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.086 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.094 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.094 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.102 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.102 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.109 [info] > git rev-parse --show-toplevel [0ms]
+2025-02-13 14:51:24.109 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.116 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.116 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.123 [info] > git rev-parse --show-toplevel [0ms]
+2025-02-13 14:51:24.123 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.131 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.131 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.137 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.137 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.144 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.144 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.151 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.151 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.158 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.158 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.167 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.167 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.173 [info] > git rev-parse --show-toplevel [0ms]
+2025-02-13 14:51:24.173 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.180 [info] > git rev-parse --show-toplevel [0ms]
+2025-02-13 14:51:24.180 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.189 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.189 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.211 [info] > git rev-parse --show-toplevel [2ms]
+2025-02-13 14:51:24.211 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.234 [info] > git rev-parse --show-toplevel [10ms]
+2025-02-13 14:51:24.234 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.245 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.245 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.258 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.258 [info] fatal: not a git repository: /home/pasha/.config/nvim/../.git/modules/nvim
+2025-02-13 14:51:24.269 [info] > git rev-parse --show-toplevel [2ms]
+2025-02-13 14:51:24.269 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.280 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.280 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.289 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.289 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.296 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.296 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.304 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-13 14:51:24.304 [info] fatal: not a git repository: /home/pasha/.config/st/../.git/modules/st
+2025-02-13 14:51:24.324 [info] > git rev-parse --show-toplevel [10ms]
+2025-02-13 14:51:24.324 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:51:24.324 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-02-13 14:51:24.341 [info] > git rev-parse --show-toplevel [5ms]
+2025-02-13 14:51:24.341 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-02-13 14:52:58.096 [info] > git rev-parse --show-toplevel [3ms]
+2025-02-13 14:52:58.113 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-02-13 14:52:58.126 [info] [Model][openRepository] Opened repository: /home/pasha/.config
+2025-02-13 14:52:58.149 [info] > git config --get commit.template [11ms]
+2025-02-13 14:52:58.165 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-13 14:52:58.169 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2025-02-13 14:52:58.169 [warning] [Git][getBranch] No such branch: master
+2025-02-13 14:52:58.197 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-02-13 14:52:58.232 [info] > git status -z -uall [49ms] (cancelled)
+2025-02-13 14:52:58.473 [info] > git show --textconv :neofetch/config.conf [20ms]
+2025-02-13 14:52:58.475 [info] > git ls-files --stage -- /home/pasha/.config/neofetch/config.conf [3ms]
+2025-02-13 14:52:58.720 [info] > git check-ignore -v -z --stdin [4ms]
+2025-02-13 14:53:39.511 [info] > git ls-files --stage -- /home/pasha/.config/neofetch/config.conf [3ms]
+2025-02-13 14:53:39.539 [info] > git show --textconv :neofetch/config.conf [3ms]
+2025-02-13 14:53:56.463 [info] > git ls-files --stage -- /home/pasha/.config/neofetch/config.conf [3ms]
+2025-02-13 14:53:56.479 [info] > git show --textconv :neofetch/config.conf [1ms]
+2025-02-13 14:54:11.663 [info] > git ls-files --stage -- /home/pasha/.config/neofetch/config.conf [3ms]
+2025-02-13 14:54:11.681 [info] > git show --textconv :neofetch/config.conf [1ms]
+2025-02-13 14:55:18.267 [info] > git ls-files --stage -- /home/pasha/.config/neofetch/config.conf [4ms]
+2025-02-13 14:55:18.283 [info] > git show --textconv :neofetch/config.conf [2ms]
+2025-02-13 14:55:23.946 [info] > git ls-files --stage -- /home/pasha/.config/neofetch/config.conf [4ms]
+2025-02-13 14:55:23.965 [info] > git show --textconv :neofetch/config.conf [0ms]
+2025-02-13 14:55:54.370 [info] > git show --textconv :i3/scripts/toggle-polybar.sh [15ms]
+2025-02-13 14:55:54.372 [info] > git ls-files --stage -- /home/pasha/.config/i3/scripts/toggle-polybar.sh [3ms]
+2025-02-13 14:56:06.694 [info] > git ls-files --stage -- /home/pasha/.config/i3/scripts/toggle-polybar.sh [4ms]
+2025-02-13 14:56:06.716 [info] > git show --textconv :i3/scripts/toggle-polybar.sh [1ms]
+2025-02-13 14:57:12.383 [info] > git ls-files --stage -- /home/pasha/.config/i3/scripts/toggle-polybar.sh [3ms]
+2025-02-13 14:57:12.409 [info] > git show --textconv :i3/scripts/toggle-polybar.sh [2ms]
+2025-02-13 14:58:16.688 [info] > git check-ignore -v -z --stdin [2ms]

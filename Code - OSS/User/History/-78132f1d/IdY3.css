@@ -1,0 +1,36 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form__money {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+input[type = number] {
+
+    width: 300px;
+    height: 20px;
+}
+
+
+   

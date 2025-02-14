@@ -1,0 +1,27 @@
+.header {
+    background-color: darkblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    height: 100px;
+
+}
+
+.logo {
+    border-radius: 50px;
+    width: 80px;
+    height: 80px;
+}
+
+.header__nav {
+    display: flex;
+    align-items: center;
+}
+
+.header__list {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    color: white;
+}

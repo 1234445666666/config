@@ -1,0 +1,15 @@
+2025/02/10-18:34:06.896 80d7 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/IndexedDB/https_vk.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/10-18:34:06.896 80d7 Recovering log #15
+2025/02/10-18:34:06.899 80d7 Reusing old log /home/pasha/.config/google-chrome/Default/IndexedDB/https_vk.com_0.indexeddb.leveldb/000015.log 
+2025/02/10-18:36:28.299 80d6 Level-0 table #20: started
+2025/02/10-18:36:28.309 80d6 Level-0 table #20: 959408 bytes OK
+2025/02/10-18:36:28.312 80d6 Delete type=0 #15
+2025/02/10-18:36:28.313 80d6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/02/10-18:36:28.313 80d6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x02\x01F\x00m\x00e\x00s\x00s\x00a\x00g\x00e\x00s\x00.\x00g\x00e\x00t\x00L\x00o\x00n\x00g\x00P\x00o\x00l\x00l\x00S\x00e\x00r\x00v\x00e\x00r\x00 \x00{\x00"\x00n\x00e\x00e\x00d\x00_\x00p\x00t\x00s\x00"\x00:\x001\x00,\x00"\x00l\x00p\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n\x00"\x00:\x002\x001\x00,\x00"\x00g\x00r\x00o\x00u\x00p\x00_\x00i\x00d\x00"\x00:\x000\x00}' @ 2928 : 1
+2025/02/10-18:36:28.313 80d6 Compacting 1@1 + 1@2 files
+2025/02/10-18:36:28.317 80d6 Generated table #21@1: 176 keys, 70976 bytes
+2025/02/10-18:36:28.317 80d6 Compacted 1@1 + 1@2 files => 70976 bytes
+2025/02/10-18:36:28.318 80d6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/10-18:36:28.319 80d6 Delete type=2 #17
+2025/02/10-18:36:28.319 80d6 Delete type=2 #20
+2025/02/10-18:36:28.319 80d6 Manual compaction at level-1 from '\x00\x09\x01\x02\x01F\x00m\x00e\x00s\x00s\x00a\x00g\x00e\x00s\x00.\x00g\x00e\x00t\x00L\x00o\x00n\x00g\x00P\x00o\x00l\x00l\x00S\x00e\x00r\x00v\x00e\x00r\x00 \x00{\x00"\x00n\x00e\x00e\x00d\x00_\x00p\x00t\x00s\x00"\x00:\x001\x00,\x00"\x00l\x00p\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n\x00"\x00:\x002\x001\x00,\x00"\x00g\x00r\x00o\x00u\x00p\x00_\x00i\x00d\x00"\x00:\x000\x00}' @ 2928 : 1 .. (end); will stop at (end)

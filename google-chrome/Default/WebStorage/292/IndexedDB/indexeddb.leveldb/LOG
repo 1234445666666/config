@@ -1,0 +1,18 @@
+2025/02/11-10:12:16.687 80d7 Creating DB /home/pasha/.config/google-chrome/Default/WebStorage/292/IndexedDB/indexeddb.leveldb since it was missing.
+2025/02/11-10:12:16.689 80d7 Reusing MANIFEST /home/pasha/.config/google-chrome/Default/WebStorage/292/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/02/11-10:12:17.249 80d7 Level-0 table #5: started
+2025/02/11-10:12:17.251 80d7 Level-0 table #5: 2720 bytes OK
+2025/02/11-10:12:17.253 80d7 Delete type=0 #3
+2025/02/11-10:12:17.253 80d5 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/11-10:12:27.075 80d6 Level-0 table #7: started
+2025/02/11-10:12:27.078 80d6 Level-0 table #7: 15165 bytes OK
+2025/02/11-10:12:27.079 80d6 Delete type=0 #4
+2025/02/11-10:12:27.080 80d6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/02/11-10:12:27.080 80d6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x00\xad\xa1=OyB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 353 : 1
+2025/02/11-10:12:27.080 80d6 Compacting 1@1 + 1@2 files
+2025/02/11-10:12:27.082 80d6 Generated table #8@1: 64 keys, 3981 bytes
+2025/02/11-10:12:27.083 80d6 Compacted 1@1 + 1@2 files => 3981 bytes
+2025/02/11-10:12:27.084 80d6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/11-10:12:27.084 80d6 Delete type=2 #7
+2025/02/11-10:12:27.085 80d6 Delete type=2 #5
+2025/02/11-10:12:27.085 80d6 Manual compaction at level-1 from '\x00\x04\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x00\xad\xa1=OyB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 353 : 1 .. (end); will stop at (end)
